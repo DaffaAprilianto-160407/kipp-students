@@ -2,7 +2,7 @@
 title: "Character Map"
 week: 1
 status: "Siap dinilai"
-self_score: "15 / 20"
+self_score: "16 / 20"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
 categories: [Fondasi, Person]
@@ -22,118 +22,90 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 [Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-::: {.callout-note title="Ringkasan minggu ini"}
-Saya memetakan lima character dalam empat domain kehidupan dan menganalisis satu situasi nyata: gathering mahasiswa magang Tech Insight, ketika saya diam mematung saat game tebak film. Temuan utamanya adalah sebuah kontras. Saya mudah menyesuaikan gaya bicara dengan teman yang sudah akrab, tetapi kemampuan itu tidak muncul di situasi asing yang ditonton banyak orang. Sasaran saya: ketika bingung, saya tidak diam, melainkan menyatakannya dalam 10 detik pertama.
-:::
+## Lima character
 
-## Peta character saya
+| Domain dan character | Person & relationship | Objective & responsibility | Repertoire & language | Risiko dan latihan |
+|---|---|---|---|---|
+| Intra-Self — pembelajar gigih | Diri sendiri, terutama saat menghadapi hasil yang tidak sesuai harapan | Memastikan usaha sudah maksimal agar tidak ada penyesalan atas hasil apa pun | Dialog internal jujur, evaluasi diri, pengulangan materi secara konsisten | Terlalu keras ke diri sendiri; latihan memisahkan kualitas usaha dari hasil akhir |
+| Family/Friends — sahabat inklusif | Teman-teman di lingkungan kuliah, termasuk yang belum akrab | Menjaga kenyamanan dan keterbukaan tanpa membentuk circle eksklusif | Adaptasi gaya bicara (santai/bercanda vs tenang) sesuai lawan bicara | Diam saat topik sensitif; latihan menegur secara halus dalam <10 detik |
+| Work/Profesional — anggota tim proyek PRD | 4 rekan satu kelompok tugas besar (inisial T, R, M, A), awalnya belum akrab | Mengklarifikasi ambiguitas spesifikasi tugas dan membagi peran secara adil agar proyek selesai tepat waktu | Bertanya informal ke kelompok, bertanya formal ke dosen, pembagian kerja eksplisit | Canggung/diam di awal kelompok baru sempat memperlambat klarifikasi; latihan mempercepat keakraban tim baru |
+| Community — panitia lomba, divisi competition | Peserta lomba dan sesama panitia | Menyusun soal berkualitas dan mengawasi jalannya lomba secara adil | Instruksi tertulis (soal), teguran langsung saat mengawas | Menghindari konfrontasi; latihan tetap tegas demi keadilan kompetisi |
+| Dunia/Publik — pemberi opini teknis hardware | Teman di luar circle akademik | Menyampaikan argumen berbasis data (spek, harga, performa) secara meyakinkan | Perbandingan teknis, analogi harga-performa | Terlalu teknis/menggurui; latihan menyederhanakan penjelasan untuk audiens non-teknis |
 
-Peta ini memakai kerangka tiga lapis. **Pribadi** adalah saya sebagai manusia utuh, **kepribadian** adalah kecenderungan saya, dan **character** adalah peran yang saya jalankan di situasi tertentu.
+## Episode yang dianalisis
 
-**Pribadi:** Saya anak kedua dan satu-satunya anak laki-laki dari tiga bersaudara. Saya suka membaca berita teknologi, terutama seputar komputer, dan ingin berguna bagi masyarakat lewat pemahaman teknologi.
+**Konteks:** Kelompok saya (5 orang) mengerjakan tugas besar mata kuliah Pengenalan Rekayasa dan Desain (PRD), membangun aplikasi navigasi kelas bernama **FindMyClass**. Kami sudah menyelesaikan prototype berbasis software saja, namun muncul ketidakjelasan apakah spesifikasi tugas mengharuskan adanya komponen hardware atau cukup software saja.
 
-**Kepribadian (kecenderungan, bukan takdir):** Saya mudah menyesuaikan gaya bicara dengan lawan bicara, humoris di depan keluarga, dan berusaha proaktif menyampaikan ide di kelompok. Namun saya cenderung diam mematung ketika tidak tahu harus berbuat apa di depan banyak orang.
+**Objective:** Mendapatkan kejelasan spesifikasi tugas dari sumber yang berwenang (dosen), lalu menyesuaikan proposal dan prototype tanpa harus membangun ulang dari nol.
 
-### Lima character dari empat domain kehidupan
+> Saya mengusulkan ke kelompok, "Woi ini tugas gimana, harus ada hardware atau ngga?"
+>
+> Kelompok setuju untuk mengonfirmasi ke dosen, dan pertanyaan itu saya sampaikan langsung saat sesi perkuliahan: "Siang pak, mau nanya, ini tugasnya harus ada hardwarenya atau ngga ya?" Dosen menjawab bahwa proyek **harus** menyertakan komponen hardware, dan menawarkan opsi solusi berupa ESP32 atau ESP8266.
 
-| Domain | Character | Objective | Responsibility | Repertoire | Risiko |
-|---|---|---|---|---|---|
-| Diri | Pembelajar mandiri yang mengikuti berita teknologi | Tetap memahami perkembangan teknologi sebagai bekal berguna bagi orang lain | Menyaring informasi dan tidak menyebarkan hal yang belum saya pahami | Membaca berita teknologi dan merangkumnya untuk diri sendiri | Hanya mengonsumsi berita tanpa memeriksa akurasinya atau tanpa menyalurkannya menjadi manfaat |
-| Keluarga | Anak kedua dan satu-satunya anak laki-laki dari tiga bersaudara | Menjaga kedekatan dengan saudara perempuan dan suasana hangat di keluarga | Hadir sebagai anggota keluarga yang menyenangkan | Humor dan bercanda | Humor bisa menutupi hal serius yang perlu dibicarakan |
-| Sahabat | Teman yang ingin akrab dengan semua orang tanpa membentuk circle | Membuat orang nyaman berkomunikasi dengan saya | Menghargai gaya berteman tiap orang dan menjaga batasan | Menyesuaikan gaya bahasa dengan lawan bicara sambil tahu batas | Membatasi diri dari orang yang tidak cocok bisa terbaca sebagai penolakan, padahal maksud saya hanya menjaga jarak |
-| Akademik | Anggota kelompok tugas | Menghasilkan tugas kelompok yang matang lewat pertukaran ide | Ikut menyumbang ide dan tidak sekadar mengiyakan pendapat teman | Menyampaikan ide, memberi argumen atas ide teman | Argumen bisa terasa seperti menyerang ide teman jika tidak menjaga relasi |
-| Komunitas | Anggota magang divisi Tech Insight (Departemen Community Service, HMIF) | Beradaptasi, mengenal ketua dan wakil divisi serta sesama anggota, dan kelak ikut menyusun kajian isu teknologi | Menyimak arahan ketua dan wakil divisi, serta membangun relasi dengan anggota baru | Mendengarkan, memperkenalkan diri, mengobrol seputar berita teknologi | Diam mematung ketika tidak tahu harus berbuat apa, seperti saat game tebak film di gathering |
+Setelah mendapat kejelasan tersebut, kelompok langsung berdiskusi mencari solusi yang tidak mengharuskan membangun produk baru dari awal. Hasil diskusi memutuskan untuk **menambahkan modul ESP8266** sebagai komponen hardware, yang diintegrasikan ke pengembangan proposal dan prototype yang sudah ada. Pembagian kerja baru langsung disepakati: saya bersama **T** dan **R** menangani bagian backend dan hardware (integrasi ESP8266), sementara **M** dan **A** menangani frontend.
 
-**Arah pengembangan (belum dijalankan, tidak dihitung sebagai evidence):** domain Publik. Saya ingin suatu saat membuka proker konsultasi komputer di divisi Tech Insight, agar mahasiswa yang bingung memilih atau memperbaiki laptop, PC, atau HP bisa bertanya dan mendapat solusi. Character yang akan saya jalankan adalah pemberi "pencerdasan" teknologi. Risikonya: saran yang keliru atau terlalu rumit bagi orang awam.
+Response dosen (informasi baru soal wajibnya hardware) mengubah arah kerja kelompok dari sekadar "menyempurnakan software" menjadi "mengintegrasikan hardware murah dan ringkas" — sebuah adaptasi cepat tanpa mengorbankan progres yang sudah dibuat, sekaligus memperjelas pembagian tanggung jawab tiap anggota.
 
-### Contoh perubahan language ketika character berubah
+## Perubahan language
 
-Dalam pertemanan, character saya tetap "teman", tetapi language saya berubah mengikuti lawan bicara. Berikut dua kalimat yang biasa saya ucapkan saat menyapa dua teman yang berbeda. Tujuannya sama, yaitu menanyakan tugas KIPP. Nama teman saya samarkan.
+Sebagai **anggota kelompok**, saya menggunakan bahasa santai dan langsung ke rekan setingkat: "Woi ini tugas gimana, harus ada hardware atau ngga?" — nada informal, akrab, tanpa basa-basi karena relasi yang setara.
 
-- **Teman A (bercandanya blak-blakan):** "woi [nama], makin item lu (konteksnya bercanda), tugas KIPP gimana?"
-- **Teman B (lebih sopan, tidak suka ejekan):** "[nama], lu gimana tugas KIPP? Ni gw bingung deadlinenya kapan."
+Sebagai **mahasiswa yang bertanya ke dosen**, saya beralih ke bahasa yang lebih sopan dan terstruktur: "Siang pak, mau nanya, ini tugasnya harus ada hardwarenya atau ngga ya?" — tetap mempertahankan rasa ingin tahu yang sama, namun disesuaikan dengan salam pembuka dan nada hormat sesuai relasi dosen-mahasiswa.
 
-| Aspek | Teman A (blak-blakan) | Teman B (lebih sopan) |
-|---|---|---|
-| Pilihan kata | Informal (woi, lu) dan disertai ejekan ringan | Tetap informal (lu, gw), tetapi tanpa ejekan |
-| Bercanda | Mengejek ringan sebagai bentuk keakraban | Tidak mengejek |
-| Cara menyampaikan kebutuhan | Menyapa dengan candaan, lalu menanyakan tugas | Menanyakan tugas sambil mengakui bahwa saya sendiri bingung soal deadline |
-| Alasan pemilihan | Saya mengikuti cara mereka bercanda, sambil tahu batas | Saya mengikuti cara dia berbicara karena dia tidak suka ejekan |
-| Yang tetap sama | Tujuan menanyakan tugas KIPP, nilai kenyamanan, dan batas saya sendiri | Tujuan menanyakan tugas KIPP, nilai kenyamanan, dan batas saya sendiri |
-
-Yang berubah adalah pilihan kata, candaan, dan cara membuka percakapan. Yang tidak berubah adalah tujuan, nilai kenyamanan, dan batas saya. Inilah yang saya pahami sebagai keaslian: nilai inti tetap utuh, sementara cara hadir menyesuaikan lawan bicara.
-
-Ada satu temuan penting dari kalimat kedua: kepada teman yang nyaman, saya dengan mudah mengatakan "gw bingung". Kemampuan yang sama tidak saya pakai saat gathering. Jadi yang perlu saya latih bukan kemampuan baru, melainkan keberanian memakainya di situasi asing.
+Meskipun kata-kata dan tingkat formalitas berubah signifikan antara kedua konteks, tujuan inti (mencari kejelasan spesifikasi tugas) dan rasa penasaran yang mendasarinya tetap sama — hanya cara penyampaian yang menyesuaikan dengan siapa saya berbicara.
 
 ## Konteks performance
 
-**Tanggal dan setting:** 20 September 2026. Gathering mahasiswa magang divisi Tech Insight (Departemen Community Service, Himpunan Mahasiswa Informatika), digabung dengan divisi Tech Action. Bentuk kegiatan: perkenalan dan permainan tebak film dengan cara memeragakan.
+**Tanggal dan setting:** April 2026, semester 2, dalam rangkaian pengerjaan tugas besar mata kuliah Pengenalan Rekayasa dan Desain (PRD) — Institut Teknologi Bandung.
 
-**Persons dan relationship:** Ketua divisi dan wakil ketua divisi Tech Insight (senior yang baru saya kenal), sesama anggota magang, dan anggota divisi Tech Action. Peran saya: anggota magang baru.
+**Persons dan relationship:** Lima anggota kelompok tugas besar (saya, dan rekan berinisial T, R, M, A), yang pada awal proyek belum begitu saling akrab.
 
-**Objective dan initial state:** Objective saya mengenal ketua, wakil, dan sesama anggota, serta ikut berpartisipasi dalam kegiatan. State awal: ini pertemuan pertama, belum ada pekerjaan kajian, belum saling kenal dekat, dan saya merasa nyaman.
+**Objective dan initial state:** Prototype aplikasi navigasi kelas "FindMyClass" sudah selesai dalam versi software-only. State awal: ambiguitas spesifikasi tugas mengenai wajib-tidaknya komponen hardware, yang sempat tidak terselesaikan sekitar satu minggu karena kelompok masih canggung berkomunikasi satu sama lain.
 
 ## Evidence
 
 ::: {.evidence-block}
-Evidence ini berupa catatan pengalaman pribadi. Belum ada dokumentasi atau catatan observer. Catatan ini berdasarkan pengamatan saya sendiri; respons orang lain yang saya tulis adalah yang saya lihat langsung.
+Bukti pendukung episode berupa screenshot diskusi kelompok dapat diakses melalui folder berikut: [Evidence Minggu 1 — Episode PRD](https://drive.google.com/drive/folders/1HlHzFkxuXJvJDO0O2FhDCXf31fkwOdKA?usp=sharing)
 
-Kronologi singkat:
+Isi folder: Screenshot diskusi kelompok yang menunjukkan proses klarifikasi ambiguitas spesifikasi tugas hingga kesepakatan menggunakan ESP8266 sebagai komponen hardware.
 
-1. Saya bertemu ketua dan wakil ketua divisi Tech Insight. Gathering divisi saya digabung dengan divisi Tech Action yang berada di bawah departemen yang sama.
-2. Secara umum saya merasa nyaman selama acara.
-3. Pada permainan tebak film, saya menjadi pemeraga. Saya belum pernah menonton film yang harus diperagakan, sehingga saya tidak tahu apa yang harus diperagakan.
-4. Saya hanya diam mematung.
-5. Teman-teman satu kelompok saya menjadi bingung. Saya melihat salah satu dari mereka melirik kelompok lain untuk mencari tahu film apa sebenarnya yang harus ditebak.
-
-Kontribusi saya: catatan ini seluruhnya berasal dari pengalaman saya sendiri, bukan hasil kerja kelompok.
+Kontribusi saya: Pesan yang menginisiasi pertanyaan mengenai kejelasan spesifikasi tugas merupakan kontribusi langsung saya sebagai anggota yang pertama kali mengangkat isu ini ke kelompok.
 :::
 
 ## Analisis komunikasi
 
 | Elemen | Evidence dan analisis |
 |---|---|
-| Person & character | Sebagai pribadi, saya ingin berteman dengan semua orang dan ingin orang nyaman berkomunikasi dengan saya. Kepribadian saya mudah menyesuaikan diri, tetapi cenderung diam mematung ketika tidak tahu harus berbuat apa di depan banyak orang. Character saya saat itu adalah anggota magang baru yang diharapkan aktif berkenalan dan berpartisipasi. Diam bukan cerminan nilai saya, tetapi kecenderungan otomatis yang bertentangan dengan tuntutan peran. |
-| Objective & state | Objective saya mengenal senior dan sesama anggota serta ikut berpartisipasi. Ukuran keberhasilannya ada dua: hasil (saya ikut terlibat) dan relasi (suasana tetap nyaman). Selama gathering saya merasa nyaman, tetapi state saya berubah menjadi canggung saat harus memeragakan film yang tidak saya ketahui. |
-| Repertoire & language | Repertoire yang saya pakai sepanjang acara adalah mendengarkan dan mengobrol. Saat game, repertoire saya tidak keluar sama sekali karena saya diam. Repertoire yang sebenarnya tersedia: mengatakan bahwa saya belum menonton filmnya, meminta film lain, meminta bantuan teman, atau memakai humor seperti yang biasa saya lakukan di keluarga. Mengatakan "gw bingung" sebenarnya sudah biasa saya lakukan kepada teman akrab. |
-| Response & adaptation | Respons orang lain: teman-teman satu kelompok menjadi bingung, dan salah satunya melirik kelompok lain untuk mencari tahu film yang dimaksud. Saya melihat respons itu, tetapi saya tidak beradaptasi: saya tidak menyampaikan bahwa saya belum menonton filmnya dan tidak meminta bantuan. Kontrasnya, dalam pertemanan saya biasanya memperhatikan lawan bicara lalu menyesuaikan diri, bahkan dengan mudah berkata "gw bingung" kepada teman yang nyaman (lihat tabel language). Jadi kemampuan itu sudah ada, tetapi belum muncul di situasi asing yang ditonton banyak orang. |
-| Agreement/action | Tidak ada kesepakatan atau tindakan yang saya ambil untuk keluar dari kebuntuan. Saya hanya diam. Kalimat sederhana seperti "aku belum tahu, boleh dijelaskan?" sebenarnya cukup untuk membuka jalan. |
-| Relationship outcome | Secara umum saya merasa nyaman selama gathering. Dampak langsung dari diamnya saya terlihat pada teman satu kelompok yang kebingungan dan harus mencari petunjuk sendiri. Dampaknya terhadap kesan mereka kepada saya belum saya ketahui karena saya belum meminta umpan balik. Karena itu saya memilih N sebagai pemberi umpan balik. |
+| **Person & character** | Kelompok terdiri dari 5 orang (saya, T, R, M, A) yang di awal proyek belum begitu akrab. Kecanggungan ini membuat komunikasi kelompok cenderung pasif, sehingga ambiguitas spesifikasi tugas tidak segera diklarifikasi selama sekitar satu minggu. |
+| **Objective & state** | Initial state: prototype sudah selesai dalam versi software-only, namun ambigu apakah hardware diwajibkan. Objective: mendapatkan kejelasan dari sumber otoritatif (dosen) dan menyesuaikan proyek tanpa membangun ulang dari nol. |
+| **Repertoire & language** | Ke kelompok: "Woi ini tugas gimana, harus ada hardware atau ngga?" — informal, langsung. Ke dosen: "Siang pak, mau nanya, ini tugasnya harus ada hardwarenya atau ngga ya?" — sopan, terstruktur. Register berubah signifikan sesuai relasi, namun tujuan inti (mencari kejelasan) tetap konsisten. |
+| **Response & adaptation** | Dosen menjawab hardware wajib ada, dan menawarkan opsi ESP32 atau ESP8266. Kelompok merespons cepat memilih ESP8266 agar tidak perlu membangun produk baru dari nol, hanya mengintegrasikan modul tambahan ke proposal dan prototype yang sudah ada. |
+| **Agreement/action** | Tidak ada deadline tertulis eksplisit per sub-tugas, namun kelompok langsung menyepakati pembagian kerja baru: saya bersama T dan R menangani backend dan hardware (integrasi ESP8266), sementara M dan A menangani frontend. Proyek selesai tepat waktu. |
+| **Relationship outcome** | Hubungan kelompok yang awalnya canggung berubah menjadi sangat dekat setelah proyek ini, terutama dengan R. Inisiatif mengklarifikasi ke dosen turut memperkuat kepercayaan antaranggota kelompok. |
 
-### Kaitan dengan materi kuliah
+## Penggunaan AI
 
-- **Dua ukuran komunikasi yang bertanggung jawab (hasil dan relasi):** Pada gathering, hasil yang saya cari adalah ikut terlibat, sedangkan relasi yang saya jaga adalah kenyamanan bersama. Diam mematung mengorbankan bagian hasil tanpa memberi kesempatan orang lain memahami saya.
-- **Makna dibangun lewat respons:** Karena saya diam, teman-teman tidak punya bahan untuk membaca situasi saya, sehingga mereka bingung dan salah satunya mencari petunjuk dari kelompok lain. Kalimat jujur seperti "aku belum nonton filmnya" akan memberi mereka pijakan.
-- **Keaslian:** Pada tabel language, nilai inti saya (kenyamanan) tetap utuh sementara cara hadir berubah. Tantangan saya sekarang adalah menjaga nilai yang sama di situasi asing.
+AI (Claude) digunakan untuk membantu menjelaskan pertanyaan, cerita berdasarkan kejadian nyata yang saya alami sendiri. Fakta, dialog, dan keputusan yang tercatat berasal dari ingatan saya, bukan buatan AI. Saya memeriksa ulang agar narasi tetap sesuai dengan apa yang benar-benar terjadi, dan menolak bagian mana pun dari saran AI yang terasa berlebihan atau tidak akurat terhadap ingatan saya.
 
-## Refleksi dan sasaran pertumbuhan
+## Feedback dan tindak lanjut
 
-- **Nilai utama:** Kenyamanan. Saya ingin orang merasa nyaman ketika berkomunikasi dengan saya.
-- **Kekuatan komunikasi:** Bisa beradaptasi dengan gaya bahasa orang lain. Di tugas kelompok saya juga berusaha proaktif, tidak sekadar mengiyakan, dan berani memberi ide serta argumen.
-- **Pola hambatan otomatis:** Diam mematung ketika tidak tahu harus berbuat apa di depan banyak orang, seperti pada game tebak film di gathering Tech Insight.
-- **Ketegangan peran dan kepribadian:** Saya cenderung diam mematung ketika tidak tahu harus berbuat apa, tetapi peran saya sebagai anggota magang Tech Insight menuntut saya aktif berpartisipasi dan membangun relasi dengan senior serta sesama anggota.
-- **Ketegangan kedua (pertemanan):** Saya ingin berteman dengan semua orang dan menolak circle, tetapi kenyataannya ada orang yang tidak cocok dengan gaya saya. Karena itu saya kini membatasi jarak dari orang seperti itu, tanpa memutus pertemanan.
-- **Pola yang menyatukan keduanya:** Nilai saya (kenyamanan) sudah jelas. Yang masih saya latih adalah cara menjalankannya di situasi yang sulit atau asing.
+**Feedback yang diterima:** Tidak ada feedback eksplisit dari dosen, asisten, atau anggota kelompok terkait cara saya menangani situasi ini. Refleksi berikut murni berasal dari evaluasi diri saya sendiri setelah kejadian berlalu.
 
-### Sasaran pertumbuhan perilaku
+**Adaptation/replay:** Saya menyadari bahwa kecanggungan awal kelompok (karena belum saling akrab) menjadi salah satu penyebab ambiguitas spesifikasi tugas tidak segera diklarifikasi. Setelah momen ini, saya lebih terbuka mengambil inisiatif bertanya meski situasi sosial belum sepenuhnya nyaman.
 
-- **Kondisi awal:** Pada gathering saya diam total dan tidak menyatakan bahwa saya tidak tahu.
-- **Sasaran (4 minggu):** Ketika saya tidak tahu harus berbuat apa dalam situasi kelompok, saya akan mengatakan "aku belum tahu, boleh dijelaskan?" dalam 10 detik pertama dan tidak diam. Saya melakukannya di rapat divisi dan kerja kelompok.
-- **Cara mengukur:** Setiap situasi seperti itu, saya mencatat satu baris: apakah kalimat itu saya ucapkan dalam 10 detik pertama (ya atau tidak).
-- **Rencana umpan balik:** N saya minta mengamati dan memberi tahu apakah saya masih diam atau sudah berani bertanya. Saya meminta umpan balik di akhir minggu ke-2 dan ke-4.
-- **Umpan balik jujur:** N.
+**Next practice:** Pada kelompok kerja baru berikutnya, saya akan berinisiatif memulai obrolan sederhana (perkenalan atau bertanya progres) dalam pertemuan pertama, alih-alih menunggu kelompok mencair dengan sendirinya — supaya isu atau ambiguitas teknis bisa dikomunikasikan lebih cepat, tidak tertunda seperti kasus PRD ini.
 
 ## Self-assessment
 
 | Dimensi | Skor 1–4 | Evidence singkat |
-|---|---|---|
-| Person & Character | 3 | Lima character dari empat domain terpetakan dan dibedakan dari kepribadian, dengan kaitan ke kejadian gathering. Sebagian risiko masih dugaan. |
-| Objective & State | 3 | Objective dan state awal pada gathering jelas. Perubahan state setelahnya belum terukur. |
-| Repertoire, Language & AI | 4 | Dua kalimat nyata ke dua tipe teman dibandingkan pada pilihan kata, candaan, dan cara menyampaikan kebutuhan, lengkap dengan alasan pemilihan dan nilai yang tetap sama. Penggunaan AI dideklarasikan sesuai lima poin template. |
-| Response & Adaptation | 3 | Saya membaca respons teman (bingung, melirik kelompok lain) dan menganalisis kegagalan adaptasi saya. Adaptasi ke teman berbeda terbukti lewat dua kalimat nyata. Belum ada perubahan setelah respons yang sudah diuji. |
-| Agreement, Action & Relationship | 2 | Belum ada tindakan atau umpan balik dari orang lain. Sasaran, ukuran, dan rencana umpan balik sudah dirumuskan tetapi belum diuji. |
+|---|---:|---|
+| Person & Character | 3 | Person, konteks, dan evolusi relasi (canggung → akrab) dipetakan jelas |
+| Objective & State | 3 | Initial state dan objective dinyatakan eksplisit |
+| Repertoire, Language & AI | 3 | Pergeseran register terlihat jelas (informal ke kelompok, formal ke dosen); batas AI dinyatakan jujur |
+| Response & Adaptation | 3 | Informasi baru dari dosen mengubah arah solusi dan pembagian kerja secara nyata |
+| Agreement, Action & Relationship | 4 | Pembagian kerja eksplisit, proyek selesai tepat waktu, dan relasi kelompok terbukti menguat signifikan |
 
-**Total:** 15 / 20
+**Total: 16/20 — Kompeten.** Belum level tertinggi karena analisis dinamika kekuasaan/pengaruh dalam kelompok (misal: bagaimana keputusan akhirnya disepakati bersama vs didominasi sebagian anggota) belum digali lebih dalam.
 
 ::: {.assessor-only}
 
@@ -148,34 +120,3 @@ Kontribusi saya: catatan ini seluruhnya berasal dari pengalaman saya sendiri, bu
 **Keputusan:** Belum dinilai / Perlu revisi / Tercapai
 
 :::
-
-## Penggunaan AI
-
-- **Alat dan peran AI:** Claude (Anthropic). Perannya sebagai alat bantu menjelaskan tugas dan apa yang harus dilakuka.
-- **Prompt atau instruksi penting:** Saya meminta AI jelaskan tugasnya dan apa yang harus saya lakukan.
-- **Bagian output yang digunakan, diubah, atau ditolak:** Saya memakai struktur tabel dan rumusan naratif yang disusun dari jawaban saya. Kolom risiko pada character Diri, Keluarga, dan Akademik, rumusan sasaran pertumbuhan beserta cara mengukurnya, analisis repertoire yang belum dipakai, analisis kontras adaptasi, dan bagian kaitan dengan materi kuliah. Saya tidak memasukkan kejadian yang tidak pernah saya alami.
-- **Pemeriksaan accuracy, privacy, dan authority:** Accuracy: isi berasal dari pengalaman saya dan saya membaca ulang seluruh draf sebelum dikumpulkan. Privacy: saya hanya menyebut inisial N dan tidak menuliskan data pribadi orang lain. Authority: hasil AI hanyalah usulan, dan keputusan tentang skor serta sasaran ada pada saya.
-- **Yang tetap saya pelajari sebagai manusia:** Saya menyadari pola saya yang diam ketika tidak tahu harus berbuat apa, bahwa kemampuan adaptasi saya kuat di relasi akrab tetapi belum di situasi asing, dan bahwa keinginan berteman dengan semua orang perlu diimbangi batasan.
-
-## Feedback dan tindak lanjut
-
-**Feedback yang diterima:** Belum ada umpan balik dari orang lain pada minggu ini. Saya akan meminta N mengamati dan memberi tahu apakah saya masih diam atau sudah berani bertanya dalam situasi serupa, lalu mencatat hasilnya.
-
-**Adaptation/replay:** Belum ada perubahan yang sudah diuji. Pada kesempatan kerja kelompok atau rapat divisi berikutnya, saya akan mengulang situasi serupa dengan menerapkan kalimat "aku belum tahu, boleh dijelaskan?" dan mencatat respons orang lain beserta hasil ya atau tidak dalam 10 detik pertama.
-
-**Next practice:** Mengatakan "aku belum tahu, boleh dijelaskan?" dalam 10 detik pertama ketika saya tidak tahu harus berbuat apa dalam situasi kelompok, selama 4 minggu ke depan di rapat divisi dan kerja kelompok.
-## Kompetensi target
-
-Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
-
-## Evidence wajib
-
-- Lima character dari sedikitnya tiga domain kehidupan.
-- Objective, responsibility, repertoire, dan risiko tiap character.
-- Satu contoh perubahan language ketika character berubah.
-
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
-
-{{< include ../includes/evidence-template.md >}}
