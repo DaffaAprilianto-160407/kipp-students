@@ -272,15 +272,11 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#kompetensi-target" id="toc-kompetensi-target" class="nav-link active" data-scroll-target="#kompetensi-target">Kompetensi target</a></li>
   <li><a href="#evidence-wajib" id="toc-evidence-wajib" class="nav-link" data-scroll-target="#evidence-wajib">Evidence wajib</a></li>
-  <li><a href="#konteks-performance" id="toc-konteks-performance" class="nav-link" data-scroll-target="#konteks-performance">Konteks performance</a></li>
-  <li><a href="#evidence" id="toc-evidence" class="nav-link" data-scroll-target="#evidence">Evidence</a></li>
-  <li><a href="#analisis-komunikasi" id="toc-analisis-komunikasi" class="nav-link" data-scroll-target="#analisis-komunikasi">Analisis komunikasi</a></li>
-  <li><a href="#penggunaan-ai" id="toc-penggunaan-ai" class="nav-link" data-scroll-target="#penggunaan-ai">Penggunaan AI</a></li>
-  <li><a href="#feedback-dan-tindak-lanjut" id="toc-feedback-dan-tindak-lanjut" class="nav-link" data-scroll-target="#feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</a></li>
-  <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">Self-assessment</a>
-  <ul class="collapse">
+  <li><a href="#core-meaning" id="toc-core-meaning" class="nav-link" data-scroll-target="#core-meaning">Core meaning</a></li>
+  <li><a href="#evidence-understanding" id="toc-evidence-understanding" class="nav-link" data-scroll-target="#evidence-understanding">Evidence understanding</a></li>
+  <li><a href="#analisis-dan-batas" id="toc-analisis-dan-batas" class="nav-link" data-scroll-target="#analisis-dan-batas">Analisis dan batas</a></li>
+  <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">Self-assessment</a></li>
   <li><a href="#assessment-dosen" id="toc-assessment-dosen" class="nav-link" data-scroll-target="#assessment-dosen">Assessment dosen</a></li>
-  </ul></li>
   </ul>
 </nav>
     </div>
@@ -340,121 +336,118 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </section>
-<section id="konteks-performance" class="level2">
-<h2 class="anchored" data-anchor-id="konteks-performance">Konteks performance</h2>
-<p><strong>Tanggal dan setting:</strong> Ganti dengan tanggal, tempat, dan bentuk kegiatan.</p>
-<p><strong>Persons dan relationship:</strong> Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.</p>
-<p><strong>Objective dan initial state:</strong> Nyatakan perubahan yang ingin dicapai serta evidence state awal.</p>
-</section>
-<section id="evidence" class="level2">
-<h2 class="anchored" data-anchor-id="evidence">Evidence</h2>
-<div class="evidence-block">
-<p>Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.</p>
-</div>
-</section>
-<section id="analisis-komunikasi" class="level2">
-<h2 class="anchored" data-anchor-id="analisis-komunikasi">Analisis komunikasi</h2>
+<section id="core-meaning" class="level2">
+<h2 class="anchored" data-anchor-id="core-meaning">Core meaning</h2>
+<p><strong>Fakta yang tidak boleh berubah:</strong> API adalah penghubung yang memungkinkan dua sistem atau aplikasi yang berbeda saling bertukar data dan bekerja sama, tanpa salah satu pihak perlu mengetahui cara kerja internal pihak lainnya.</p>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
 <thead>
 <tr class="header">
-<th>Elemen</th>
-<th>Evidence dan analisis</th>
+<th>Target/character</th>
+<th>Versi language</th>
+<th>Alasan adaptasi</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Person &amp; character</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Friend</td>
+<td>“Lo tau kan pas lo pesen makan lewat GoFood terus bisa langsung bayar pake OVO/Gopay tanpa keluar aplikasi? Nah, itu karena ada yang namanya API — anggap aja kayak ‘penerjemah’ atau ‘perantara’ yang bikin dua aplikasi beda bisa saling ngobrol dan kerja bareng, padahal dibikin sama perusahaan yang beda-beda.”</td>
+<td>Analogi dari pengalaman sehari-hari, tanpa istilah teknis, agar terasa ngobrol bukan menggurui</td>
 </tr>
 <tr class="even">
-<td>Objective &amp; state</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Technical peer</td>
+<td>“API adalah lapisan abstraksi yang mengekspos endpoint via HTTP/HTTPS dengan method GET/POST/PUT/DELETE, memungkinkan komunikasi client-server dalam format JSON/XML, umumnya dengan autentikasi (API key/OAuth 2.0) dan rate limiting.”</td>
+<td>Presisi istilah dan parameter standar industri untuk audiens yang menuntut akurasi teknis</td>
 </tr>
 <tr class="odd">
-<td>Repertoire &amp; language</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Manager</td>
+<td>“Investasi pengembangan API mempercepat time-to-market karena mitra eksternal bisa integrasi tanpa membangun ulang fitur dari nol, sekaligus membuka peluang revenue baru. Risikonya, API tanpa keamanan memadai bisa jadi celah kebocoran data.”</td>
+<td>Fokus pada value, biaya, dan risiko bisnis, bukan mekanisme teknis</td>
 </tr>
 <tr class="even">
-<td>Response &amp; adaptation</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Customer/student user</td>
+<td>“Kalau kamu lagi checkout di aplikasi kampus dan pembayaran gagal padahal saldo cukup, itu biasanya bukan aplikasinya yang rusak, tapi ada gangguan di ‘jembatan’ (API) yang menghubungkannya ke sistem pembayaran. Tunggu beberapa menit lalu ulangi; kalau masih gagal, lapor ke help desk aplikasi tersebut.”</td>
+<td>Menjelaskan dampak konkret dan action yang harus diambil, tanpa perlu tahu istilah “API” secara mendalam</td>
 </tr>
 <tr class="odd">
-<td>Agreement/action</td>
-<td>Ganti dengan analisis Anda.</td>
-</tr>
-<tr class="even">
-<td>Relationship outcome</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Public</td>
+<td>“Setiap kali kamu pesan ojek online lalu langsung bisa bayar pakai e-wallet, di baliknya ada ‘jembatan penghubung’ (API) yang membuat aplikasi berbeda bisa berbagi data dengan aman. Berikan izin akses hanya ke aplikasi terpercaya, karena lewat jembatan inilah data pribadi bisa mengalir.”</td>
+<td>Menghubungkan konsep ke keamanan dan kemudahan hidup sehari-hari, bahasa inklusif untuk audiens heterogen</td>
 </tr>
 </tbody>
 </table>
 </section>
-<section id="penggunaan-ai" class="level2">
-<h2 class="anchored" data-anchor-id="penggunaan-ai">Penggunaan AI</h2>
-<p>Nyatakan <code>Tidak menggunakan AI</code> atau jelaskan:</p>
-<ul>
-<li>alat dan peran AI;</li>
-<li>prompt atau instruksi penting;</li>
-<li>bagian output yang digunakan, diubah, atau ditolak;</li>
-<li>pemeriksaan accuracy, privacy, dan authority;</li>
-<li>apa yang tetap Anda pelajari sebagai manusia.</li>
-</ul>
+<section id="evidence-understanding" class="level2">
+<h2 class="anchored" data-anchor-id="evidence-understanding">Evidence understanding</h2>
+<p>Saya menguji versi <em>Friend</em> kepada T, mahasiswa Fakultas Kedokteran Gigi (FKG) — dipilih karena benar-benar berbeda bidang keilmuan dari IT, sehingga representatif sebagai target “beda program studi”. Percakapan dilakukan lewat chat WhatsApp pada 27 September 2026.</p>
+<div class="evidence-block">
+<p>Screenshot percakapan WhatsApp dengan T tersimpan di folder evidence: <a href="https://drive.google.com/drive/folders/1GTPovPimiYMOqSUz0g8DZ40iViawqF1d?usp=sharing">Link Google Drive</a>. Kontribusi saya: menyusun dan mengirim draf versi <em>Friend</em>, serta menyusun pertanyaan verifikasi teach-back di bawah ini.</p>
+</div>
+<p>Setelah membaca draf, T menjawab singkat: “iya paham.” Karena jawaban afirmatif saja rawan basa-basi, saya melakukan verifikasi lanjutan dengan meminta T menjelaskan kembali (<em>teach-back</em>) memakai kata-katanya sendiri. T menjawab:</p>
+<p>“Intinya API ni penghubung lah antara dua sistem yang independen. Jadi ketika user mau pake sistem A tapi dia butuh sesuatu dari sistem B, maka dia bakal minta ke si API ini buat dihubungin.”</p>
+<p>Jawaban ini menangkap kebenaran inti dengan akurat — penghubung, dua sistem independen, permintaan lintas sistem — meski T memakai istilah “sistem” alih-alih analogi “pelayan/perantara” yang saya pakai. Ini menunjukkan T tidak sekadar menghafal kalimat saya, tapi benar-benar memahami dan mereformulasi konsepnya sendiri dengan bahasanya.</p>
 </section>
-<section id="feedback-dan-tindak-lanjut" class="level2">
-<h2 class="anchored" data-anchor-id="feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</h2>
-<p><strong>Feedback yang diterima:</strong> Ganti dengan kutipan atau ringkasan berbasis evidence.</p>
-<p><strong>Adaptation/replay:</strong> Jelaskan apa yang Anda ubah dan response setelah perubahan.</p>
-<p><strong>Next practice:</strong> Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.</p>
+<section id="analisis-dan-batas" class="level2">
+<h2 class="anchored" data-anchor-id="analisis-dan-batas">Analisis dan batas</h2>
+<p>Repertoire berubah dari obrolan santai antar-teman, penjelasan presisi antar-sesama ahli, ringkasan berorientasi keputusan untuk manajer, instruksi praktis untuk pengguna, hingga narasi berbasis dampak sosial untuk publik. Saya tidak menganggap versi <em>Friend</em> otomatis berlaku untuk semua audiens awam — versi <em>Customer</em> sengaja dibuat lebih berorientasi tindakan (apa yang harus dilakukan saat API bermasalah) dibanding versi <em>Public</em> yang lebih bersifat kesadaran umum tanpa tuntutan aksi.</p>
+<p>AI (Claude) digunakan dalam: (1) membantu memahami tugas dan memberi instruksi apa yang harus dikerjakan, dan (2) berperan sebagai “anak 10 tahun” untuk menguji versi paling sederhana sebelum diuji ke manusia sungguhan — hasilnya menunjukkan draf awal saya melompat ke istilah “program komputer” tanpa penjelasan, sehingga saya revisi. Saya yang menentukan kebenaran inti, memilih target uji, dan menilai apakah jawaban T benar-benar menunjukkan pemahaman — bagian ini tidak digantikan AI karena butuh penilaian langsung terhadap respons manusia yang sesungguhnya.</p>
+<p><strong>Next practice:</strong> menguji versi <em>Manager</em> atau <em>Public</em> ke target sungguhan (bukan hanya versi <em>Friend</em>), untuk memastikan repertoire lain juga benar-benar dipahami, bukan cuma diasumsikan berhasil berdasarkan logika saya sendiri.</p>
 </section>
 <section id="self-assessment" class="level2">
 <h2 class="anchored" data-anchor-id="self-assessment">Self-assessment</h2>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 40%">
+<col style="width: 30%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>Dimensi</th>
-<th style="text-align: right;">Skor 1–4</th>
+<th style="text-align: right;">Skor</th>
 <th>Evidence singkat</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>Person &amp; Character</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">3</td>
+<td>Lima target dibedakan berdasarkan kebutuhan nyata, namun baru satu audiens (Friend) yang tervalidasi langsung ke orang sungguhan</td>
 </tr>
 <tr class="even">
 <td>Objective &amp; State</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">3</td>
+<td>Kebenaran inti konsisten di kelima versi; versi <em>Customer</em> masih berbasis skenario asumsi, belum insiden nyata</td>
 </tr>
 <tr class="odd">
 <td>Repertoire, Language &amp; AI</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">4</td>
+<td>Lima repertoire berbeda dengan rationale eksplisit; peran AI didokumentasikan dengan batas yang jelas</td>
 </tr>
 <tr class="even">
 <td>Response &amp; Adaptation</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">4</td>
+<td>Verifikasi teach-back membuktikan pemahaman akurat target, bukan sekadar klaim “paham”</td>
 </tr>
 <tr class="odd">
 <td>Agreement, Action &amp; Relationship</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">3</td>
+<td>Relationship dengan target terjaga secara natural, namun belum ada elemen negosiasi/keputusan eksplisit seperti skenario transaksional</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Total:</strong> — / 20</p>
-<section id="assessment-dosen" class="level3 assessor-only">
-<h3 class="anchored" data-anchor-id="assessment-dosen">Assessment dosen</h3>
-<p><strong>Skor:</strong> — / 20<br>
-<strong>Evidence yang mendukung:</strong> —<br>
-<strong>Prioritas perbaikan:</strong> —<br>
-<strong>Keputusan:</strong> Belum dinilai / Perlu revisi / Tercapai</p>
+<p><strong>Total: 17/20 — Kompeten.</strong></p>
+</section>
+<section id="assessment-dosen" class="level2 assessor-only">
+<h2 class="anchored" data-anchor-id="assessment-dosen">Assessment dosen</h2>
+<p>Skor: — / 20 Evidence yang mendukung: — Prioritas perbaikan: — Keputusan: Belum dinilai</p>
 </section>
 
 
-</section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Kembali ke atas</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

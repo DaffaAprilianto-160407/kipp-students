@@ -1648,55 +1648,33 @@
     ]
   },
   {
-    "objectID": "portfolio/week-04.html#konteks-performance",
-    "href": "portfolio/week-04.html#konteks-performance",
+    "objectID": "portfolio/week-04.html#core-meaning",
+    "href": "portfolio/week-04.html#core-meaning",
     "title": "Five-Language Translation Portfolio",
-    "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "section": "Core meaning",
+    "text": "Core meaning\nFakta yang tidak boleh berubah: API adalah penghubung yang memungkinkan dua sistem atau aplikasi yang berbeda saling bertukar data dan bekerja sama, tanpa salah satu pihak perlu mengetahui cara kerja internal pihak lainnya.\n\n\n\n\n\n\n\n\nTarget/character\nVersi language\nAlasan adaptasi\n\n\n\n\nFriend\n“Lo tau kan pas lo pesen makan lewat GoFood terus bisa langsung bayar pake OVO/Gopay tanpa keluar aplikasi? Nah, itu karena ada yang namanya API — anggap aja kayak ‘penerjemah’ atau ‘perantara’ yang bikin dua aplikasi beda bisa saling ngobrol dan kerja bareng, padahal dibikin sama perusahaan yang beda-beda.”\nAnalogi dari pengalaman sehari-hari, tanpa istilah teknis, agar terasa ngobrol bukan menggurui\n\n\nTechnical peer\n“API adalah lapisan abstraksi yang mengekspos endpoint via HTTP/HTTPS dengan method GET/POST/PUT/DELETE, memungkinkan komunikasi client-server dalam format JSON/XML, umumnya dengan autentikasi (API key/OAuth 2.0) dan rate limiting.”\nPresisi istilah dan parameter standar industri untuk audiens yang menuntut akurasi teknis\n\n\nManager\n“Investasi pengembangan API mempercepat time-to-market karena mitra eksternal bisa integrasi tanpa membangun ulang fitur dari nol, sekaligus membuka peluang revenue baru. Risikonya, API tanpa keamanan memadai bisa jadi celah kebocoran data.”\nFokus pada value, biaya, dan risiko bisnis, bukan mekanisme teknis\n\n\nCustomer/student user\n“Kalau kamu lagi checkout di aplikasi kampus dan pembayaran gagal padahal saldo cukup, itu biasanya bukan aplikasinya yang rusak, tapi ada gangguan di ‘jembatan’ (API) yang menghubungkannya ke sistem pembayaran. Tunggu beberapa menit lalu ulangi; kalau masih gagal, lapor ke help desk aplikasi tersebut.”\nMenjelaskan dampak konkret dan action yang harus diambil, tanpa perlu tahu istilah “API” secara mendalam\n\n\nPublic\n“Setiap kali kamu pesan ojek online lalu langsung bisa bayar pakai e-wallet, di baliknya ada ‘jembatan penghubung’ (API) yang membuat aplikasi berbeda bisa berbagi data dengan aman. Berikan izin akses hanya ke aplikasi terpercaya, karena lewat jembatan inilah data pribadi bisa mengalir.”\nMenghubungkan konsep ke keamanan dan kemudahan hidup sehari-hari, bahasa inklusif untuk audiens heterogen",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
     ]
   },
   {
-    "objectID": "portfolio/week-04.html#evidence",
-    "href": "portfolio/week-04.html#evidence",
+    "objectID": "portfolio/week-04.html#evidence-understanding",
+    "href": "portfolio/week-04.html#evidence-understanding",
     "title": "Five-Language Translation Portfolio",
-    "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "section": "Evidence understanding",
+    "text": "Evidence understanding\nSaya menguji versi Friend kepada T, mahasiswa Fakultas Kedokteran Gigi (FKG) — dipilih karena benar-benar berbeda bidang keilmuan dari IT, sehingga representatif sebagai target “beda program studi”. Percakapan dilakukan lewat chat WhatsApp pada 27 September 2026.\n\nScreenshot percakapan WhatsApp dengan T tersimpan di folder evidence: Link Google Drive. Kontribusi saya: menyusun dan mengirim draf versi Friend, serta menyusun pertanyaan verifikasi teach-back di bawah ini.\n\nSetelah membaca draf, T menjawab singkat: “iya paham.” Karena jawaban afirmatif saja rawan basa-basi, saya melakukan verifikasi lanjutan dengan meminta T menjelaskan kembali (teach-back) memakai kata-katanya sendiri. T menjawab:\n“Intinya API ni penghubung lah antara dua sistem yang independen. Jadi ketika user mau pake sistem A tapi dia butuh sesuatu dari sistem B, maka dia bakal minta ke si API ini buat dihubungin.”\nJawaban ini menangkap kebenaran inti dengan akurat — penghubung, dua sistem independen, permintaan lintas sistem — meski T memakai istilah “sistem” alih-alih analogi “pelayan/perantara” yang saya pakai. Ini menunjukkan T tidak sekadar menghafal kalimat saya, tapi benar-benar memahami dan mereformulasi konsepnya sendiri dengan bahasanya.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
     ]
   },
   {
-    "objectID": "portfolio/week-04.html#analisis-komunikasi",
-    "href": "portfolio/week-04.html#analisis-komunikasi",
+    "objectID": "portfolio/week-04.html#analisis-dan-batas",
+    "href": "portfolio/week-04.html#analisis-dan-batas",
     "title": "Five-Language Translation Portfolio",
-    "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
-    "crumbs": [
-      "Beranda",
-      "Five-Language Translation Portfolio"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-04.html#penggunaan-ai",
-    "href": "portfolio/week-04.html#penggunaan-ai",
-    "title": "Five-Language Translation Portfolio",
-    "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
-    "crumbs": [
-      "Beranda",
-      "Five-Language Translation Portfolio"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-04.html#feedback-dan-tindak-lanjut",
-    "href": "portfolio/week-04.html#feedback-dan-tindak-lanjut",
-    "title": "Five-Language Translation Portfolio",
-    "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "section": "Analisis dan batas",
+    "text": "Analisis dan batas\nRepertoire berubah dari obrolan santai antar-teman, penjelasan presisi antar-sesama ahli, ringkasan berorientasi keputusan untuk manajer, instruksi praktis untuk pengguna, hingga narasi berbasis dampak sosial untuk publik. Saya tidak menganggap versi Friend otomatis berlaku untuk semua audiens awam — versi Customer sengaja dibuat lebih berorientasi tindakan (apa yang harus dilakukan saat API bermasalah) dibanding versi Public yang lebih bersifat kesadaran umum tanpa tuntutan aksi.\nAI (Claude) digunakan dalam: (1) membantu memahami tugas dan memberi instruksi apa yang harus dikerjakan, dan (2) berperan sebagai “anak 10 tahun” untuk menguji versi paling sederhana sebelum diuji ke manusia sungguhan — hasilnya menunjukkan draf awal saya melompat ke istilah “program komputer” tanpa penjelasan, sehingga saya revisi. Saya yang menentukan kebenaran inti, memilih target uji, dan menilai apakah jawaban T benar-benar menunjukkan pemahaman — bagian ini tidak digantikan AI karena butuh penilaian langsung terhadap respons manusia yang sesungguhnya.\nNext practice: menguji versi Manager atau Public ke target sungguhan (bukan hanya versi Friend), untuk memastikan repertoire lain juga benar-benar dipahami, bukan cuma diasumsikan berhasil berdasarkan logika saya sendiri.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1707,7 +1685,18 @@
     "href": "portfolio/week-04.html#self-assessment",
     "title": "Five-Language Translation Portfolio",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor\nEvidence singkat\n\n\n\n\nPerson & Character\n3\nLima target dibedakan berdasarkan kebutuhan nyata, namun baru satu audiens (Friend) yang tervalidasi langsung ke orang sungguhan\n\n\nObjective & State\n3\nKebenaran inti konsisten di kelima versi; versi Customer masih berbasis skenario asumsi, belum insiden nyata\n\n\nRepertoire, Language & AI\n4\nLima repertoire berbeda dengan rationale eksplisit; peran AI didokumentasikan dengan batas yang jelas\n\n\nResponse & Adaptation\n4\nVerifikasi teach-back membuktikan pemahaman akurat target, bukan sekadar klaim “paham”\n\n\nAgreement, Action & Relationship\n3\nRelationship dengan target terjaga secara natural, namun belum ada elemen negosiasi/keputusan eksplisit seperti skenario transaksional\n\n\n\nTotal: 17/20 — Kompeten.",
+    "crumbs": [
+      "Beranda",
+      "Five-Language Translation Portfolio"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-04.html#assessment-dosen",
+    "href": "portfolio/week-04.html#assessment-dosen",
+    "title": "Five-Language Translation Portfolio",
+    "section": "Assessment dosen",
+    "text": "Assessment dosen\nSkor: — / 20 Evidence yang mendukung: — Prioritas perbaikan: — Keputusan: Belum dinilai",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1828,7 +1817,7 @@
     "href": "portfolio/index.html",
     "title": "Indeks Portfolio",
     "section": "",
-    "text": "Perbarui metadata di bagian atas setiap file week-XX.qmd. Nilai status yang disarankan: Belum dimulai, Draft, Siap dinilai, Perlu revisi, atau Tercapai.\n\n\n\n\n\n\nTipButuh contoh?\n\n\n\nLihat contoh portfolio lengkap untuk Minggu 1–15. Semua contoh menggunakan mahasiswa, person, percakapan, dan artefak fiktif. Gunakan sebagai acuan mutu dan struktur, bukan sebagai jawaban untuk disalin.\n\n\n\n\n\n\n\n\n   \n    \n    \n      Urut berdasar\n      Default\n      \n        Evidence\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nMinggu\n\n\n\nEvidence\n\n\n\nStatus\n\n\n\nSelf\n\n\n\nAssessor\n\n\n\n\n\n\n\n\n1\n\n\nCharacter Map\n\n\nSiap dinilai\n\n\n16 / 20\n\n\n—\n\n\n\n\n\n\n2\n\n\nIntra-Self Communication Journal\n\n\nSiap dinilai\n\n\n18/20\n\n\n—\n\n\n\n\n\n\n3\n\n\nRelationship Conversation\n\n\nSiap dinilai\n\n\n18/20\n\n\n—\n\n\n\n\n\n\n4\n\n\nFive-Language Translation Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n5\n\n\nProfessional Discovery Interview\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n6\n\n\nTarget–Attention Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n7\n\n\nProblem–Solution Interest Pitch\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n8\n\n\nUTS Performance Evidence Package\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n9\n\n\nDesire-State Communication\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n10\n\n\nAction & Agreement Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n11\n\n\nMulti-Person Negotiation Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n12\n\n\nCommunity Communication Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n13\n\n\nPublic Contribution Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n14\n\n\nAI-Mediated Communication Design\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n15\n\n\nCapstone Performance Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\nTidak ada yang cocok\n Kembali ke atas",
+    "text": "Perbarui metadata di bagian atas setiap file week-XX.qmd. Nilai status yang disarankan: Belum dimulai, Draft, Siap dinilai, Perlu revisi, atau Tercapai.\n\n\n\n\n\n\nTipButuh contoh?\n\n\n\nLihat contoh portfolio lengkap untuk Minggu 1–15. Semua contoh menggunakan mahasiswa, person, percakapan, dan artefak fiktif. Gunakan sebagai acuan mutu dan struktur, bukan sebagai jawaban untuk disalin.\n\n\n\n\n\n\n\n\n   \n    \n    \n      Urut berdasar\n      Default\n      \n        Evidence\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nMinggu\n\n\n\nEvidence\n\n\n\nStatus\n\n\n\nSelf\n\n\n\nAssessor\n\n\n\n\n\n\n\n\n1\n\n\nCharacter Map\n\n\nSiap dinilai\n\n\n16 / 20\n\n\n—\n\n\n\n\n\n\n2\n\n\nIntra-Self Communication Journal\n\n\nSiap dinilai\n\n\n18/20\n\n\n—\n\n\n\n\n\n\n3\n\n\nRelationship Conversation\n\n\nSiap dinilai\n\n\n18/20\n\n\n—\n\n\n\n\n\n\n4\n\n\nFive-Language Translation Portfolio\n\n\nSiap dinilai\n\n\n17/20\n\n\n—\n\n\n\n\n\n\n5\n\n\nProfessional Discovery Interview\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n6\n\n\nTarget–Attention Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n7\n\n\nProblem–Solution Interest Pitch\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n8\n\n\nUTS Performance Evidence Package\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n9\n\n\nDesire-State Communication\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n10\n\n\nAction & Agreement Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n11\n\n\nMulti-Person Negotiation Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n12\n\n\nCommunity Communication Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n13\n\n\nPublic Contribution Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n14\n\n\nAI-Mediated Communication Design\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n15\n\n\nCapstone Performance Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\nTidak ada yang cocok\n Kembali ke atas",
     "crumbs": [
       "Beranda",
       "Indeks Portfolio"
