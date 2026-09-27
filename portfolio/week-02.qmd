@@ -1,8 +1,8 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Belum dimulai"
-self_score: "—"
+status: "Draft"
+self_score: "18/20"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
@@ -22,4 +22,73 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 [Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Konteks performance
+
+**Tanggal dan setting:** Peristiwa utama terjadi pada 10 Mei 2026, saat sesi tanya-jawab babak final kompetisi BCC Sandbox 3.0. Refleksi dan obrolan evaluasi dengan tim dilakukan beberapa hari setelahnya, secara langsung (tatap muka) di kos saya.
+
+**Persons dan relationship:** Z dan T, rekan satu tim dalam kompetisi BCC Sandbox 3.0.
+
+**Objective dan initial state:** Ingin memisahkan fakta dari cerita batin atas momen tidak bisa menjawab pertanyaan juri, dan merancang respons yang disengaja alih-alih reaksi otomatis. Initial state: rasa malu 7/10 dan detak jantung sempat terpantau naik ke ~120 bpm di smartwatch saat momen tersebut terjadi.
+
+## Evidence
+
+::: {.evidence-block}
+- PDF pitch deck yang disubmit ke BCC Sandbox 3.0 — menunjukkan isi proposal asli, termasuk judul dan bagian konten yang menjadi sorotan pertanyaan juri.
+- Beberapa screenshot diskusi grup tim — menunjukkan proses koordinasi tim selama persiapan pitch deck.
+- Tautan folder evidence: <https://drive.google.com/drive/folders/1YUPZQB8zT9bXCze6aCe72FLH6nzZKFSg?usp=sharing>
+:::
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Karakter reaktif yang muncul otomatis adalah "Penyalah" — dorongan melimpahkan kesalahan ke Z dan T atas lemahnya analisis pasar. Karakter yang ingin saya tunjukkan (desired character) adalah "Analis/Pembelajar" — yang memisahkan fakta dari asumsi dan mencari faktor sistemik (waktu, pembagian kerja) alih-alih individu. Kedua karakter ini dibedakan secara sadar lewat Lembar Kerja Tiga Narasi, bukan dibiarkan jadi identitas tetap. |
+| Objective & state | Initial state terukur: malu 7/10, HR ~120 bpm. Target state: kebiasaan preventif yang konkret dan bisa dicek — checklist konsistensi judul/isi sebelum submit, dan satu sesi simulasi tanya-jawab sebelum presentasi tim berikutnya. |
+| Repertoire & language | Menggunakan kerangka "Tiga Kacamata" (Narasi Korban, Analitis, Pertumbuhan) dari Lembar Kerja Bab 2 untuk memisahkan fakta, interpretasi, dan narasi identitas. Proses menulis (jurnal reflektif) digunakan untuk memperlambat pemaknaan otomatis sebelum merespons. |
+| Response & adaptation | Obrolan langsung dengan Z dan T di kos mengubah arah narasi: dari kecenderungan menyalahkan individu (Narasi Korban) menjadi kesepakatan bersama yang berbasis sistem — "harusnya kita bisa lebih cek kesesuaian judul dan solusi". Feedback nyata dari tim ini yang membentuk ulang rencana tindak lanjut, bukan cuma refleksi personal saya sendiri. |
+| Agreement/action | Kesepakatan tim: bila ikut lomba bareng lagi, akan lebih teliti. Kesepakatan pribadi saya: membuat checklist konsistensi dan mengajak simulasi tanya-jawab pada tugas kelompok berikutnya, dengan Z, T, dan N sebagai pendamping yang akan memberi masukan jujur. |
+| Relationship outcome | Alih-alih menjauh dari tim (dorongan reaktif "males diajak proyek bareng lagi"), obrolan di kos justru memperkuat hubungan — muncul kesepakatan bersama dan rasa saling memahami kekurangan yang sama-sama dialami, bukan saling menyalahkan. |
+
+## Penggunaan AI
+
+Saya menggunakan Claude  untuk membantu menjelaskan apa yang harus dikerjakan di week 02.
+
+- **Alat dan peran AI:** Digunakan sebagai fasilitator tanya-jawab 
+- **Prompt/instruksi penting:** saya bertanya pada tugas week 02 apa yang harus saya lakukan dan saya kerjakan.
+- **Bagian yang digunakan/diubah/ditolak:** Isi faktual (nama kompetisi, jumlah tim, kutipan pikiran pertama, isi obrolan dengan tim) sepenuhnya berasal dari ingatan saya sendiri, bukan buatan AI.
+- **Pemeriksaan accuracy, privacy, dan authority:** Nama rekan tim ditulis inisial saja (Z, T, N) untuk menjaga privasi; tidak ada detail identitas dosen/juri yang dicantumkan.
+- **Yang tetap saya pelajari sebagai manusia:** Proses memilah mana fakta dan mana cerita batin tetap saya lakukan sendiri — AI hanya membantu strukturnya, bukan menentukan apa yang benar-benar saya rasakan atau langkah tindak lanjut apa yang saya pilih.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Dalam obrolan langsung dengan Z dan T di kos setelah kompetisi, kami sama-sama sepakat: "harusnya kita bisa lebih cek kesesuaian judul dan solusi."
+
+**Adaptation/replay:** Dari kesepakatan itu, rencana konkret saya (checklist konsistensi + simulasi tanya-jawab) bukan lagi sekadar niat personal, tapi juga kesepakatan tim — bila ikut lomba bersama lagi, kami akan lebih teliti mengecek hal ini bersama-sama.
+
+**Next practice:** Sebelum submit tugas kelompok berikutnya, saya akan proaktif mengajak tim melakukan cross-check konsistensi judul-isi dan simulasi tanya-jawab, tanpa menunggu diingatkan.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Karakter reaktif (Penyalah) dan desired character (Analis/Pembelajar) dibedakan tajam lewat tiga narasi, tanpa dijadikan identitas tetap |
+| Objective & State | 3 | Initial state terukur (malu 7/10, HR ~120), target state konkret (checklist + simulasi Q&A), tapi belum sempat diuji karena belum ada tugas kelompok baru untuk mencobanya |
+| Repertoire, Language & AI | 4 | Kerangka Tiga Kacamata dan jurnal reflektif digunakan; AI dipakai secara sadar, dengan draf yang dikoreksi ulang agar tetap jujur pada pengalaman asli |
+| Response & Adaptation | 3 | Obrolan nyata dengan tim mengubah arah narasi dari menyalahkan individu menjadi kesepakatan berbasis sistem, meski feedback ini verbal (di kos) dan belum punya bukti tertulis/terdokumentasi |
+| Agreement, Action & Relationship | 4 | Kesepakatan konkret dengan tim dan tiga pendamping (Z, T, N); hubungan dengan tim menguat, bukan menjauh |
+
+**Total: 18/20**
+
+::: {.assessor-only}
+
+## Assessment dosen
+
+**Skor:** — / 20
+
+**Evidence yang mendukung:** —
+
+**Prioritas perbaikan:** —
+
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+
+:::
