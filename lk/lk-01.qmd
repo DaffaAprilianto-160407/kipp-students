@@ -48,7 +48,7 @@ Setiap peran menuntut repertoar komunikasi tertentu \[116, 129\]. Sering kali, t
 
 *Silakan salin bagian ini ke dalam lembar pengerjaan tugas atau dokumen portofolio Anda.*
 
-**Nama Mahasiswa:** \[Nama Anda / Gunakan Samaran untuk Privasi\] \[350\] **Tanggal Pengerjaan:** \[Tanggal\]
+**Nama Mahasiswa:** Muhammad Daffa Aprilianto **Tanggal Pengerjaan:** 27 September 2026
 
 ### Bagian A: Peta 5 Domain Kehidupan \[135\]
 
@@ -56,42 +56,48 @@ Lengkapi tabel berikut untuk memetakan peran komunikasi Anda saat ini:
 
 | Domain Kehidupan | Peran yang Saya Ambil | Siapa yang Saya Jumpai | Tanggung Jawab Utama Komunikasi |
 |:-----------------|:-----------------|:-----------------|:-----------------|
-| **1. Diri Sendiri** |  |  |  |
-| **2. Keluarga / Sahabat** |  |  |  |
-| **3. Profesional / Akademik** |  |  |  |
-| **4. Komunitas / Kelompok** |  |  |  |
-| **5. Dunia / Publik** |  |  |  |
+| **1. Diri Sendiri** | Pembelajar yang berjuang maksimal (versi diri terbaik) | Diri sendiri | Membangun dialog internal yang jujur — memastikan usaha sudah maksimal supaya tidak ada penyesalan atas hasil apa pun |
+| **2. Keluarga / Sahabat** | Teman yang berusaha merangkul semua orang tanpa sekat "circle" | Teman-teman di lingkungan kuliah | Menjaga keterbukaan dan kehangatan, meski realitas sosial cenderung membentuk kelompok-kelompok kecil |
+| **3. Profesional / Akademik** | Staf baru (magang) Divisi Tech Insight, himpunan | Sesama staf/pengurus himpunan | Berpartisipasi aktif dan membangun kehadiran, meski masih baru dan belum banyak pengalaman |
+| **4. Komunitas / Kelompok** | Panitia Divisi Competition, event IMPACT 6.0 (pembuat soal fisika & pengawas lomba) | Peserta lomba, sesama panitia | Menyusun soal yang adil dan berkualitas, serta mengawasi lomba dengan integritas |
+| **5. Dunia / Publik** | Pemberi opini/edukasi teknis seputar hardware (PC vs konsol) | Teman di luar lingkup akademik | Menyampaikan argumen teknis yang meyakinkan dan berbasis perbandingan data (spek, harga, performa) |
 
 ### Bagian B: Analisis Kontras Dua Peran Utama \[136\]
 
 Pilih dua peran dari tabel di atas yang paling kontras atau menantang (misalnya: Peran A = Anggota Tim Proyek, Peran B = Sahabat Pendengar), lalu uraikan perbedaannya:
 
-| Unsur Komunikasi | Peran A: \[Tulis Nama Peran A\] | Peran B: \[Tulis Nama Peran B\] |
+| Unsur Komunikasi | Peran A: Diri Sendiri (Pembelajar yang Gigih) | Peran B: Staf Baru Himpunan (Divisi Tech Insight) |
 |:-----------------------|:-----------------------|:-----------------------|
-| **1. Tujuan Tugas & Relasi** \[128\] |  |  |
-| **2. Repertoar Utama** \[129\] |  |  |
-| **3. Pilihan Bahasa & Nada** \[130\] |  |  |
-| **4. Respons yang Harus Dibaca** \[131\] |  |  |
-| **5. Tindakan yang Diharapkan** \[131\] |  |  |
-| **6. Relasi yang Harus Dirawat** \[131\] |  |  |
+| **1. Tujuan Tugas & Relasi** | Memastikan usaha belajar sudah maksimal, agar hasil apa pun bisa diterima tanpa penyesalan | Membangun kehadiran dan kepercayaan diri sebagai anggota baru, agar diterima dan bisa berkontribusi di divisi |
+| **2. Repertoar Utama** | Disiplin diri, mengulang materi, evaluasi diri jujur, menyelesaikan tugas sampai tuntas | Mendengarkan, mengamati, merespons cepat dalam situasi sosial spontan (misal games, obrolan santai) |
+| **3. Pilihan Bahasa & Nada** | Dialog internal — tegas ke diri sendiri, jujur, tidak menghakimi diri secara berlebihan | Nada santai dan cair sesuai suasana gathering, namun perlu keberanian untuk tetap aktif berekspresi walau canggung |
+| **4. Respons yang Harus Dibaca** | Kualitas usaha sendiri — apakah benar-benar sudah maksimal atau masih menghindar dari kesulitan | Ekspektasi kelompok saat momen spontan (misal saat giliran memeragakan sesuatu); tanda-tanda rekan menunggu partisipasi aktif |
+| **5. Tindakan yang Diharapkan** | Tugas selesai tepat waktu dan benar, materi dikuasai lewat pengulangan konsisten | Tetap berusaha merespons/berpartisipasi meski tidak familiar dengan konteks, alih-alih diam total |
+| **6. Relasi yang Harus Dirawat** | Relasi dengan diri sendiri — rasa percaya bahwa diri sudah berjuang secara jujur | Relasi dengan sesama staf/divisi — kesan sebagai anggota yang hangat dan mau mencoba, bukan pasif |
 
 ### Bagian C: Eksplorasi Kepribadian dan Sasaran Pertumbuhan \[351\]
 
 Jawablah pertanyaan reflektif berikut dengan jujur berdasarkan Template Lampiran B.2 \[351\]:
 
-1.  **Nilai Utama:** Nilai-nilai kemanusiaan apa saja yang paling ingin Anda tampakkan dalam komunikasi Anda sehari-hari? (Contoh: ketulusan, kejujuran, penghargaan, atau keadilan) \[351\]
-    - *Jawaban:*
-2.  **Kekuatan Komunikasi:** Kekuatan atau kecenderungan kepribadian apa yang sudah Anda miliki dan membantu komunikasi Anda selama ini? \[351\]
-    - *Jawaban:*
-3.  **Pola Hambatan Otomatis:** Pola atau kebiasaan komunikatif apa yang paling sering menghambat Anda saat berada di bawah tekanan atau situasi tidak nyaman? \[351\]
-    - *Jawaban:*
-4.  **Ketegangan Peran & Kepribadian:** Tuliskan satu situasi spesifik di mana kecenderungan kepribadian otomatis Anda bergesekan dengan tuntutan tanggung jawab peran Anda \[136\] (gunakan pola: *"Saya cenderung \[kepribadian\], tetapi peran saya sebagai \[nama peran\] menuntut saya untuk \[perilaku komunikasi\]"*).
-    - *Jawaban:*
-5.  **Sasaran Pertumbuhan Perilaku Terukur:** Berdasarkan ketegangan di atas, susun satu pernyataan sasaran pertumbuhan perilaku yang spesifik untuk 4-6 minggu ke depan \[109, 351\].
-    - *Aturan perumusan:* Jangan menulis sasaran abstrak (seperti "Saya ingin menjadi komunikator hebat") \[109\]. Tulislah sasaran mikro yang nyata, misalnya: *"Ketika seorang teman sedang bercerita, saya akan menahan diri untuk tidak langsung memotong atau memberi solusi selama 3 menit pertama. Saya akan merangkum maknanya dan memvalidasi perasaannya terlebih dahulu."* \[109\]
-    - *Sasaran Saya:*
-6.  **Umpan Balik Jujur:** Siapa nama (atau inisial) orang terdekat di sekitar Anda yang dapat Anda mintai umpan balik jujur untuk memantau pertumbuhan perilaku ini? \[351\]
-    - *Jawaban:*
+### Bagian C: Eksplorasi Kepribadian dan Sasaran Pertumbuhan
+
+1.  **Nilai Utama:** Nilai-nilai kemanusiaan apa saja yang paling ingin Anda tampakkan dalam komunikasi sehari-hari? (Contoh: ketulusan, kejujuran, penghargaan, atau keadilan)
+    - *Jawaban:* Nilai utama yang ingin saya tampakkan adalah **penghargaan terhadap kenyamanan lawan bicara** melalui adaptabilitas gaya komunikasi. Saya percaya setiap orang punya cara berkomunikasi yang berbeda, sehingga saya berusaha menyesuaikan diri — misalnya ikut bercanda lebih santai (dalam batas wajar) dengan teman yang gaya bicaranya ekspresif, atau memperlambat tempo dan menjaga pilihan kata dengan orang yang lebih tenang dan tidak suka bahasa kasar. Bagi saya, ini bentuk penghormatan terhadap keunikan setiap pribadi, bukan sekadar basa-basi.
+
+2.  **Kekuatan Komunikasi:** Kekuatan atau kecenderungan kepribadian apa yang sudah Anda miliki dan membantu komunikasi Anda selama ini?
+    - *Jawaban:* Saya memiliki kecenderungan untuk selalu berusaha menjadi pendengar yang baik dan menanggapi perkataan orang lain dengan sungguh-sungguh. Saya tidak hanya menunggu giliran bicara, tetapi benar-benar berusaha memahami apa yang disampaikan lawan bicara sebelum merespons. Kekuatan ini selaras dengan nilai adaptabilitas saya — untuk bisa menyesuaikan gaya komunikasi, saya perlu dulu benar-benar mendengarkan dan membaca situasi lawan bicara.
+
+3.  **Pola Hambatan Otomatis:** Pola atau kebiasaan komunikatif apa yang paling sering menghambat Anda saat berada di bawah tekanan atau situasi tidak nyaman?
+    - *Jawaban:* Ketika lawan bicara membawa topik yang sensitif atau membuat saya tidak nyaman, saya cenderung memilih untuk diam saja. Pola ini muncul sebagai cara saya menghindari risiko marah atau bereaksi berlebihan kepada lawan bicara. Meskipun tujuannya menjaga hubungan agar tidak memburuk, kebiasaan ini membuat saya tidak menyampaikan apa yang sebenarnya saya rasakan atau pikirkan, sehingga ketidaknyamanan tersebut tidak benar-benar terselesaikan.
+
+4.  **Ketegangan Peran & Kepribadian:** Tuliskan satu situasi spesifik di mana kecenderungan kepribadian otomatis Anda bergesekan dengan tuntutan tanggung jawab peran Anda (gunakan pola: *"Saya cenderung [kepribadian], tetapi peran saya sebagai [nama peran] menuntut saya untuk [perilaku komunikasi]"*).
+    - *Jawaban:* Saya cenderung menghindari menegur atau mengingatkan orang lain karena tidak nyaman berada dalam situasi konfrontatif, tetapi peran saya sebagai pengawas lomba di IMPACT 6.0 menuntut saya untuk menegur peserta secara langsung ketika mereka tidak memenuhi persyaratan perlombaan. Dalam situasi ini, kecenderungan saya untuk diam harus saya lawan demi menjaga keadilan dan kelancaran kompetisi bagi seluruh peserta.
+
+5.  **Sasaran Pertumbuhan Perilaku Terukur:** Berdasarkan ketegangan di atas, susun satu pernyataan sasaran pertumbuhan perilaku yang spesifik untuk 4-6 minggu ke depan.
+    - *Sasaran Saya:* Ketika lawan bicara membawa topik obrolan yang membuat saya tidak nyaman, saya akan berhenti memilih diam dan sebagai gantinya menyampaikan ketidaknyamanan saya secara halus dalam waktu kurang dari 10 detik sejak topik itu muncul — misalnya dengan kalimat, "Maaf, kayaknya topik ini agak bikin aku nggak nyaman, boleh kita bahas hal lain?" Saya akan melatih ini setiap kali situasi tersebut muncul selama 4-6 minggu ke depan, dan mencatat di jurnal singkat apakah saya berhasil menegur secara halus atau kembali memilih diam.
+
+6.  **Umpan Balik Jujur:** Siapa nama (atau inisial) orang terdekat di sekitar Anda yang dapat Anda mintai umpan balik jujur untuk memantau pertumbuhan perilaku ini?
+    - *Jawaban:* N — teman dekat yang cukup sering mengetahui kebiasaan saya memilih diam saat merasa tidak nyaman dalam suatu obrolan.
 
 ------------------------------------------------------------------------
 
