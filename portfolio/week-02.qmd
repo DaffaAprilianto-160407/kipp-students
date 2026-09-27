@@ -1,7 +1,7 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Draft"
+status: "Siap dinilai"
 self_score: "18/20"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
@@ -51,11 +51,11 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 
 ## Penggunaan AI
 
-Saya menggunakan Claude  untuk membantu menjelaskan apa yang harus dikerjakan di week 02.
+Saya menggunakan Claude (asisten AI) untuk membantu menyusun proses refleksi berdasarkan Lembar Kerja Bab 2.
 
-- **Alat dan peran AI:** Digunakan sebagai fasilitator tanya-jawab 
-- **Prompt/instruksi penting:** saya bertanya pada tugas week 02 apa yang harus saya lakukan dan saya kerjakan.
-- **Bagian yang digunakan/diubah/ditolak:** Isi faktual (nama kompetisi, jumlah tim, kutipan pikiran pertama, isi obrolan dengan tim) sepenuhnya berasal dari ingatan saya sendiri, bukan buatan AI.
+- **Alat dan peran AI:** Digunakan sebagai fasilitator tanya-jawab — mengajukan pertanyaan pemisah fakta/interpretasi/emosi, dan membantu merapikan bahasa dari draf kasar saya menjadi kalimat yang lebih runtut untuk tiga narasi (Korban, Analitis, Pertumbuhan).
+- **Prompt/instruksi penting:** Saya menceritakan kejadian BCC Sandbox 3.0 apa adanya, lalu AI menanyakan detail spesifik (fakta, interpretasi pertama, sensasi tubuh, faktor kendali, dsb.) satu per satu.
+- **Bagian yang digunakan/diubah/ditolak:** Draf awal Narasi Korban dari AI sempat lebih ekstrem dari yang saya rasakan sebenarnya; saya sesuaikan supaya tetap jujur dengan kadar emosi saya yang sebenarnya (marah tapi tidak berlebihan). Isi faktual (nama kompetisi, jumlah tim, kutipan pikiran pertama, isi obrolan dengan tim) sepenuhnya berasal dari ingatan saya sendiri, bukan buatan AI.
 - **Pemeriksaan accuracy, privacy, dan authority:** Nama rekan tim ditulis inisial saja (Z, T, N) untuk menjaga privasi; tidak ada detail identitas dosen/juri yang dicantumkan.
 - **Yang tetap saya pelajari sebagai manusia:** Proses memilah mana fakta dan mana cerita batin tetap saya lakukan sendiri — AI hanya membantu strukturnya, bukan menentukan apa yang benar-benar saya rasakan atau langkah tindak lanjut apa yang saya pilih.
 
@@ -92,3 +92,4 @@ Saya menggunakan Claude  untuk membantu menjelaskan apa yang harus dikerjakan di
 **Keputusan:** Belum dinilai / Perlu revisi / Tercapai
 
 :::
+
