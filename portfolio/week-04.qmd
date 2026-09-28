@@ -86,7 +86,7 @@ Batas evidence yang perlu dicatat: hanya versi Friend yang diuji ke orang sunggu
 
 *Kontribusi Pribadi:* Merumuskan *core meaning*, menyusun kelima draf, memilih T sebagai target uji, mengirim pesan, meminta teach-back, dan menilai pemahaman T. Draf pesan dan pertanyaan teach-back disusun dengan bantuan Claude (lihat Penggunaan AI).
 
-Percakapan asli tersimpan sebagai arsip pribadi (screenshot WhatsApp) dan dapat diberikan kepada assessor bila diperlukan.
+Percakapan asli tersimpan sebagai arsip pribadi (screenshot WhatsApp) dan dapat diberikan kepada assessor bila diperlukan. Dokumentasi lengkap tersedia di: <https://drive.google.com/drive/folders/1GTPovPimiYMOqSUz0g8DZ40iViawqF1d?usp=drive_link>
 :::
 
 ---
