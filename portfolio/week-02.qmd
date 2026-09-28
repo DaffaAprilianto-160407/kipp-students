@@ -1,8 +1,8 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Siap dinilai"
-self_score: "18/20"
+status: "Siap Dinilai"
+self_score: "18"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
@@ -77,19 +77,13 @@ Saya menggunakan Claude (asisten AI) untuk membantu menyusun proses refleksi ber
 | Response & Adaptation | 3 | Obrolan nyata dengan tim mengubah arah narasi dari menyalahkan individu menjadi kesepakatan berbasis sistem, meski feedback ini verbal (di kos) dan belum punya bukti tertulis/terdokumentasi |
 | Agreement, Action & Relationship | 4 | Kesepakatan konkret dengan tim dan tiga pendamping (Z, T, N); hubungan dengan tim menguat, bukan menjauh |
 
-**Total: 18/20**
+**Total:** 18 / 20 - Lanjut
 
 ::: {.assessor-only}
+### Assessment dosen
 
-## Assessment dosen
-
-**Skor:** — / 20
-
-**Evidence yang mendukung:** —
-
-**Prioritas perbaikan:** —
-
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
 **Keputusan:** Belum dinilai / Perlu revisi / Tercapai
-
 :::
-
