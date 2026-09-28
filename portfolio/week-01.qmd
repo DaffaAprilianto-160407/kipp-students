@@ -1,8 +1,8 @@
 ---
 title: "Character Map"
 week: 1
-status: "Siap dinilai"
-self_score: "16 / 20"
+status: "Siap Dinilai"
+self_score: "16"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
 categories: [Fondasi, Person]
@@ -22,6 +22,8 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 [Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
+{{< include ../includes/evidence-template.md >}}
+
 ## Lima character
 
 | Domain dan character | Person & relationship | Objective & responsibility | Repertoire & language | Risiko dan latihan |
@@ -31,6 +33,8 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 | Work/Profesional — anggota tim proyek PRD | 4 rekan satu kelompok tugas besar (inisial T, R, M, A), awalnya belum akrab | Mengklarifikasi ambiguitas spesifikasi tugas dan membagi peran secara adil agar proyek selesai tepat waktu | Bertanya informal ke kelompok, bertanya formal ke dosen, pembagian kerja eksplisit | Canggung/diam di awal kelompok baru sempat memperlambat klarifikasi; latihan mempercepat keakraban tim baru |
 | Community — panitia lomba, divisi competition | Peserta lomba dan sesama panitia | Menyusun soal berkualitas dan mengawasi jalannya lomba secara adil | Instruksi tertulis (soal), teguran langsung saat mengawas | Menghindari konfrontasi; latihan tetap tegas demi keadilan kompetisi |
 | Dunia/Publik — pemberi opini teknis hardware | Teman di luar circle akademik | Menyampaikan argumen berbasis data (spek, harga, performa) secara meyakinkan | Perbandingan teknis, analogi harga-performa | Terlalu teknis/menggurui; latihan menyederhanakan penjelasan untuk audiens non-teknis |
+
+---
 
 ## Episode yang dianalisis
 
@@ -46,6 +50,8 @@ Setelah mendapat kejelasan tersebut, kelompok langsung berdiskusi mencari solusi
 
 Response dosen (informasi baru soal wajibnya hardware) mengubah arah kerja kelompok dari sekadar "menyempurnakan software" menjadi "mengintegrasikan hardware murah dan ringkas" — sebuah adaptasi cepat tanpa mengorbankan progres yang sudah dibuat, sekaligus memperjelas pembagian tanggung jawab tiap anggota.
 
+---
+
 ## Perubahan language
 
 Sebagai **anggota kelompok**, saya menggunakan bahasa santai dan langsung ke rekan setingkat: "Woi ini tugas gimana, harus ada hardware atau ngga?" — nada informal, akrab, tanpa basa-basi karena relasi yang setara.
@@ -54,13 +60,21 @@ Sebagai **mahasiswa yang bertanya ke dosen**, saya beralih ke bahasa yang lebih 
 
 Meskipun kata-kata dan tingkat formalitas berubah signifikan antara kedua konteks, tujuan inti (mencari kejelasan spesifikasi tugas) dan rasa penasaran yang mendasarinya tetap sama — hanya cara penyampaian yang menyesuaikan dengan siapa saya berbicara.
 
+---
+
 ## Konteks performance
 
 **Tanggal dan setting:** April 2026, semester 2, dalam rangkaian pengerjaan tugas besar mata kuliah Pengenalan Rekayasa dan Desain (PRD) — Institut Teknologi Bandung.
 
-**Persons dan relationship:** Lima anggota kelompok tugas besar (saya, dan rekan berinisial T, R, M, A), yang pada awal proyek belum begitu saling akrab.
+**Persons dan relationship:** 
+- Saya (Mahasiswa Sistem dan Teknologi Informasi).
+- Empat anggota kelompok tugas besar (inisial T, R, M, A), yang pada awal proyek belum begitu saling akrab.
 
-**Objective dan initial state:** Prototype aplikasi navigasi kelas "FindMyClass" sudah selesai dalam versi software-only. State awal: ambiguitas spesifikasi tugas mengenai wajib-tidaknya komponen hardware, yang sempat tidak terselesaikan sekitar satu minggu karena kelompok masih canggung berkomunikasi satu sama lain.
+**Objective dan initial state:** 
+- **Objective:** Mendapatkan kejelasan spesifikasi tugas dari dosen dan menyesuaikan proposal serta prototype tanpa membangun ulang dari nol.
+- **Initial State:** Prototype aplikasi navigasi kelas "FindMyClass" sudah selesai dalam versi software-only, dengan ambiguitas spesifikasi mengenai wajib-tidaknya komponen hardware yang sempat tidak terselesaikan sekitar satu minggu karena kelompok masih canggung berkomunikasi.
+
+---
 
 ## Evidence
 
@@ -69,8 +83,10 @@ Bukti pendukung episode berupa screenshot diskusi kelompok dapat diakses melalui
 
 Isi folder: Screenshot diskusi kelompok yang menunjukkan proses klarifikasi ambiguitas spesifikasi tugas hingga kesepakatan menggunakan ESP8266 sebagai komponen hardware.
 
-Kontribusi saya: Pesan yang menginisiasi pertanyaan mengenai kejelasan spesifikasi tugas merupakan kontribusi langsung saya sebagai anggota yang pertama kali mengangkat isu ini ke kelompok.
+*Kontribusi Pribadi:* Pesan yang menginisiasi pertanyaan mengenai kejelasan spesifikasi tugas merupakan kontribusi langsung saya sebagai anggota yang pertama kali mengangkat isu ini ke kelompok.
 :::
+
+---
 
 ## Analisis komunikasi
 
@@ -83,40 +99,49 @@ Kontribusi saya: Pesan yang menginisiasi pertanyaan mengenai kejelasan spesifika
 | **Agreement/action** | Tidak ada deadline tertulis eksplisit per sub-tugas, namun kelompok langsung menyepakati pembagian kerja baru: saya bersama T dan R menangani backend dan hardware (integrasi ESP8266), sementara M dan A menangani frontend. Proyek selesai tepat waktu. |
 | **Relationship outcome** | Hubungan kelompok yang awalnya canggung berubah menjadi sangat dekat setelah proyek ini, terutama dengan R. Inisiatif mengklarifikasi ke dosen turut memperkuat kepercayaan antaranggota kelompok. |
 
+---
+
 ## Penggunaan AI
 
-AI (Claude) digunakan untuk membantu menjelaskan pertanyaan, cerita berdasarkan kejadian nyata yang saya alami sendiri. Fakta, dialog, dan keputusan yang tercatat berasal dari ingatan saya, bukan buatan AI. Saya memeriksa ulang agar narasi tetap sesuai dengan apa yang benar-benar terjadi, dan menolak bagian mana pun dari saran AI yang terasa berlebihan atau tidak akurat terhadap ingatan saya.
+- **Alat dan peran AI:** Claude digunakan untuk membantu menjelaskan pertanyaan dan memberikan instruksi kepada saya.
+- **Prompt penting:** 
+  > *"Jelaskan apa yang harus saya lakukan di tugas week 01 ini."*
+- **Bagian output yang diubah/ditolak:** Saya menolak bagian saran AI yang terasa berlebihan atau tidak akurat terhadap ingatan saya.
+- **Pemeriksaan accuracy, privacy, dan authority:** Fakta, dialog, dan keputusan yang tercatat berasal dari ingatan saya sendiri, bukan buatan AI. Saya memeriksa ulang agar narasi tetap sesuai dengan apa yang benar-benar terjadi.
+- **Apa yang tetap dipelajari sebagai manusia:** Kemampuan membaca situasi sosial kelompok dan mengambil inisiatif bertanya saat suasana belum nyaman tidak bisa digantikan oleh AI.
+
+---
 
 ## Feedback dan tindak lanjut
 
-**Feedback yang diterima:** Tidak ada feedback eksplisit dari dosen, asisten, atau anggota kelompok terkait cara saya menangani situasi ini. Refleksi berikut murni berasal dari evaluasi diri saya sendiri setelah kejadian berlalu.
+**Feedback yang diterima:** 
+> *"Tidak ada feedback eksplisit dari dosen, asisten, atau anggota kelompok terkait cara saya menangani situasi ini. Refleksi berikut murni berasal dari evaluasi diri saya sendiri setelah kejadian berlalu."*
 
-**Adaptation/replay:** Saya menyadari bahwa kecanggungan awal kelompok (karena belum saling akrab) menjadi salah satu penyebab ambiguitas spesifikasi tugas tidak segera diklarifikasi. Setelah momen ini, saya lebih terbuka mengambil inisiatif bertanya meski situasi sosial belum sepenuhnya nyaman.
+**Adaptation/replay:** 
+Saya menyadari bahwa kecanggungan awal kelompok (karena belum saling akrab) menjadi salah satu penyebab ambiguitas spesifikasi tugas tidak segera diklarifikasi. Setelah momen ini, saya lebih terbuka mengambil inisiatif bertanya meski situasi sosial belum sepenuhnya nyaman.
 
-**Next practice:** Pada kelompok kerja baru berikutnya, saya akan berinisiatif memulai obrolan sederhana (perkenalan atau bertanya progres) dalam pertemuan pertama, alih-alih menunggu kelompok mencair dengan sendirinya — supaya isu atau ambiguitas teknis bisa dikomunikasikan lebih cepat, tidak tertunda seperti kasus PRD ini.
+**Next practice:** 
+Pada kelompok kerja baru berikutnya, saya akan berinisiatif memulai obrolan sederhana (perkenalan atau bertanya progres) dalam pertemuan pertama, alih-alih menunggu kelompok mencair dengan sendirinya — supaya isu atau ambiguitas teknis bisa dikomunikasikan lebih cepat, tidak tertunda seperti kasus PRD ini.
+
+---
 
 ## Self-assessment
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 3 | Person, konteks, dan evolusi relasi (canggung → akrab) dipetakan jelas |
-| Objective & State | 3 | Initial state dan objective dinyatakan eksplisit |
-| Repertoire, Language & AI | 3 | Pergeseran register terlihat jelas (informal ke kelompok, formal ke dosen); batas AI dinyatakan jujur |
-| Response & Adaptation | 3 | Informasi baru dari dosen mengubah arah solusi dan pembagian kerja secara nyata |
-| Agreement, Action & Relationship | 4 | Pembagian kerja eksplisit, proyek selesai tepat waktu, dan relasi kelompok terbukti menguat signifikan |
+| **Person & Character** | 3 | Person, konteks, dan evolusi relasi (canggung → akrab) dipetakan jelas |
+| **Objective & State** | 3 | Initial state dan objective dinyatakan eksplisit |
+| **Repertoire, Language & AI** | 3 | Pergeseran register terlihat jelas (informal ke kelompok, formal ke dosen); batas AI dinyatakan jujur |
+| **Response & Adaptation** | 3 | Informasi baru dari dosen mengubah arah solusi dan pembagian kerja secara nyata |
+| **Agreement, Action & Relationship** | 4 | Pembagian kerja eksplisit, proyek selesai tepat waktu, dan relasi kelompok terbukti menguat signifikan |
 
-**Total: 16/20 — Kompeten.** Belum level tertinggi karena analisis dinamika kekuasaan/pengaruh dalam kelompok (misal: bagaimana keputusan akhirnya disepakati bersama vs didominasi sebagian anggota) belum digali lebih dalam.
+**Total:** 16 / 20 - Kompeten
 
 ::: {.assessor-only}
-
 ### Assessment dosen
 
-**Skor:** — / 20
-
-**Evidence yang mendukung:** —
-
-**Prioritas perbaikan:** —
-
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
 **Keputusan:** Belum dinilai / Perlu revisi / Tercapai
-
 :::
