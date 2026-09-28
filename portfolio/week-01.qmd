@@ -36,11 +36,11 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 
 Berikut perbandingan perubahan ragam bahasa (*language shift*) saat berpindah *character* dalam konteks mengklarifikasi spesifikasi tugas:
 
-- **Sebagai anggota kelompok (Ragam Informal & Langsung):**
-  > *"Woi ini tugas gimana, harus ada hardware atau ngga?"*
+- **Sebagai anggota kelompok (Ragam Informal & Langsung):**  
+  > *"Woi ini tugas gimana, harus ada hardware atau ngga?"*  
   *(Menggunakan bahasa santai dan langsung ke rekan setingkat, tanpa basa-basi karena relasi yang setara).*
-- **Sebagai mahasiswa yang bertanya ke dosen (Ragam Sopan & Terstruktur):**
-  > *"Siang pak, mau nanya, ini tugasnya harus ada hardwarenya atau ngga ya?"*
+- **Sebagai mahasiswa yang bertanya ke dosen (Ragam Sopan & Terstruktur):**  
+  > *"Siang pak, mau nanya, ini tugasnya harus ada hardwarenya atau ngga ya?"*  
   *(Menggunakan salam pembuka dan nada hormat sesuai relasi dosen-mahasiswa, dengan tujuan inti yang sama yaitu mencari kejelasan spesifikasi tugas).*
 
 ## Konteks performance
@@ -49,14 +49,14 @@ Berikut perbandingan perubahan ragam bahasa (*language shift*) saat berpindah *c
 
 **Persons dan relationship:** Lima anggota kelompok tugas besar (saya, dan rekan berinisial T, R, M, A), yang pada awal proyek belum begitu saling akrab.
 
-**Objective dan initial state:**
+**Objective dan initial state:**  
 - **State awal:** Prototype aplikasi navigasi kelas "FindMyClass" sudah selesai dalam versi software-only, namun ada ambiguitas spesifikasi tugas mengenai wajib-tidaknya komponen hardware, yang sempat tidak terselesaikan sekitar satu minggu karena kelompok masih canggung berkomunikasi.
 - **Objektif:** Mendapatkan kejelasan spesifikasi tugas dari sumber yang berwenang (dosen), lalu menyesuaikan proposal dan prototype tanpa harus membangun ulang dari nol.
 
 ## Evidence
 
 ::: {.evidence-block}
-**Transkrip / Ringkasan Kejadian Percakapan:**
+**Transkrip / Ringkasan Kejadian Percakapan Saat Pertemuan:**
 
 Kelompok saya (5 orang) mengerjakan tugas besar PRD dengan membangun aplikasi navigasi kelas bernama **FindMyClass**. Kami sudah menyelesaikan prototype berbasis software saja, namun muncul ketidakjelasan apakah spesifikasi tugas mengharuskan komponen hardware.
 
@@ -81,13 +81,13 @@ Kontribusi saya: Pesan yang menginisiasi pertanyaan mengenai kejelasan spesifika
 | Person & character | Kelompok terdiri dari 5 orang (saya, T, R, M, A) yang di awal proyek belum begitu akrab. Kecanggungan ini membuat komunikasi kelompok cenderung pasif, sehingga ambiguitas spesifikasi tugas tidak segera diklarifikasi selama sekitar satu minggu. |
 | Objective & state | Initial state: prototype sudah selesai dalam versi software-only, namun ambigu apakah hardware diwajibkan. Objective: mendapatkan kejelasan dari sumber otoritatif (dosen) dan menyesuaikan proyek tanpa membangun ulang dari nol. |
 | Repertoire & language | Ke kelompok: "Woi ini tugas gimana, harus ada hardware atau ngga?" — informal, langsung. Ke dosen: "Siang pak, mau nanya, ini tugasnya harus ada hardwarenya atau ngga ya?" — sopan, terstruktur. Register berubah signifikan sesuai relasi, namun tujuan inti (mencari kejelasan) tetap konsisten. |
-| Response & adaptation | Dosen menjawab hardware wajib ada, dan menawarkan opsi ESP32 atau ESP8266. Kelompok merespons cepat memilih ESP8266 agar tidak perlu membangun produk baru dari nol, hanya mengintegrasikan modul tambahan ke proposal dan prototype yang sudah ada. |
+| Response & adaptation | Dosen menjawab hardware wajib ada, dan menawarkan opsi ESP32 atau ESP8266. Kelompok merespons cepat memilih ESP8266 agar tidak perlu membangun produk baru dari awal, hanya mengintegrasikan modul tambahan ke proposal dan prototype yang sudah ada. |
 | Agreement/action | Tidak ada deadline tertulis eksplisit per sub-tugas, namun kelompok langsung menyepakati pembagian kerja baru: saya bersama T dan R menangani backend dan hardware (integrasi ESP8266), sementara M dan A menangani frontend. Proyek selesai tepat waktu. |
 | Relationship outcome | Hubungan kelompok yang awalnya canggung berubah menjadi sangat dekat setelah proyek ini, terutama dengan R. Inisiatif mengklarifikasi ke dosen turut memperkuat kepercayaan antaranggota kelompok. |
 
 ## Penggunaan AI
 
-AI (Claude) digunakan untuk membantu menjelaskan pertanyaan, cerita berdasarkan kejadian nyata yang saya alami sendiri. Fakta, dialog, dan keputusan yang tercatat berasal dari ingatan saya, bukan buatan AI. Saya memeriksa ulang agar narasi tetap sesuai dengan apa yang benar-benar terjadi, dan menolak bagian mana pun dari saran AI yang terasa berlebihan atau tidak akurat terhadap ingatan saya.
+Penggunaan AI sangat minimal, yaitu membantu menyusun kalimat refleksi berdasarkan kejadian nyata yang saya alami sendiri. Fakta, dialog, dan keputusan yang tercatat berasal dari ingatan saya, bukan buatan AI. Saya memeriksa ulang agar narasi tetap sesuai dengan apa yang benar-benar terjadi.
 
 ## Feedback dan tindak lanjut
 
@@ -101,7 +101,7 @@ AI (Claude) digunakan untuk membantu menjelaskan pertanyaan, cerita berdasarkan 
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 3 | Person, konteks, dan evolusi relasi (canggung → akrab) dipetakan jelas |
+| Person & Character | 3 | Person, konteks, dan evolusi relasi (canggung menjadi akrab) dipetakan jelas |
 | Objective & State | 3 | Initial state dan objective dinyatakan eksplisit |
 | Repertoire, Language & AI | 3 | Pergeseran register terlihat jelas (informal ke kelompok, formal ke dosen); batas AI dinyatakan jujur |
 | Response & Adaptation | 3 | Informasi baru dari dosen mengubah arah solusi dan pembagian kerja secara nyata |
