@@ -52,7 +52,7 @@ Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 
 > "Intinya API ni penghubung lah antara dua sistem yang independen. Jadi ketika user mau pake sistem A tapi dia butuh sesuatu dari sistem B, maka dia bakal minta ke si API ini buat dihubungin."
 
-Screenshot percakapan: [folder Google Drive evidence](https://drive.google.com/drive/folders/1GTPovPimiYMOqSUz0g8DZ40iViawqF1d?usp=sharing). Jawaban T dikutip lengkap di atas agar dapat diverifikasi tanpa membuka tautan.
+Screenshot percakapan tersimpan sebagai arsip pribadi dan dapat diberikan kepada assessor bila diperlukan. Jawaban T dikutip lengkap di atas agar dapat diverifikasi langsung dari halaman ini.
 
 Kontribusi saya: memilih T sebagai target uji, mengirim pesan, meminta teach-back setelah jawaban singkat, dan menilai apakah jawaban T menunjukkan pemahaman. Draf pesan dan pertanyaan teach-back disusun dengan bantuan Claude (lihat Penggunaan AI).
 :::
@@ -96,13 +96,13 @@ Kontribusi saya: memilih T sebagai target uji, mengirim pesan, meminta teach-bac
 | Response & Adaptation | 4 | Teach-back membuktikan pemahaman akurat T, bukan sekadar klaim "paham" |
 | Agreement, Action & Relationship | 3 | Kesepahaman pada makna inti tercapai dan relationship terjaga, tetapi belum ada elemen negosiasi atau keputusan eksplisit |
 
-**Total: 17 / 20**
+**Total:** 17 / 20
 
 ::: {.assessor-only}
+### Assessment dosen
 
-## Assessment dosen
-Skor: — / 20
-Evidence yang mendukung: —
-Prioritas perbaikan: —
-Keputusan: Belum dinilai / Perlu revisi / Tercapai
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
 :::
