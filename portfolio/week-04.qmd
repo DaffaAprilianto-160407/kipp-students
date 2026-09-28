@@ -52,7 +52,8 @@ Variasi *repertoire* diubah secara kontras: analogi keseharian (Friend — GoFoo
 
 Batas evidence yang perlu dicatat: hanya versi Friend yang diuji ke orang sungguhan (T). Versi Technical peer, Manager, Customer, dan Public belum diuji ke target aslinya, dan versi Customer masih berbasis skenario asumsi. Satu orang juga tidak mewakili seluruh audiens awam, dan teach-back lewat chat tidak memperlihatkan ekspresi bingung yang mungkin muncul saat bicara langsung.
 
-**Catatan Penggunaan AI:** AI (Claude) membantu menjelaskan tugas dan menyarankan opsi konsep teknis, tetapi keputusan memilih T sebagai target uji dan menilai apakah jawabannya menunjukkan pemahaman tetap dilakukan sendiri (rincian lengkap ada di bagian Penggunaan AI).
+**Catatan Penggunaan AI Kopilot:**
+AI (Claude) membantu menjelaskan tugas dan menyarankan opsi konsep teknis, tetapi keputusan memilih T sebagai target uji dan menilai apakah jawabannya menunjukkan pemahaman tetap dilakukan sendiri (rincian lengkap ada di bagian Penggunaan AI).
 
 ---
 
@@ -60,29 +61,33 @@ Batas evidence yang perlu dicatat: hanya versi Friend yang diuji ke orang sunggu
 
 **Tanggal dan setting:** 27 September 2026, percakapan chat WhatsApp.
 
-**Persons dan relationship:** Saya (mahasiswa Sistem dan Teknologi Informasi) dan T, teman saya yang berkuliah di Fakultas Kedokteran Gigi (FKG). T dipilih karena bidangnya jauh dari IT, sehingga sesuai sebagai target "beda program studi". Data T dibatasi pada inisial dan program studi.
+**Persons dan relationship:** 
+- Saya (mahasiswa Sistem dan Teknologi Informasi).
+- T, teman saya yang berkuliah di Fakultas Kedokteran Gigi (FKG). T dipilih karena bidangnya jauh dari IT, sehingga sesuai sebagai target "beda program studi". Data T dibatasi pada inisial dan program studi.
 
-**Objective dan initial state:** Objective: menyampaikan makna inti API dalam lima ragam bahasa tanpa mengubah core meaning, lalu memastikan satu target nyata benar-benar memahaminya, bukan sekadar mengiyakan. Initial state: T berasal dari bidang non-IT; pengetahuan awal T tentang istilah API tidak saya ukur sebelum pesan dikirim (dicatat sebagai batas di bagian Analisis dan batas). Respons pertama T setelah membaca versi Friend hanya "iya paham".
+**Objective dan initial state:** 
+- **Objective:** Menyampaikan makna inti API dalam lima ragam bahasa tanpa mengubah core meaning, lalu memastikan satu target nyata benar-benar memahaminya, bukan sekadar mengiyakan.
+- **Initial State:** T berasal dari bidang non-IT; pengetahuan awal T tentang istilah API tidak saya ukur sebelum pesan dikirim (dicatat sebagai batas di bagian Analisis dan batas). Respons pertama T setelah membaca versi Friend hanya "iya paham".
 
 ---
 
 ## Evidence
 
 ::: {.evidence-block}
-### Matriks Terjemahan Lima Bahasa: API
+### Matriks Terjemahan Lima Bahasa
 
 **Core Meaning:** API adalah penghubung yang memungkinkan dua sistem atau aplikasi yang berbeda saling bertukar data dan bekerja sama, tanpa salah satu pihak perlu mengetahui cara kerja internal pihak lainnya.
 
 1. **Customer / Student user:**
-   > "Kalau kamu lagi checkout di aplikasi kampus dan pembayaran gagal padahal saldo cukup, itu biasanya bukan aplikasinya yang rusak, tapi ada gangguan di 'jembatan' (API) yang menghubungkannya ke sistem pembayaran. Tunggu beberapa menit lalu ulangi; kalau masih gagal, lapor ke help desk aplikasi tersebut."
+   > *"Kalau kamu lagi checkout di aplikasi kampus dan pembayaran gagal padahal saldo cukup, itu biasanya bukan aplikasinya yang rusak, tapi ada gangguan di 'jembatan' (API) yang menghubungkannya ke sistem pembayaran. Tunggu beberapa menit lalu ulangi; kalau masih gagal, lapor ke help desk aplikasi tersebut."*
 2. **Friend:**
-   > "Lo tau kan pas lo pesen makan lewat GoFood terus bisa langsung bayar pake OVO/Gopay tanpa keluar aplikasi? Nah, itu karena ada yang namanya API — anggap aja kayak 'penerjemah' atau 'perantara' yang bikin dua aplikasi beda bisa saling ngobrol dan kerja bareng, padahal dibikin sama perusahaan yang beda-beda."
+   > *"Lo tau kan pas lo pesen makan lewat GoFood terus bisa langsung bayar pake OVO/Gopay tanpa keluar aplikasi? Nah, itu karena ada yang namanya API — anggap aja kayak 'penerjemah' atau 'perantara' yang bikin dua aplikasi beda bisa saling ngobrol dan kerja bareng, padahal dibikin sama perusahaan yang beda-beda."*
 3. **Technical peer:**
-   > "API adalah lapisan abstraksi yang mengekspos endpoint via HTTP/HTTPS dengan method GET/POST/PUT/DELETE, memungkinkan komunikasi client-server dalam format JSON/XML, umumnya dengan autentikasi (API key/OAuth 2.0) dan rate limiting."
+   > *"API adalah lapisan abstraksi yang mengekspos endpoint via HTTP/HTTPS dengan method GET/POST/PUT/DELETE, memungkinkan komunikasi client-server dalam format JSON/XML, umumnya dengan autentikasi (API key/OAuth 2.0) dan rate limiting."*
 4. **Manager:**
-   > "Investasi pengembangan API mempercepat time-to-market karena mitra eksternal bisa integrasi tanpa membangun ulang fitur dari nol, sekaligus membuka peluang revenue baru. Risikonya, API tanpa keamanan memadai bisa jadi celah kebocoran data."
+   > *"Investasi pengembangan API mempercepat time-to-market karena mitra eksternal bisa integrasi tanpa membangun ulang fitur dari nol, sekaligus membuka peluang revenue baru. Risikonya, API tanpa keamanan memadai bisa jadi celah kebocoran data."*
 5. **Public:**
-   > "Setiap kali kamu pesan ojek online lalu langsung bisa bayar pakai e-wallet, di baliknya ada 'jembatan penghubung' (API) yang membuat aplikasi berbeda bisa berbagi data dengan aman. Berikan izin akses hanya ke aplikasi terpercaya, karena lewat jembatan inilah data pribadi bisa mengalir."
+   > *"Setiap kali kamu pesan ojek online lalu langsung bisa bayar pakai e-wallet, di baliknya ada 'jembatan penghubung' (API) yang membuat aplikasi berbeda bisa berbagi data dengan aman. Berikan izin akses hanya ke aplikasi terpercaya, karena lewat jembatan inilah data pribadi bisa mengalir."*
 
 *Kontribusi Pribadi:* Merumuskan *core meaning*, menyusun kelima draf, memilih T sebagai target uji, mengirim pesan, meminta teach-back, dan menilai pemahaman T. Draf pesan dan pertanyaan teach-back disusun dengan bantuan Claude (lihat Penggunaan AI).
 
@@ -95,20 +100,21 @@ Percakapan asli tersimpan sebagai arsip pribadi (screenshot WhatsApp) dan dapat 
 
 | Elemen | Evidence dan analisis |
 |---|---|
-| Person & character | T adalah mahasiswa FKG yang sebaya dan berada di luar bidang IT, sehingga butuh contoh dari pengalaman sehari-hari, bukan istilah teknis. Empat audiens lain dibedakan menurut kebutuhan: rekan teknis butuh presisi, manajer butuh dampak dan risiko, pengguna butuh langkah tindakan, publik butuh relevansi keamanan dan kemudahan hidup. |
-| Objective & state | Core meaning (API sebagai penghubung dua sistem tanpa perlu tahu isi internalnya) sama di kelima versi. Setelah teach-back, T menyatakan inti itu dengan kata-katanya sendiri, sehingga objective tercapai untuk satu target. Pengetahuan awal T tidak diukur, jadi perubahan state tidak dapat dibuktikan sebelum-sesudah. |
-| Repertoire & language | Friend memakai analogi GoFood dan e-wallet dengan kata santai. Technical peer memakai istilah presisi (endpoint, HTTP method, JSON/XML, OAuth 2.0, rate limiting). Manager memakai kerangka time-to-market, biaya, dan risiko. Customer memakai dampak dan langkah lanjut. Public memakai keamanan dan izin akses. |
-| Response & adaptation | Jawaban "iya paham" terlalu singkat untuk dijadikan bukti, sehingga saya menambah langkah teach-back. Jawaban T akurat, sehingga versi Friend tidak perlu diubah. T memakai istilah "sistem" alih-alih analogi perantara pada draf saya, yang menunjukkan ia menyusun ulang pemahamannya sendiri. |
-| Agreement/action | Ada kesepahaman pada makna inti API, dibuktikan lewat teach-back. Tidak ada tindakan lanjutan yang disepakati karena konteksnya latihan komunikasi, bukan keputusan bersama. |
-| Relationship outcome | T bersedia menjawab dua kali dan nada percakapan tetap santai, sehingga hubungan tetap terbuka untuk uji lanjutan. |
+| **Person & character** | T adalah mahasiswa FKG yang sebaya dan berada di luar bidang IT, sehingga butuh contoh dari pengalaman sehari-hari, bukan istilah teknis. Empat audiens lain dibedakan menurut kebutuhan: rekan teknis butuh presisi, manajer butuh dampak dan risiko, pengguna butuh langkah tindakan, publik butuh relevansi keamanan dan kemudahan hidup. |
+| **Objective & state** | Core meaning (API sebagai penghubung dua sistem tanpa perlu tahu isi internalnya) sama di kelima versi. Setelah teach-back, T menyatakan inti itu dengan kata-katanya sendiri, sehingga objective tercapai untuk satu target. Pengetahuan awal T tidak diukur, jadi perubahan state tidak dapat dibuktikan sebelum-sesudah. |
+| **Repertoire & language** | Friend memakai analogi GoFood dan e-wallet dengan kata santai. Technical peer memakai istilah presisi (endpoint, HTTP method, JSON/XML, OAuth 2.0, rate limiting). Manager memakai kerangka time-to-market, biaya, dan risiko. Customer memakai dampak dan langkah lanjut. Public memakai keamanan dan izin akses. |
+| **Response & adaptation** | Jawaban "iya paham" terlalu singkat untuk dijadikan bukti, sehingga saya menambah langkah teach-back. Jawaban T akurat, sehingga versi Friend tidak perlu diubah. T memakai istilah "sistem" alih-alih analogi perantara pada draf saya, yang menunjukkan ia menyusun ulang pemahamannya sendiri. |
+| **Agreement/action** | Ada kesepahaman pada makna inti API, dibuktikan lewat teach-back. Tidak ada tindakan lanjutan yang disepakati karena konteksnya latihan komunikasi, bukan keputusan bersama. |
+| **Relationship outcome** | T bersedia menjawab dua kali dan nada percakapan tetap santai, sehingga hubungan tetap terbuka untuk uji lanjutan. |
 
 ---
 
 ## Penggunaan AI
 
 - **Alat dan peran AI:** Claude (Anthropic). Claude menjelaskan tugas, menyarankan beberapa opsi konsep teknis (saya memilih API), mensimulasikan anak 10 tahun untuk mengkritik versi Anak-Anak di lembar kerja.
-- **Prompt atau instruksi penting:** "Bantu aku mengerjakan tugas ini, jelaskan kepada ku tugas ini dan berikan instruksi apa saja yang harus aku lakukan".
-- **Bagian output yang digunakan, diubah, atau ditolak:** Digunakan: draf lima versi dan pesan ke T. Diubah: versi Anak-Anak di lembar kerja direvisi setelah simulasi menemukan istilah "program komputer" yang belum dijelaskan.
+- **Prompt penting:** 
+  > *"Bantu aku mengerjakan tugas ini, jelaskan kepada ku tugas ini dan berikan instruksi apa saja yang harus aku lakukan"*
+- **Bagian output yang diubah/ditolak:** Digunakan: draf lima versi dan pesan ke T. Diubah: versi Anak-Anak di lembar kerja direvisi setelah simulasi menemukan istilah "program komputer" yang belum dijelaskan.
 - **Pemeriksaan accuracy, privacy, dan authority:** Accuracy: kebenaran inti diuji ke manusia (T), sedangkan istilah teknis pada versi Technical peer belum diuji ke rekan sejurusan. Privacy: T hanya disebut dengan inisial dan program studi. Authority: keluaran AI tidak dijadikan bukti pemahaman; bukti berasal dari jawaban T sendiri, dan keputusan skor akhir ada pada saya.
 - **Apa yang tetap dipelajari sebagai manusia:** Jawaban "iya paham" belum cukup sebagai bukti pemahaman, sehingga perlu teach-back. T menjelaskan ulang dengan kata-katanya sendiri, bukan dengan analogi yang saya berikan.
 
@@ -116,11 +122,14 @@ Percakapan asli tersimpan sebagai arsip pribadi (screenshot WhatsApp) dan dapat 
 
 ## Feedback dan tindak lanjut
 
-**Feedback yang diterima:** T awalnya menjawab "iya paham", lalu pada teach-back menjelaskan API sebagai penghubung antara dua sistem independen yang dipakai ketika pengguna di sistem A membutuhkan sesuatu dari sistem B.
+**Feedback yang diterima:** 
+> *"Intinya API ni penghubung lah antara dua sistem yang independen. Jadi ketika user mau pake sistem A tapi dia butuh sesuatu dari sistem B, maka dia bakal minta ke si API ini buat dihubungin."* — (Jawaban teach-back T, setelah sebelumnya hanya menjawab "iya paham").
 
-**Adaptation/replay:** Setelah jawaban singkat, saya menambah langkah teach-back untuk memverifikasi pemahaman. Karena jawaban T akurat, versi Friend tidak saya ubah. Replay ke audiens lain belum dilakukan.
+**Adaptation/replay:** 
+Setelah jawaban singkat, saya menambah langkah teach-back untuk memverifikasi pemahaman. Karena jawaban T akurat, versi Friend tidak saya ubah. Replay ke audiens lain belum dilakukan.
 
-**Next practice:** Menguji versi Technical peer ke satu teman sejurusan STI dan meminta mereka menandai istilah yang kurang presisi.
+**Next practice:** 
+Menguji versi Technical peer ke satu teman sejurusan STI dan meminta mereka menandai istilah yang kurang presisi.
 
 ---
 
@@ -128,13 +137,13 @@ Percakapan asli tersimpan sebagai arsip pribadi (screenshot WhatsApp) dan dapat 
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 3 | Lima target dibedakan berdasarkan kebutuhan, tetapi baru satu audiens (Friend) yang tervalidasi ke orang sungguhan |
-| Objective & State | 3 | Core meaning konsisten di kelima versi; versi Customer masih skenario asumsi dan pengetahuan awal T tidak diukur |
-| Repertoire, Language & AI | 4 | Lima repertoire berbeda dengan rationale eksplisit; peran AI didokumentasikan apa adanya |
-| Response & Adaptation | 4 | Teach-back membuktikan pemahaman akurat T, bukan sekadar klaim "paham" |
-| Agreement, Action & Relationship | 3 | Kesepahaman pada makna inti tercapai dan relationship terjaga, tetapi belum ada elemen negosiasi atau keputusan eksplisit |
+| **Person & Character** | 3 | Lima target dibedakan berdasarkan kebutuhan, tetapi baru satu audiens (Friend) yang tervalidasi ke orang sungguhan |
+| **Objective & State** | 3 | Core meaning konsisten di kelima versi; versi Customer masih skenario asumsi dan pengetahuan awal T tidak diukur |
+| **Repertoire, Language & AI** | 4 | Lima repertoire berbeda dengan rationale eksplisit; peran AI didokumentasikan apa adanya |
+| **Response & Adaptation** | 4 | Teach-back membuktikan pemahaman akurat T, bukan sekadar klaim "paham" |
+| **Agreement, Action & Relationship** | 3 | Kesepahaman pada makna inti tercapai dan relationship terjaga, tetapi belum ada elemen negosiasi atau keputusan eksplisit |
 
-**Total:** 17 / 20
+**Total:** 17 / 20 - Lanjut
 
 ::: {.assessor-only}
 ### Assessment dosen
