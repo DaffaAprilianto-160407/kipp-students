@@ -273,8 +273,13 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#kompetensi-target" id="toc-kompetensi-target" class="nav-link active" data-scroll-target="#kompetensi-target">Kompetensi target</a></li>
   <li><a href="#evidence-wajib" id="toc-evidence-wajib" class="nav-link" data-scroll-target="#evidence-wajib">Evidence wajib</a></li>
   <li><a href="#core-meaning" id="toc-core-meaning" class="nav-link" data-scroll-target="#core-meaning">Core meaning</a></li>
+  <li><a href="#evidence-understanding" id="toc-evidence-understanding" class="nav-link" data-scroll-target="#evidence-understanding">Evidence understanding</a></li>
+  <li><a href="#analisis-dan-batas" id="toc-analisis-dan-batas" class="nav-link" data-scroll-target="#analisis-dan-batas">Analisis dan batas</a></li>
   <li><a href="#konteks-performance" id="toc-konteks-performance" class="nav-link" data-scroll-target="#konteks-performance">Konteks performance</a></li>
-  <li><a href="#evidence" id="toc-evidence" class="nav-link" data-scroll-target="#evidence">Evidence</a></li>
+  <li><a href="#evidence" id="toc-evidence" class="nav-link" data-scroll-target="#evidence">Evidence</a>
+  <ul class="collapse">
+  <li><a href="#matriks-terjemahan-lima-bahasa-api" id="toc-matriks-terjemahan-lima-bahasa-api" class="nav-link" data-scroll-target="#matriks-terjemahan-lima-bahasa-api">Matriks Terjemahan Lima Bahasa: API</a></li>
+  </ul></li>
   <li><a href="#analisis-komunikasi" id="toc-analisis-komunikasi" class="nav-link" data-scroll-target="#analisis-komunikasi">Analisis komunikasi</a></li>
   <li><a href="#penggunaan-ai" id="toc-penggunaan-ai" class="nav-link" data-scroll-target="#penggunaan-ai">Penggunaan AI</a></li>
   <li><a href="#feedback-dan-tindak-lanjut" id="toc-feedback-dan-tindak-lanjut" class="nav-link" data-scroll-target="#feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</a></li>
@@ -359,53 +364,74 @@ ul.task-list li input[type="checkbox"] {
 </thead>
 <tbody>
 <tr class="odd">
-<td>Friend</td>
-<td>“Lo tau kan pas lo pesen makan lewat GoFood terus bisa langsung bayar pake OVO/Gopay tanpa keluar aplikasi? Nah, itu karena ada yang namanya API — anggap aja kayak ‘penerjemah’ atau ‘perantara’ yang bikin dua aplikasi beda bisa saling ngobrol dan kerja bareng, padahal dibikin sama perusahaan yang beda-beda.”</td>
-<td>Analogi dari pengalaman sehari-hari, tanpa istilah teknis, agar terasa ngobrol bukan menggurui</td>
-</tr>
-<tr class="even">
-<td>Technical peer</td>
-<td>“API adalah lapisan abstraksi yang mengekspos endpoint via HTTP/HTTPS dengan method GET/POST/PUT/DELETE, memungkinkan komunikasi client-server dalam format JSON/XML, umumnya dengan autentikasi (API key/OAuth 2.0) dan rate limiting.”</td>
-<td>Presisi istilah dan parameter standar industri untuk audiens yang menuntut akurasi teknis</td>
-</tr>
-<tr class="odd">
-<td>Manager</td>
-<td>“Investasi pengembangan API mempercepat time-to-market karena mitra eksternal bisa integrasi tanpa membangun ulang fitur dari nol, sekaligus membuka peluang revenue baru. Risikonya, API tanpa keamanan memadai bisa jadi celah kebocoran data.”</td>
-<td>Fokus pada value, biaya, dan risiko bisnis, bukan mekanisme teknis</td>
-</tr>
-<tr class="even">
-<td>Customer/student user</td>
+<td><strong>Customer / Student user</strong></td>
 <td>“Kalau kamu lagi checkout di aplikasi kampus dan pembayaran gagal padahal saldo cukup, itu biasanya bukan aplikasinya yang rusak, tapi ada gangguan di ‘jembatan’ (API) yang menghubungkannya ke sistem pembayaran. Tunggu beberapa menit lalu ulangi; kalau masih gagal, lapor ke help desk aplikasi tersebut.”</td>
 <td>Menjelaskan dampak konkret dan action yang harus diambil, tanpa perlu tahu istilah “API” secara mendalam</td>
 </tr>
+<tr class="even">
+<td><strong>Friend</strong></td>
+<td>“Lo tau kan pas lo pesen makan lewat GoFood terus bisa langsung bayar pake OVO/Gopay tanpa keluar aplikasi? Nah, itu karena ada yang namanya API — anggap aja kayak ‘penerjemah’ atau ‘perantara’ yang bikin dua aplikasi beda bisa saling ngobrol dan kerja bareng, padahal dibikin sama perusahaan yang beda-beda.”</td>
+<td>Analogi dari pengalaman sehari-hari, tanpa istilah teknis, agar terasa ngobrol bukan menggurui</td>
+</tr>
 <tr class="odd">
-<td>Public</td>
+<td><strong>Technical peer</strong></td>
+<td>“API adalah lapisan abstraksi yang mengekspos endpoint via HTTP/HTTPS dengan method GET/POST/PUT/DELETE, memungkinkan komunikasi client-server dalam format JSON/XML, umumnya dengan autentikasi (API key/OAuth 2.0) dan rate limiting.”</td>
+<td>Presisi istilah dan parameter standar industri untuk audiens yang menuntut akurasi teknis</td>
+</tr>
+<tr class="even">
+<td><strong>Manager</strong></td>
+<td>“Investasi pengembangan API mempercepat time-to-market karena mitra eksternal bisa integrasi tanpa membangun ulang fitur dari nol, sekaligus membuka peluang revenue baru. Risikonya, API tanpa keamanan memadai bisa jadi celah kebocoran data.”</td>
+<td>Fokus pada value, biaya, dan risiko bisnis, bukan mekanisme teknis</td>
+</tr>
+<tr class="odd">
+<td><strong>Public</strong></td>
 <td>“Setiap kali kamu pesan ojek online lalu langsung bisa bayar pakai e-wallet, di baliknya ada ‘jembatan penghubung’ (API) yang membuat aplikasi berbeda bisa berbagi data dengan aman. Berikan izin akses hanya ke aplikasi terpercaya, karena lewat jembatan inilah data pribadi bisa mengalir.”</td>
 <td>Menghubungkan konsep ke keamanan dan kemudahan hidup sehari-hari, bahasa inklusif untuk audiens heterogen</td>
 </tr>
 </tbody>
 </table>
+<hr>
+</section>
+<section id="evidence-understanding" class="level2">
+<h2 class="anchored" data-anchor-id="evidence-understanding">Evidence understanding</h2>
+<p>Uji pemahaman dilakukan dengan menyampaikan versi <strong>Friend</strong> kepada T, teman saya dari Fakultas Kedokteran Gigi (FKG), lewat chat WhatsApp.</p>
+<ul>
+<li><strong>Respon awal target:</strong> T menjawab singkat, <em>“iya paham”</em>, yang belum cukup membuktikan pemahaman.</li>
+<li><strong>Adaptasi/Refinansi:</strong> Karena jawaban itu terlalu singkat untuk dijadikan bukti, saya meminta T melakukan <em>teach-back</em> — menjelaskan ulang API dengan bahasanya sendiri.</li>
+<li><strong>Hasil akhir:</strong> T menjawab: <em>“Intinya API ni penghubung lah antara dua sistem yang independen. Jadi ketika user mau pake sistem A tapi dia butuh sesuatu dari sistem B, maka dia bakal minta ke si API ini buat dihubungin.”</em> T menyusun ulang pemahamannya dengan kata “sistem”, bukan mengulang analogi GoFood/OVO yang saya berikan, sehingga versi Friend dinilai sudah tersampaikan tanpa perlu direvisi. Screenshot percakapan tersimpan sebagai arsip pribadi dan dapat diberikan kepada assessor bila diperlukan.</li>
+</ul>
+<hr>
+</section>
+<section id="analisis-dan-batas" class="level2">
+<h2 class="anchored" data-anchor-id="analisis-dan-batas">Analisis dan batas</h2>
+<p>Variasi <em>repertoire</em> diubah secara kontras: analogi keseharian (Friend — GoFood/OVO), istilah standar industri (Technical peer — endpoint, HTTP method, OAuth 2.0), kerangka bisnis (Manager — time-to-market, risiko), langkah tindakan konkret (Customer/Student user), hingga bahasa keamanan-inklusif (Public).</p>
+<p>Batas evidence yang perlu dicatat: hanya versi Friend yang diuji ke orang sungguhan (T). Versi Technical peer, Manager, Customer, dan Public belum diuji ke target aslinya, dan versi Customer masih berbasis skenario asumsi. Satu orang juga tidak mewakili seluruh audiens awam, dan teach-back lewat chat tidak memperlihatkan ekspresi bingung yang mungkin muncul saat bicara langsung.</p>
+<p><strong>Catatan Penggunaan AI:</strong> AI (Claude) membantu menjelaskan tugas dan menyarankan opsi konsep teknis, tetapi keputusan memilih T sebagai target uji dan menilai apakah jawabannya menunjukkan pemahaman tetap dilakukan sendiri (rincian lengkap ada di bagian Penggunaan AI).</p>
+<hr>
 </section>
 <section id="konteks-performance" class="level2">
 <h2 class="anchored" data-anchor-id="konteks-performance">Konteks performance</h2>
 <p><strong>Tanggal dan setting:</strong> 27 September 2026, percakapan chat WhatsApp.</p>
 <p><strong>Persons dan relationship:</strong> Saya (mahasiswa Sistem dan Teknologi Informasi) dan T, teman saya yang berkuliah di Fakultas Kedokteran Gigi (FKG). T dipilih karena bidangnya jauh dari IT, sehingga sesuai sebagai target “beda program studi”. Data T dibatasi pada inisial dan program studi.</p>
-<p><strong>Objective dan initial state:</strong> Objective: menyampaikan makna inti API dalam lima ragam bahasa tanpa mengubah core meaning, lalu memastikan satu target nyata benar-benar memahaminya, bukan sekadar mengiyakan. Initial state: T berasal dari bidang non-IT; pengetahuan awal T tentang istilah API tidak saya ukur sebelum pesan dikirim (dicatat sebagai batas di bagian Analisis komunikasi). Respons pertama T setelah membaca versi Friend hanya “iya paham”.</p>
+<p><strong>Objective dan initial state:</strong> Objective: menyampaikan makna inti API dalam lima ragam bahasa tanpa mengubah core meaning, lalu memastikan satu target nyata benar-benar memahaminya, bukan sekadar mengiyakan. Initial state: T berasal dari bidang non-IT; pengetahuan awal T tentang istilah API tidak saya ukur sebelum pesan dikirim (dicatat sebagai batas di bagian Analisis dan batas). Respons pertama T setelah membaca versi Friend hanya “iya paham”.</p>
+<hr>
 </section>
 <section id="evidence" class="level2">
 <h2 class="anchored" data-anchor-id="evidence">Evidence</h2>
-<div class="evidence-block">
-<p><strong>Percakapan WhatsApp dengan T</strong> (versi Friend dikirim lewat chat):</p>
+<section id="matriks-terjemahan-lima-bahasa-api" class="level3 evidence-block">
+<h3 class="anchored" data-anchor-id="matriks-terjemahan-lima-bahasa-api">Matriks Terjemahan Lima Bahasa: API</h3>
+<p><strong>Core Meaning:</strong> API adalah penghubung yang memungkinkan dua sistem atau aplikasi yang berbeda saling bertukar data dan bekerja sama, tanpa salah satu pihak perlu mengetahui cara kerja internal pihak lainnya.</p>
 <ol type="1">
-<li>Respons awal T: “iya paham”.</li>
-<li>Karena jawaban singkat belum membuktikan pemahaman, saya meminta T menjelaskan balik (<em>teach-back</em>) dengan bahasanya sendiri. Jawaban T:</li>
+<li><strong>Customer / Student user:</strong> &gt; “Kalau kamu lagi checkout di aplikasi kampus dan pembayaran gagal padahal saldo cukup, itu biasanya bukan aplikasinya yang rusak, tapi ada gangguan di ‘jembatan’ (API) yang menghubungkannya ke sistem pembayaran. Tunggu beberapa menit lalu ulangi; kalau masih gagal, lapor ke help desk aplikasi tersebut.”</li>
+<li><strong>Friend:</strong> &gt; “Lo tau kan pas lo pesen makan lewat GoFood terus bisa langsung bayar pake OVO/Gopay tanpa keluar aplikasi? Nah, itu karena ada yang namanya API — anggap aja kayak ‘penerjemah’ atau ‘perantara’ yang bikin dua aplikasi beda bisa saling ngobrol dan kerja bareng, padahal dibikin sama perusahaan yang beda-beda.”</li>
+<li><strong>Technical peer:</strong> &gt; “API adalah lapisan abstraksi yang mengekspos endpoint via HTTP/HTTPS dengan method GET/POST/PUT/DELETE, memungkinkan komunikasi client-server dalam format JSON/XML, umumnya dengan autentikasi (API key/OAuth 2.0) dan rate limiting.”</li>
+<li><strong>Manager:</strong> &gt; “Investasi pengembangan API mempercepat time-to-market karena mitra eksternal bisa integrasi tanpa membangun ulang fitur dari nol, sekaligus membuka peluang revenue baru. Risikonya, API tanpa keamanan memadai bisa jadi celah kebocoran data.”</li>
+<li><strong>Public:</strong> &gt; “Setiap kali kamu pesan ojek online lalu langsung bisa bayar pakai e-wallet, di baliknya ada ‘jembatan penghubung’ (API) yang membuat aplikasi berbeda bisa berbagi data dengan aman. Berikan izin akses hanya ke aplikasi terpercaya, karena lewat jembatan inilah data pribadi bisa mengalir.”</li>
 </ol>
-<blockquote class="blockquote">
-<p>“Intinya API ni penghubung lah antara dua sistem yang independen. Jadi ketika user mau pake sistem A tapi dia butuh sesuatu dari sistem B, maka dia bakal minta ke si API ini buat dihubungin.”</p>
-</blockquote>
-<p>Screenshot percakapan tersimpan sebagai arsip pribadi dan dapat diberikan kepada assessor bila diperlukan. Jawaban T dikutip lengkap di atas agar dapat diverifikasi langsung dari halaman ini.</p>
-<p>Kontribusi saya: memilih T sebagai target uji, mengirim pesan, meminta teach-back setelah jawaban singkat, dan menilai apakah jawaban T menunjukkan pemahaman. Draf pesan dan pertanyaan teach-back disusun dengan bantuan Claude (lihat Penggunaan AI).</p>
-</div>
+<p><em>Kontribusi Pribadi:</em> Merumuskan <em>core meaning</em>, menyusun kelima draf, memilih T sebagai target uji, mengirim pesan, meminta teach-back, dan menilai pemahaman T. Draf pesan dan pertanyaan teach-back disusun dengan bantuan Claude (lihat Penggunaan AI).</p>
+<p>Percakapan asli tersimpan sebagai arsip pribadi (screenshot WhatsApp) dan dapat diberikan kepada assessor bila diperlukan.</p>
+</section>
+<hr>
 </section>
 <section id="analisis-komunikasi" class="level2">
 <h2 class="anchored" data-anchor-id="analisis-komunikasi">Analisis komunikasi</h2>
@@ -447,7 +473,7 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </tbody>
 </table>
-<p><strong>Batas evidence:</strong> hanya versi Friend yang diuji ke orang sungguhan. Versi Technical peer, Manager, Customer, dan Public belum diuji, dan versi Customer berbasis skenario asumsi. Satu orang tidak mewakili seluruh audiens awam, dan teach-back lewat chat tidak memperlihatkan ekspresi bingung yang mungkin muncul saat bicara langsung.</p>
+<hr>
 </section>
 <section id="penggunaan-ai" class="level2">
 <h2 class="anchored" data-anchor-id="penggunaan-ai">Penggunaan AI</h2>
@@ -458,12 +484,14 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Pemeriksaan accuracy, privacy, dan authority:</strong> Accuracy: kebenaran inti diuji ke manusia (T), sedangkan istilah teknis pada versi Technical peer belum diuji ke rekan sejurusan. Privacy: T hanya disebut dengan inisial dan program studi. Authority: keluaran AI tidak dijadikan bukti pemahaman; bukti berasal dari jawaban T sendiri, dan keputusan skor akhir ada pada saya.</li>
 <li><strong>Apa yang tetap dipelajari sebagai manusia:</strong> Jawaban “iya paham” belum cukup sebagai bukti pemahaman, sehingga perlu teach-back. T menjelaskan ulang dengan kata-katanya sendiri, bukan dengan analogi yang saya berikan.</li>
 </ul>
+<hr>
 </section>
 <section id="feedback-dan-tindak-lanjut" class="level2">
 <h2 class="anchored" data-anchor-id="feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</h2>
 <p><strong>Feedback yang diterima:</strong> T awalnya menjawab “iya paham”, lalu pada teach-back menjelaskan API sebagai penghubung antara dua sistem independen yang dipakai ketika pengguna di sistem A membutuhkan sesuatu dari sistem B.</p>
 <p><strong>Adaptation/replay:</strong> Setelah jawaban singkat, saya menambah langkah teach-back untuk memverifikasi pemahaman. Karena jawaban T akurat, versi Friend tidak saya ubah. Replay ke audiens lain belum dilakukan.</p>
 <p><strong>Next practice:</strong> Menguji versi Technical peer ke satu teman sejurusan STI dan meminta mereka menandai istilah yang kurang presisi.</p>
+<hr>
 </section>
 <section id="self-assessment" class="level2">
 <h2 class="anchored" data-anchor-id="self-assessment">Self-assessment</h2>
