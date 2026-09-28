@@ -42,10 +42,10 @@ Jika narasumber mengalami kebuntuan selama wawancara, gunakan jenis pertanyaan b
 ## 📝 FASE 2: LEMBAR PENGERJAAN MAHASISWA
 
 ### 👥 1. Profil Narasumber (Disamarkan Demi Privasi)
-*   **Nama Samaran:** 
-*   **Peran/Pekerjaan Nyata:** 
-*   **Domain Hubungan:** Rekan Kerja / Pelanggan / Rekan Mahasiswa *(Coret yang tidak perlu)*
-*   **Konteks Lingkungan:** *(Misal: Kantin Kampus, Kelompok Proyek Kelas, Administrasi Jurusan)*
+*   **Nama Samaran:** W
+*   **Peran/Pekerjaan Nyata:** Mahasiswa peserta osjur (orientasi jurusan) himpunan yang juga menjadi pengurus sebuah UKM (nama UKM disamarkan)
+*   **Domain Hubungan:** ~~Rekan Kerja~~ / ~~Pelanggan~~ / **Rekan Mahasiswa**
+*   **Konteks Lingkungan:** Masa tugas wawancara dalam rangkaian osjur himpunan; wawancara dilakukan lewat chat pada 28 September 2026, sekitar pukul 21.20–21.57 WIB.
 
 ---
 
@@ -53,23 +53,37 @@ Jika narasumber mengalami kebuntuan selama wawancara, gunakan jenis pertanyaan b
 
 #### **Pertanyaan 1: Kejadian Nyata & Contoh Konkret**
 *   *Tuliskan pertanyaan Anda & contoh kasus nyata yang diceritakan narasumber:*
-    > 
+    > **Pertanyaan:** "Ceritakan pengalamanmu waktu ikut osjur. Momen apa yang paling kamu ingat?"
+    >
+    > **Jawaban W:** "Momen paling diingat adalah ketika masa tugas wawancara, aku suka wawancara karena kebanyakan insightful dan informatif. Masalahnya adalah di saat yang sama dengan osjur, aku sedang mengurus projek yang merupakan proker dari divisi UKM yang aku ikuti."
 
 #### **Pertanyaan 2: Dampak Nyata & Beban Masalah**
 *   *Tuliskan dampak langsung dari masalah tersebut terhadap pekerjaan, waktu, atau perasaan mereka:*
-    > 
+    > **Pertanyaan:** "Bagian mana dari pengalaman itu yang jadi masalah buatmu? Apa yang harus kamu tunda atau korbankan?"
+    >
+    > **Jawaban W:** "Sehingga aku perlu membagi waktu dengan benar agar tidak bentrok, tetapi kedua kegiatan itu terasa bermanfaat."
+    >
+    > *Catatan:* Dampak yang muncul adalah tekanan pembagian waktu. Detail konkret (misalnya durasi tugas atau kegiatan yang tergeser) belum digali karena W sedang memiliki acara.
 
 #### **Pertanyaan 3: Pemetaan Pihak Terdampak**
 *   *Siapa saja pribadi dan peran yang ikut terganggu oleh peristiwa ini?*
-    > 
+    > **Pertanyaan:** "Selain kamu, siapa lagi yang ikut kena imbasnya?"
+    >
+    > **Jawaban W:** "Mungkin teman yang lain yang memiliki kesibukan lain juga terdampak karena harus meluangkan waktu banyak untuk wawancara."
+    >
+    > *Catatan:* W memakai kata "mungkin", jadi ini dugaan, bukan pengalaman langsung. Pihak terdampak yang pasti adalah W sendiri sebagai peserta osjur yang merangkap pengurus UKM.
 
 #### **Pertanyaan 4: Gambaran Keadaan yang Lebih Baik (Hasil Akhir, Bukan Fitur)**
 *   *Bagaimana situasi ideal yang diharapkan? Ingat: Fokus pada KEMAMPUAN narasumber, bukan teknologi digitalnya.*
-    > 
+    > **Pertanyaan:** "Setelah osjur selesai, kamu berharap sudah punya atau merasakan apa? Apa yang dulu kamu butuhkan tapi tidak kamu dapat?"
+    >
+    > **Jawaban W:** "Setelah osjur selesai harapannya mendapat benefit berupa akses drive akademik dan relasi. Yang aku inginkan sudah aku dapatkan semua."
 
 #### **Pertanyaan 5: Batasan & Kendala Lapangan**
 *   *Apa saja kendala nyata dari segi waktu, biaya, kebijakan, atau kemampuan yang membatasi solusi mereka?*
-    > 
+    > **Pertanyaan (versi yang dikirim ke W):** "Apa yang buat masalah yang kamu jelasin ada dan sulit dihilangkan?"
+    >
+    > **Jawaban W:** "Masalah waktu karena memiliki kesibukan lain sulit dihilangkan karena setiap dari kita punya kesibukan masing-masing, sebagai contohnya aku sudah menjadi pengurus UKM sebelum osjur himpunan, maka aku tidak bisa meninggalkan salah satunya begitu saja. Menurutku ini lebih ke masalah manajemen setiap individu, jika tidak mengatur waktu maka akan merasa sangat terbebani dengan tugas-tugas osjur."
 
 ---
 
@@ -87,11 +101,18 @@ Gunakan formula terstruktur dari buku ajar berikut untuk menyusun masalah narasu
 
 ### ✍️ Draft 1: Pernyataan Masalah Awal (Sebelum Konfirmasi)
 *Susun draf pertama Anda setelah selesai mewawancarai narasumber:*
-> 
+> Peserta osjur himpunan yang juga pengurus sebuah UKM mengalami jadwal tugas osjur yang berjalan bersamaan dengan pengerjaan proker UKM ketika masa tugas wawancara osjur, sehingga ia harus membagi waktu dengan ketat agar tidak bentrok, dan peserta lain yang punya kesibukan berbeda diduga ikut terbebani karena harus meluangkan banyak waktu untuk wawancara. Ia membutuhkan cara membagi waktu antara tugas osjur dan komitmen organisasinya tanpa harus melepas salah satunya, dengan mempertimbangkan bahwa ia sudah menjadi pengurus UKM sebelum osjur dan setiap orang punya kesibukan masing-masing.
+
+**Versi ringkas yang dikirim ke W untuk dikonfirmasi (28 September 2026):**
+> "Kamu (peserta osjur yang juga pengurus UKM) harus membagi waktu dengan ketat karena tugas wawancara osjur berjalan bersamaan dengan proker UKM-mu. Kamu butuh cara membagi waktu tanpa melepas salah satunya, dengan mempertimbangkan bahwa kamu sudah jadi pengurus UKM sebelum osjur dan semua orang punya kesibukan masing-masing."
+
+Bagian "peserta lain ikut terdampak" tidak disertakan dalam versi ringkas karena baru berupa dugaan W.
 
 ### 🔄 Draft 2: Pernyataan Masalah Terkonfirmasi (Setelah Konfirmasi)
 *Bacakan draf pertama Anda kepada narasumber, minta masukan mereka ("Apakah rumusan ini menggambarkan situasi Anda?"), dan tulis perbaikannya di bawah ini berdasarkan koreksi narasumber:*
-> 
+> **Status: belum terkonfirmasi.** Versi ringkas Draft 1 sudah dikirim ke W pada 28 September 2026 beserta permintaan koreksi ("Sudah pas atau ada yang mau diubah?"), tetapi sampai lembar kerja ini dikumpulkan W belum membalas karena sedang ada acara. Karena belum ada koreksi dari W, tidak ada perubahan yang saya tulis, dan Draft 1 tetap berstatus draf. Bukti pesan terkirim tersimpan di folder evidence.
+
+*Catatan keterbatasan:* dampak konkret (durasi tugas, kegiatan yang tergeser) belum tergali, dan pihak terdampak selain W masih berupa dugaan. Ini perlu dikonfirmasi pada wawancara berikutnya.
 
 ---
 
@@ -102,7 +123,7 @@ Tuliskan refleksi singkat Anda (100–150 kata) mengenai proses wawancara ini:
 3. *Janji atau langkah kecil apa yang harus segera Anda tepati untuk menjaga kepercayaan profesional dengan narasumber ini?*
 
 > **Jurnal Refleksi:**
-> 
+> Selama wawancara saya bisa menahan diri dengan baik. Saya tidak menawarkan solusi maupun menyampaikan pendapat tentang osjur, dan hanya mengajukan pertanyaan. Asumsi awal saya adalah osjur masih berfungsi mengenalkan jurusan kepada mahasiswa baru, asalkan tidak berlangsung berbulan-bulan, tanpa kekerasan, dan tanpa bentakan. Setelah membaca jawaban W, asumsi itu terbukti sebagian: W merasakan manfaat osjur berupa akses drive akademik dan relasi. Namun W tidak menyinggung durasi maupun kekerasan; yang ia rasakan justru bentroknya waktu osjur dengan kewajibannya di UKM. W juga menilai ini lebih ke soal pengelolaan waktu masing-masing. Langkah kecil yang saya tepati adalah berterima kasih kepada W atas waktu dan ceritanya, serta menjaga namanya tetap disamarkan. Saya juga mencatat rumusan masalah belum dikonfirmasi W, sehingga hasil ini belum final.
 
 ---
 
@@ -111,9 +132,15 @@ Evaluasi lembar kerja Anda secara jujur menggunakan kriteria rubrik Bab 5 beriku
 
 | Kriteria Evaluasi | ⭐ Belum Tampak (Skor < 60) | ⭐⭐ Mulai Berkembang (Skor 60-79) | ⭐⭐⭐ Cakap / Unggul (Skor 80-100) | Skor Mandiri |
 | :--- | :--- | :--- | :--- | :--- |
-| **Kualitas Mendengarkan** | Langsung menyodorkan solusi tanpa menanyakan konteks atau mengonfirmasi masalah. | Menangkap isi masalah secara umum, namun melompati kendala atau pihak yang terdampak. | Menangkap konteks kejadian, dampak emosional/finansial, kebutuhan riil, serta kendala lapangan secara utuh. | |
-| **Ketepatan Rumusan Masalah** | Rumusan masalah masih berupa usulan solusi teknis (misal: "Memerlukan aplikasi database"). | Berpusat pada masalah, namun bahasanya masih kabur atau belum dikonfirmasi ke narasumber. | Berpusat pada pribadi, menggunakan fakta teramati, terikat konteks yang jelas, bebas solusi, dan telah terkonfirmasi. | |
-| **Etika & Penjagaan Privasi** | Data pribadi dikumpulkan berlebihan, tidak meminta izin narasumber, atau memaksa narasumber. | Meminta izin umum, namun belum menyamarkan identitas atau kurang peka pada data sensitif. | Persetujuan diperoleh secara sukarela, privasi dijaga ketat dengan samaran, dan martabat narasumber sangat dihormati. | |
-| **Keandalan & Hubungan** | Memberikan janji manis berlebihan atau kepastian palsu yang tidak masuk akal demi menyenangkan narasumber. | Menyatakan batas secara umum namun tindak lanjutnya masih mengambang. | Jujur menyatakan batas kemampuan serta memberikan kejelasan langkah dan waktu tindak lanjut berikutnya. | |
+| **Kualitas Mendengarkan** | Langsung menyodorkan solusi tanpa menanyakan konteks atau mengonfirmasi masalah. | Menangkap isi masalah secara umum, namun melompati kendala atau pihak yang terdampak. | Menangkap konteks kejadian, dampak emosional/finansial, kebutuhan riil, serta kendala lapangan secara utuh. | **78** |
+| **Ketepatan Rumusan Masalah** | Rumusan masalah masih berupa usulan solusi teknis (misal: "Memerlukan aplikasi database"). | Berpusat pada masalah, namun bahasanya masih kabur atau belum dikonfirmasi ke narasumber. | Berpusat pada pribadi, menggunakan fakta teramati, terikat konteks yang jelas, bebas solusi, dan telah terkonfirmasi. | **74** |
+| **Etika & Penjagaan Privasi** | Data pribadi dikumpulkan berlebihan, tidak meminta izin narasumber, atau memaksa narasumber. | Meminta izin umum, namun belum menyamarkan identitas atau kurang peka pada data sensitif. | Persetujuan diperoleh secara sukarela, privasi dijaga ketat dengan samaran, dan martabat narasumber sangat dihormati. | **85** |
+| **Keandalan & Hubungan** | Memberikan janji manis berlebihan atau kepastian palsu yang tidak masuk akal demi menyenangkan narasumber. | Menyatakan batas secara umum namun tindak lanjutnya masih mengambang. | Jujur menyatakan batas kemampuan serta memberikan kejelasan langkah dan waktu tindak lanjut berikutnya. | **78** |
+
+**Catatan penilaian mandiri:**
+*   **Mendengarkan (78):** Kelima aspek (kejadian, dampak, pihak terdampak, keadaan lebih baik, kendala) tergali, dan saya tidak menawarkan solusi. Kekurangannya: wawancara berlangsung lewat chat, saya belum melakukan parafrasa langsung selama wawancara, dan dampak konkret belum tergali karena narasumber sedang ada acara.
+*   **Rumusan (74):** Rumusan berpusat pada narasumber, memakai fakta yang ia ceritakan, dan bebas solusi. Namun belum dikonfirmasi W, sehingga belum masuk kategori Cakap.
+*   **Etika (85):** Izin diminta dan nama disamarkan; nama UKM juga disamarkan di lembar kerja ini.
+*   **Keandalan (78):** Saya jujur mencatat bagian yang belum terkonfirmasi dan belum tergali. Tindak lanjut yang jelas baru berupa ucapan terima kasih dan permintaan konfirmasi rumusan.
 
 *Simpan lembar kerja ini, catatan log wawancara, dan rekaman (jika ada izin) sebagai **Artefak Portofolio Bab 5** Anda.*
