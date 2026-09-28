@@ -1674,7 +1674,7 @@
     "href": "portfolio/week-04.html#evidence",
     "title": "Five-Language Translation Portfolio",
     "section": "Evidence",
-    "text": "Evidence\n\nPercakapan WhatsApp dengan T (versi Friend dikirim lewat chat):\n\nRespons awal T: “iya paham”.\nKarena jawaban singkat belum membuktikan pemahaman, saya meminta T menjelaskan balik (teach-back) dengan bahasanya sendiri. Jawaban T:\n\n\n“Intinya API ni penghubung lah antara dua sistem yang independen. Jadi ketika user mau pake sistem A tapi dia butuh sesuatu dari sistem B, maka dia bakal minta ke si API ini buat dihubungin.”\n\nScreenshot percakapan: folder Google Drive evidence. Jawaban T dikutip lengkap di atas agar dapat diverifikasi tanpa membuka tautan.\nKontribusi saya: memilih T sebagai target uji, mengirim pesan, meminta teach-back setelah jawaban singkat, dan menilai apakah jawaban T menunjukkan pemahaman. Draf pesan dan pertanyaan teach-back disusun dengan bantuan Claude (lihat Penggunaan AI).",
+    "text": "Evidence\n\nPercakapan WhatsApp dengan T (versi Friend dikirim lewat chat):\n\nRespons awal T: “iya paham”.\nKarena jawaban singkat belum membuktikan pemahaman, saya meminta T menjelaskan balik (teach-back) dengan bahasanya sendiri. Jawaban T:\n\n\n“Intinya API ni penghubung lah antara dua sistem yang independen. Jadi ketika user mau pake sistem A tapi dia butuh sesuatu dari sistem B, maka dia bakal minta ke si API ini buat dihubungin.”\n\nScreenshot percakapan tersimpan sebagai arsip pribadi dan dapat diberikan kepada assessor bila diperlukan. Jawaban T dikutip lengkap di atas agar dapat diverifikasi langsung dari halaman ini.\nKontribusi saya: memilih T sebagai target uji, mengirim pesan, meminta teach-back setelah jawaban singkat, dan menilai apakah jawaban T menunjukkan pemahaman. Draf pesan dan pertanyaan teach-back disusun dengan bantuan Claude (lihat Penggunaan AI).",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1718,18 +1718,7 @@
     "href": "portfolio/week-04.html#self-assessment",
     "title": "Five-Language Translation Portfolio",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n3\nLima target dibedakan berdasarkan kebutuhan, tetapi baru satu audiens (Friend) yang tervalidasi ke orang sungguhan\n\n\nObjective & State\n3\nCore meaning konsisten di kelima versi; versi Customer masih skenario asumsi dan pengetahuan awal T tidak diukur\n\n\nRepertoire, Language & AI\n4\nLima repertoire berbeda dengan rationale eksplisit; peran AI didokumentasikan apa adanya\n\n\nResponse & Adaptation\n4\nTeach-back membuktikan pemahaman akurat T, bukan sekadar klaim “paham”\n\n\nAgreement, Action & Relationship\n3\nKesepahaman pada makna inti tercapai dan relationship terjaga, tetapi belum ada elemen negosiasi atau keputusan eksplisit\n\n\n\nTotal: 17 / 20",
-    "crumbs": [
-      "Beranda",
-      "Five-Language Translation Portfolio"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-04.html#assessment-dosen",
-    "href": "portfolio/week-04.html#assessment-dosen",
-    "title": "Five-Language Translation Portfolio",
-    "section": "Assessment dosen",
-    "text": "Assessment dosen\nSkor: — / 20 Evidence yang mendukung: — Prioritas perbaikan: — Keputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n3\nLima target dibedakan berdasarkan kebutuhan, tetapi baru satu audiens (Friend) yang tervalidasi ke orang sungguhan\n\n\nObjective & State\n3\nCore meaning konsisten di kelima versi; versi Customer masih skenario asumsi dan pengetahuan awal T tidak diukur\n\n\nRepertoire, Language & AI\n4\nLima repertoire berbeda dengan rationale eksplisit; peran AI didokumentasikan apa adanya\n\n\nResponse & Adaptation\n4\nTeach-back membuktikan pemahaman akurat T, bukan sekadar klaim “paham”\n\n\nAgreement, Action & Relationship\n3\nKesepahaman pada makna inti tercapai dan relationship terjaga, tetapi belum ada elemen negosiasi atau keputusan eksplisit\n\n\n\nTotal: 17 / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
