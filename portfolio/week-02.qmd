@@ -33,9 +33,76 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 ## Evidence
 
 ::: {.evidence-block}
-- PDF pitch deck yang disubmit ke BCC Sandbox 3.0 — menunjukkan isi proposal asli, termasuk judul dan bagian konten yang menjadi sorotan pertanyaan juri.
-- Beberapa screenshot diskusi grup tim — menunjukkan proses koordinasi tim selama persiapan pitch deck.
-- Tautan folder evidence: <https://drive.google.com/drive/folders/1YUPZQB8zT9bXCze6aCe72FLH6nzZKFSg?usp=sharing>
+**Transkrip diskusi grup tim selama persiapan pitch deck (dari tangkapan layar WhatsApp, 18.38–19.01):**
+
+Keterangan transkrip: pesan dipindahkan apa adanya dari tangkapan layar (singkatan dan salah ketik dipertahankan) dan diurutkan menurut waktu. "Saya" adalah penulis jurnal ini (dipanggil dap, dapa, atau dappa dalam chat), sedangkan Z dan T adalah rekan satu tim. Nama rekan yang disebut di dalam pesan disamarkan menjadi inisial dalam kurung siku. Tulisan "(membalas ...)" menandai pesan yang mengutip pesan sebelumnya, sedangkan gambar, stiker, dan pesan suara ditulis dalam tanda `<...>`.
+
+```
+18.38 | T    | [T] ama [Z] diam aja dappa yang jawab
+18.38 | Z    | [T] marketing
+      |      | gw finansial
+      |      | dapa ganteng finansial
+18.38 | Z    | eh kok dapa finansial sih
+18.38 | Z    | operational
+18.38 | Z    | tp klo soal solusi bagi2 aja
+18.39 | Saya | aduh susah ni latian presentasinya
+18.39 | Saya | kita jauh jauh
+18.39 | T    | dappa jangan bercanda
+18.39 | T    | gue liat muka dappa aja ketawa
+18.43 | T    | buat ai
+18.43 | T    | padahal gpt
+18.43 | T    | Dap buat ai dap
+18.44 | Saya | sempet ngga ya
+18.44 | T    | Ayo dap tunjukin steinya
+18.44 | T    | (membalas Saya: "sempet ngga ya") Gpp gak wajib gak si ini cuma buat hook doang
+18.44 | Saya | kalo.cuman pencer pencet doang gampang si
+18.45 | Saya | pake figma aja
+18.45 | Saya | <stiker: kucing oranye, teks "GOKIL" + emoji tertawa>
+18.45 | T    | yes sir
+18.45 | Saya | cuman desain ui ux nya llama
+18.50 | T    | bobo dulu
+18.50 | Saya | lama juga
+18.50 | Saya | <stiker: kucing oranye, teks "GOKIL" + emoji tertawa>
+18.55 | Z    | Nanti meet yu
+18.55 | Z    | Gw mau bahas dah rasanya
+18.55 | Saya | malem ini gw ngga janji
+18.55 | Z    | (membalas Saya: "malem ini gw ngga janji") Kerjain tugas dlu
+18.55 | Z    | Jam 1 gas
+18.55 | Saya | habis rilis tugas besar alpro
+18.55 | Saya | 58 hal co
+18.55 | Z    | (membalas Saya: "habis rilis tugas besar alpro") Anjay
+18.55 | Saya | <gambar: anjing cokelat>
+18.56 | Z    | (membalas Saya: "58 hal co") Tumben lu nggk ngomong tinggal ai
+18.56 | Saya | (membalas Saya: "58 hal co") kek guidebook ya gitu
+18.56 | Z    | Yowes ama [T] deh bahasnya
+18.56 | Z    | Bjir besok bae dah, gw dtiba2 demot
+18.56 | Saya | beliau ini dikira nge ai nya kek tinggal naro soal aja
+18.56 | Z    | <gambar: kucing oranye mengacungkan jempol>
+18.56 | Z    | Besok lu gmn dap
+18.57 | T    | (membalas Z: "Jam 1 gas") [Z]
+18.57 | T    | <gambar: anjing membuka mulut lebar + emoji tertawa>
+18.57 | Z    | (membalas T: "[Z]") Besok aja yo
+18.57 | T    | Besok sore gas
+18.57 | T    | Jangan malam [Z] besoknya aku presentasi
+18.57 | T    | <stiker: kucing putih + emoji tangan berdoa>
+18.57 | Z    | (membalas T: "Jangan malam [Z] besoknya aku presentasi") Kan onlen
+18.57 | Z    | <gambar: anak kucing berdiri>
+18.57 | T    | Sore ampe malam pun takpe
+18.58 | T    | (membalas Z: "Kan onlen") yasudah
+18.58 | T    | <gambar: kucing, teks "MAAPIN YA">
+18.59 | Saya | (membalas Z: "Besok lu gmn dap") <gambar: monyet>
+18.59 | Saya | harusnya aman
+18.59 | Saya | insyaallah
+18.59 | Saya | malem tpi
+19.00 | Saya | jujur gw kepengen bikin yg itunya
+19.00 | Saya | yg bisa dipencet pencet
+19.00 | Z    | (membalas Saya: "jujur gw kepengen bikin yg itunya") Nice
+19.00 | Saya | sebenernya gampang aja si bikin interaktifnya
+19.00 | Z    | (membalas Saya: "malem tpi") Gw gas aje
+19.00 | Saya | tpi kalo ngedesainnya gw ngga ada waktu
+19.00 | Z    | <pesan suara 0:11, isi tidak ditranskripsi>
+19.01 | Saya | btw pitch deck 5 haru lagi
+```
 :::
 
 ## Analisis komunikasi
@@ -53,7 +120,7 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 
 Saya menggunakan Claude (asisten AI) untuk membantu menyusun proses refleksi berdasarkan Lembar Kerja Bab 2.
 
-- **Alat dan peran AI:** Digunakan sebagai fasilitator tanya-jawab — mengajukan pertanyaan pemisah fakta/interpretasi/emosi, dan membantu merapikan bahasa dari draf kasar saya menjadi kalimat yang lebih runtut untuk tiga narasi (Korban, Analitis, Pertumbuhan).
+- **Alat dan peran AI:** Digunakan sebagai fasilitator tanya-jawab — mengajukan pertanyaan pemisah fakta/interpretasi/emosi, dan membantu merapikan bahasa dari draf kasar saya menjadi kalimat yang lebih runtut untuk tiga narasi (Korban, Analitis, Pertumbuhan). Pada tahap revisi, AI juga dipakai untuk memindahkan tangkapan layar percakapan grup tim ke bentuk teks pada bagian Evidence; isi percakapannya berasal dari chat asli saya dan nama rekan diganti inisial.
 - **Prompt/instruksi penting:** Saya menceritakan kejadian BCC Sandbox 3.0 apa adanya, lalu AI menanyakan detail spesifik (fakta, interpretasi pertama, sensasi tubuh, faktor kendali, dsb.) satu per satu.
 - **Bagian yang digunakan/diubah/ditolak:** Draf awal Narasi Korban dari AI sempat lebih ekstrem dari yang saya rasakan sebenarnya; saya sesuaikan supaya tetap jujur dengan kadar emosi saya yang sebenarnya (marah tapi tidak berlebihan). Isi faktual (nama kompetisi, jumlah tim, kutipan pikiran pertama, isi obrolan dengan tim) sepenuhnya berasal dari ingatan saya sendiri, bukan buatan AI.
 - **Pemeriksaan accuracy, privacy, dan authority:** Nama rekan tim ditulis inisial saja (Z, T, N) untuk menjaga privasi; tidak ada detail identitas dosen/juri yang dicantumkan.
