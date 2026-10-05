@@ -2,7 +2,7 @@
 title: "Character Map"
 week: 1
 status: "Siap Dinilai"
-self_score: "16"
+self_score: "17"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
 categories: [Fondasi, Person]
@@ -28,44 +28,37 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 |---|---|---|---|---|
 | Intra-Self — pembelajar gigih | Diri sendiri, terutama saat menghadapi hasil yang tidak sesuai harapan | Memastikan usaha sudah maksimal agar tidak ada penyesalan atas hasil apa pun | Dialog internal jujur, evaluasi diri, pengulangan materi secara konsisten | Terlalu keras ke diri sendiri; latihan memisahkan kualitas usaha dari hasil akhir |
 | Family/Friends — sahabat inklusif | Teman-teman di lingkungan kuliah, termasuk yang belum akrab | Menjaga kenyamanan dan keterbukaan tanpa membentuk circle eksklusif | Adaptasi gaya bicara (santai/bercanda vs tenang) sesuai lawan bicara | Diam saat topik sensitif; latihan menegur secara halus dalam <10 detik |
-| Work/Profesional — anggota tim proyek PRD | 4 rekan satu kelompok tugas besar (inisial T, R, M, A), awalnya belum akrab | Mengklarifikasi ambiguitas spesifikasi tugas dan membagi peran secara adil agar proyek selesai tepat waktu | Bertanya informal ke kelompok, bertanya formal ke dosen, pembagian kerja eksplisit | Canggung/diam di awal kelompok baru sempat memperlambat klarifikasi; latihan mempercepat keakraban tim baru |
+| Work/Profesional — anggota tim proyek PRD | 4 rekan satu kelompok tugas besar (inisial T, R, M, A) yang awalnya belum akrab, dan dosen sebagai pemegang otoritas spesifikasi | Mengklarifikasi ambiguitas spesifikasi tugas dan membagi peran secara adil agar proyek selesai tepat waktu | Diskusi informal di grup; chat tertulis ke dosen dengan pertanyaan dua opsi dan usulan solusi; pembagian kerja eksplisit | Canggung/diam di awal kelompok baru sempat memperlambat klarifikasi; latihan mempercepat keakraban tim baru |
 | Community — panitia lomba, divisi competition | Peserta lomba dan sesama panitia | Menyusun soal berkualitas dan mengawasi jalannya lomba secara adil | Instruksi tertulis (soal), teguran langsung saat mengawas | Menghindari konfrontasi; latihan tetap tegas demi keadilan kompetisi |
 | Dunia/Publik — pemberi opini teknis hardware | Teman di luar circle akademik | Menyampaikan argumen berbasis data (spek, harga, performa) secara meyakinkan | Perbandingan teknis, analogi harga-performa | Terlalu teknis/menggurui; latihan menyederhanakan penjelasan untuk audiens non-teknis |
-
-## Contoh perubahan bahasa (Language shift)
-
-Berikut perbandingan perubahan ragam bahasa (*language shift*) saat berpindah *character* dalam konteks mengklarifikasi spesifikasi tugas:
-
-- **Sebagai anggota kelompok (Ragam Informal & Langsung):**
-  > *"Woi ini tugas gimana, harus ada hardware atau ngga?"*
-  *(Menggunakan bahasa santai dan langsung ke rekan setingkat, tanpa basa-basi karena relasi yang setara).*
-- **Sebagai mahasiswa yang bertanya ke dosen (Ragam Sopan & Terstruktur):**
-  > *"Siang pak, mau nanya, ini tugasnya harus ada hardwarenya atau ngga ya?"*
-  *(Menggunakan salam pembuka dan nada hormat sesuai relasi dosen-mahasiswa, dengan tujuan inti yang sama yaitu mencari kejelasan spesifikasi tugas).*
 
 ## Konteks performance
 
 **Tanggal dan setting:** April 2026, semester 2, dalam rangkaian pengerjaan tugas besar mata kuliah Pengenalan Rekayasa dan Desain (PRD) — Institut Teknologi Bandung.
 
-**Persons dan relationship:** Lima anggota kelompok tugas besar (saya, dan rekan berinisial T, R, M, A), yang pada awal proyek belum begitu saling akrab.
+**Persons dan relationship:** Lima anggota kelompok tugas besar (saya, dan rekan berinisial T, R, M, A) yang pada awal proyek belum begitu saling akrab, serta dosen mata kuliah sebagai pemegang otoritas atas spesifikasi dan penilaian tugas.
 
 **Objective dan initial state:**
-- **State awal:** Prototype aplikasi navigasi kelas "FindMyClass" sudah selesai dalam versi software-only, namun ada ambiguitas spesifikasi tugas mengenai wajib-tidaknya komponen hardware, yang sempat tidak terselesaikan sekitar satu minggu karena kelompok masih canggung berkomunikasi.
-- **Objektif:** Mendapatkan kejelasan spesifikasi tugas dari sumber yang berwenang (dosen), lalu menyesuaikan proposal dan prototype tanpa harus membangun ulang dari nol.
+
+- **State awal:** Prototype aplikasi navigasi kelas "FindMyClass" sudah selesai dalam versi software-only. Dosen sudah menjelaskan tugas pada minggu sebelumnya, tetapi kelompok belum punya kesimpulan bersama tentang wajib-tidaknya komponen hardware. Ambiguitas ini bertahan sekitar satu minggu karena kelompok masih canggung berkomunikasi.
+- **Objektif:** Mendapatkan kejelasan spesifikasi dari sumber yang berwenang (dosen), lalu menyesuaikan proposal dan prototype tanpa membangun ulang dari nol.
+
+**Garis waktu kejadian:**
+
+1. **Minggu sebelumnya:** dosen menjelaskan tugas; belum ada kesimpulan bersama soal hardware, dan tidak ada yang segera mengklarifikasi (± satu minggu).
+2. **Hari diskusi grup (WhatsApp, 2:37 PM–4:25 PM):** kelompok membahas kemungkinan hardware wajib, menimbang modifikasi atau ganti total, dan ide alternatif terbentur proyek kelompok lain. Diskusi ditutup dengan ajakan T untuk konsultasi ke dosen.
+3. **Setelah diskusi grup:** saya mengirim chat konsultasi ke dosen. Dosen menjawab hardware wajib, dan menyetujui usulan saya memakai ESP8266 atau ESP32.
+4. **Setelah jawaban dosen:** kelompok memutuskan menambahkan modul ESP8266 ke proposal dan prototype yang sudah ada, lalu menyepakati pembagian kerja baru.
+5. **Hasil:** proyek selesai tepat waktu.
 
 ## Evidence
 
 ::: {.evidence-block}
-**Ringkasan kejadian (ditulis dari ingatan saya):**
+**Ringkasan kejadian:**
 
-Kelompok saya (5 orang) mengerjakan tugas besar PRD dengan membangun aplikasi navigasi kelas bernama **FindMyClass**. Kami sudah menyelesaikan prototype berbasis software saja, namun muncul ketidakjelasan apakah spesifikasi tugas mengharuskan komponen hardware.
+Kelompok saya (5 orang) membangun aplikasi navigasi kelas bernama **FindMyClass**. Prototype software sudah berjalan, tetapi muncul ketidakjelasan apakah spesifikasi tugas mengharuskan hardware. Di grup WhatsApp, kelompok sempat bingung: ada yang mengeluhkan biaya, ada yang merasa tidak mampu mengerjakan hardware, dan ide alternatif yang muncul ternyata sudah dikerjakan kelompok lain. Setelah T dan A mengusulkan konsultasi, saya menulis chat ke dosen. Dosen menjawab bahwa hardware **wajib** ada, dan menyetujui usulan saya memakai ESP8266 atau ESP32. Kelompok kemudian memutuskan **menambahkan modul ESP8266** ke prototype yang ada. Pembagian kerja baru: saya bersama **T** dan **R** menangani backend dan hardware (integrasi ESP8266), sementara **M** dan **A** menangani frontend.
 
-- **Saya (ke kelompok):** *"Woi ini tugas gimana, harus ada hardware atau ngga?"*
-- **Kelompok:** Setuju untuk mengonfirmasi ke dosen.
-- **Saya (ke dosen, saat sesi perkuliahan):** *"Siang pak, mau nanya, ini tugasnya harus ada hardwarenya atau ngga ya?"*
-- **Dosen:** Proyek **harus** menyertakan komponen hardware, dengan opsi solusi berupa ESP32 atau ESP8266.
-
-Setelah itu, kelompok langsung berdiskusi dan memutuskan untuk **menambahkan modul ESP8266** sebagai komponen hardware yang diintegrasikan ke proposal dan prototype yang sudah ada, tanpa membangun produk baru dari awal. Pembagian kerja baru disepakati: saya bersama **T** dan **R** menangani backend dan hardware (integrasi ESP8266), sementara **M** dan **A** menangani frontend.
+**Koreksi terhadap ringkasan awal:** Ringkasan awal saya (ditulis dari ingatan) menggambarkan percakapan dengan dosen terjadi saat sesi perkuliahan, memakai kalimat yang lebih singkat, dan menyebut dosen yang menawarkan ESP32/ESP8266. Setelah dicocokkan dengan teks chat asli, saya mengganti bagian itu: kalimat saya dikutip langsung dari chat, dan usulan ESP8266/ESP32 berasal dari saya lalu disetujui dosen. Kutipan dari ingatan tidak saya pakai lagi sebagai evidence karena tidak ada teks tertulisnya.
 
 **Transkrip percakapan grup WhatsApp kelompok (disalin dari tangkapan layar; nama diganti inisial):**
 
@@ -175,47 +168,104 @@ Setelah itu, kelompok langsung berdiskusi dan memutuskan untuk **menambahkan mod
 >
 > **T (4:25 PM):** "atau kita mau cobaa konsul aja dluu?"
 
-**Catatan transkrip:** Pengirim pada potongan ini adalah T, R, M, dan A (pukul 2:37 PM–4:25 PM). Pesan disalin apa adanya, termasuk singkatan, typo, dan ejaan informal, lalu diurutkan berdasarkan jam kirim; hanya nama yang diganti inisial ([G] = teman di luar kelompok) dan nomor telepon tidak disertakan. Keterangan dalam kurung siku adalah catatan saya (balasan, stiker, emoji), bukan isi pesan. Percakapan dengan dosen terjadi saat sesi perkuliahan sehingga tidak ada transkrip tertulisnya; bagian itu saya tuliskan dari ingatan pada ringkasan di atas.
+**Catatan transkrip:** Pengirim pada potongan ini adalah T, R, M, dan A (pukul 2:37 PM–4:25 PM); potongan ini tidak memuat pesan saya. Pesan disalin apa adanya, termasuk singkatan, typo, dan ejaan informal, lalu diurutkan berdasarkan jam kirim; hanya nama yang diganti inisial ([G] = teman di luar kelompok) dan nomor telepon tidak disertakan. Keterangan dalam kurung siku adalah catatan saya (balasan, stiker, emoji), bukan isi pesan.
 
-Kontribusi saya: Pesan yang menginisiasi pertanyaan mengenai kejelasan spesifikasi tugas merupakan kontribusi langsung saya sebagai anggota yang pertama kali mengangkat isu ini ke kelompok.
+**Chat saya dengan dosen (salinan teks chat, disalin apa adanya):**
+
+> **Saya:** "Selamat siang, Pak. Maaf mengganggu waktunya sebentar, mau konsultasi terkait progres tugas besar PRD kelompok kami."
+>
+> **Dosen:** "Ya, siang. Gimana progres kelompok kalian?"
+>
+> **Saya:** "Mengenai proyek FindMyClass, prototype aplikasi software-nya sebenarnya sudah berjalan, Pak. Tapi dari penjelasan minggu lalu, kami ingin mengonfirmasi ulang terkait komponen hardware. Apakah integrasi alat fisik wajib ada, atau modul software-only sudah mencukupi kriteria penilaian Bapak?"
+>
+> **Dosen:** "Wajib ada hardware-nya ya. Karena mata kuliah ini PRD, fokusnya bukan cuma di app atau software, tapi juga pemahaman sistem terintegrasi (embedded system)."
+>
+> **Saya:** "Paham, Pak. Kalau boleh konsul, karena modul software kami sudah selesai dan tenggat waktu cukup mendesak, apakah diperbolehkan kalau kami pakai modul mikrokontroler ringan seperti ESP8266 atau ESP32 untuk sensor lokasi? Jadi kami tinggal menghubungkan data ke software yang ada tanpa harus merombak ulang arsitektur sistem dari awal."
+>
+> **Dosen:** "Boleh, itu opsi yang bagus dan realistis. Pakai ESP8266 atau ESP32 sudah sangat cukup, yang penting ada komunikasi data dari modul fisik ke aplikasi kalian."
+>
+> **Saya:** "Baik, Pak. Terima kasih banyak sarannya. Kami akan langsung integrasikan modul ESP8266 tersebut ke prototype kami."
+
+**Kontribusi saya:** Kontribusi langsung saya terlihat pada chat ke dosen. Saya mengubah diskusi grup yang menggantung (A 4:18 PM dan 4:23 PM sudah mengarah ke pertanyaan "bisa dilanjut kalau ditambah hardware", tetapi belum menjadi pertanyaan konkret) menjadi pertanyaan dua opsi, lalu setelah jawaban "wajib" langsung mengusulkan ESP8266/ESP32 yang disetujui dosen. Setelah itu saya mengambil bagian backend dan hardware bersama T dan R.
 :::
+
+## Perubahan role, power, dan context
+
+Satu rangkaian kejadian ini memuat tiga fase. Role, pemegang kendali, dan tekanan yang saya hadapi berbeda di tiap fase, dan strategi komunikasi saya mengikuti perubahan itu. Pembacaan ini adalah analisis retrospektif atas transkrip dan chat asli, bukan klaim bahwa semuanya saya sadari saat kejadian.
+
+| Fase | Role saya | Power: siapa mengontrol apa | Context: tekanan dan sumber daya | Respons komunikasi saya |
+|---|---|---|---|---|
+| 1. Diskusi grup (sebelum konsultasi) | Rekan setara di kelompok yang masih canggung; tidak ada pesan saya di potongan transkrip | Tidak ada yang berwenang memutuskan di grup. Otoritas spesifikasi ada di dosen. Arah diskusi dibentuk R (ide baru), M (pengecek kenyataan: "udah ada gaish ini kemarin"), serta A dan T (mendorong konsultasi: "Mau konsul ke bapaknya ajakah", "atau kita mau cobaa konsul aja dluu?") | Biaya ("aduh mahal"), kompetensi hardware terbatas ("Gabisa aku hardware2an jujur"), ide alternatif sudah dikerjakan kelompok lain (M 3:51 PM; A 4:09 PM dan 4:22 PM), semangat turun (stiker "NYERAH") | Tidak tercatat di transkrip; respons tertulis saya ada di fase 2 |
+| 2. Konsultasi ke dosen | Perwakilan kelompok: memakai "kelompok kami" dan "kami", membawa mandat untuk mengonfirmasi tetapi tanpa otoritas atas jawabannya | Dosen mengontrol spesifikasi dan penilaian ("Wajib ada hardware-nya ya"). Saya mengontrol bingkai pertanyaan dan usulan solusi | Tenggat mendesak, prototype software sudah berjalan. Dosen menambahkan alasan (PRD menilai pemahaman sistem terintegrasi/embedded) dan kriteria penerimaan (ada komunikasi data dari modul fisik ke aplikasi) | Membuka dengan status progres, mengajukan dua opsi tertutup, lalu setelah jawaban "wajib" langsung mengusulkan ESP8266/ESP32 dengan alasan tenggat dan tanpa merombak arsitektur; menutup dengan komitmen eksplisit mengintegrasikan ESP8266 |
+| 3. Setelah jawaban dosen | Pemilik backend dan hardware bersama T dan R | Dosen memegang kriteria penerimaan; kelompok memegang desain integrasi dan pembagian kerja. Ruang keputusan yang tadinya melebar di grup menyempit ke satu jalur yang sudah disetujui | Ketidakpastian turun; arah kerja jelas: menambah modul ke prototype yang ada, bukan membangun produk baru | Menyepakati pembagian kerja eksplisit: saya, T, dan R untuk backend dan hardware; M dan A untuk frontend |
+
+**Perubahan tak terduga dan respons saya.** Dua hal tak terduga muncul: hardware ternyata wajib, dan ide alternatif kelompok ternyata sudah dikerjakan kelompok lain. Respons saya ke dosen tidak menyampaikan kebingungan grup. Saya menyampaikan posisi kelompok yang sudah punya prototype, lalu mengubah kewajiban hardware menjadi tambahan modul pada sistem yang ada.
+
+## Perubahan language: strategi, bukan hanya sopan santun
+
+Situasinya sama: mencari kejelasan apakah hardware wajib. Yang berubah adalah character yang aktif (anggota tim di grup vs perwakilan kelompok di depan dosen), dan bersama itu berubah power, bentuk pertanyaan, serta apa yang dibawa atau tidak dibawa. Kolom grup merangkum register yang terlihat di transkrip (T, R, M, A) dan kalimat pembuka saya dari ingatan.
+
+| Aspek | Di grup WhatsApp (sesama anggota) | Ke dosen (chat) |
+|---|---|---|
+| Power | Setara; tidak ada yang berwenang memutuskan | Dosen memegang otoritas spesifikasi dan penilaian |
+| Pembuka | *"Woi ini tugas gimana, harus ada hardware atau ngga?"* (rekonstruksi dari ingatan; tidak termasuk potongan transkrip) | *"Selamat siang, Pak. Maaf mengganggu waktunya sebentar, mau konsultasi terkait progres tugas besar PRD kelompok kami."* |
+| Posisi sebelum bertanya | Sama-sama bingung | Menyebut dulu bahwa prototype software sudah berjalan |
+| Bentuk pertanyaan | Terbuka dan melebar ("Mending modif atau ubah total?", "Bikin apa") | Dua opsi tertutup: hardware wajib, atau software-only cukup; satu isu saja |
+| Setelah dapat informasi | Opsi melebar, ide ditolak satu per satu ("udah ada gaish ini kemarin") | Langsung mengusulkan ESP8266/ESP32 dengan alasan tenggat dan tanpa merombak arsitektur |
+| Yang dibawa | Biaya dan keterbatasan kompetensi keluar bebas ("aduh mahal", "Gabisa aku hardware2an jujur") | Tenggat dan efisiensi arsitektur sebagai alasan; keluhan biaya dan kompetensi tidak dibawa |
+| Risiko yang dijaga | Pertanyaan tenggelam karena canggung dan diskusi berputar | Terlihat belum bekerja atau meminta keringanan; kehilangan kesempatan mendapat jawaban jelas karena pertanyaan terlalu panjang |
+
+Baris "Yang dibawa" dan "Risiko yang dijaga" adalah pembacaan retrospektif atas teks chat; saya tidak mengklaim itu pertimbangan sadar saat mengetik.
+
+**Pembanding dengan character panitia lomba.** Di character panitia lomba (Community), saya memegang otoritas: teguran langsung saat mengawas, dengan risiko menghindari konfrontasi. Di depan dosen, arah power berbalik: saya pihak yang meminta kejelasan dari pemegang otoritas. Strateginya ikut berbalik, dari menegaskan aturan dan menegur menjadi mengajukan pertanyaan tertutup, membawa bukti progres, dan menyodorkan usulan yang mudah disetujui. Orang yang sama dan sama-sama berurusan dengan kejelasan aturan, tetapi strategi ditentukan oleh siapa yang memegang otoritas.
 
 ## Analisis komunikasi
 
 | Elemen | Evidence dan analisis |
 |---|---|
-| Person & character | Kelompok terdiri dari 5 orang (saya, T, R, M, A) yang di awal proyek belum begitu akrab. Kecanggungan ini membuat komunikasi kelompok cenderung pasif, sehingga ambiguitas spesifikasi tugas tidak segera diklarifikasi selama sekitar satu minggu. |
-| Objective & state | Initial state: prototype sudah selesai dalam versi software-only, namun ambigu apakah hardware diwajibkan. Objective: mendapatkan kejelasan dari sumber otoritatif (dosen) dan menyesuaikan proyek tanpa membangun ulang dari nol. |
-| Repertoire & language | Ke kelompok: "Woi ini tugas gimana, harus ada hardware atau ngga?" — informal, langsung. Ke dosen: "Siang pak, mau nanya, ini tugasnya harus ada hardwarenya atau ngga ya?" — sopan, terstruktur. Register berubah signifikan sesuai relasi, namun tujuan inti (mencari kejelasan) tetap konsisten. |
-| Response & adaptation | Dosen menjawab hardware wajib ada, dan menawarkan opsi ESP32 atau ESP8266. Kelompok merespons cepat memilih ESP8266 agar tidak perlu membangun produk baru dari nol, hanya mengintegrasikan modul tambahan ke proposal dan prototype yang sudah ada. |
+| Person & character | Role saya bergeser tiga kali dalam satu rangkaian kejadian: (1) rekan setara di kelompok yang masih canggung, (2) perwakilan kelompok di depan dosen, dan (3) pemilik backend dan hardware bersama T dan R. Power ikut bergeser. Sebelum konsultasi, tidak ada yang berwenang memutuskan di grup, sehingga diskusi berputar dari satu ide ke ide lain dan berhenti pada usul konsultasi. Dalam chat, otoritas atas spesifikasi ada di dosen, sedangkan kelompok tetap mengontrol cara memenuhinya; bingkai pertanyaan saya (dua opsi, lalu usulan ESP) membuat dosen cukup memilih dan menyetujui, bukan merancang solusi untuk kami. Context juga berubah: prototype yang hampir selesai berhadapan dengan tekanan biaya, keterbatasan kompetensi hardware, dan temuan bahwa ide alternatif sudah ada. Rincian per fase ada di tabel "Perubahan role, power, dan context". |
+| Objective & state | Initial state: prototype sudah selesai dalam versi software-only, namun belum ada kesimpulan bersama apakah hardware diwajibkan. Objective: mendapatkan kejelasan dari sumber otoritatif (dosen) dan menyesuaikan proyek tanpa membangun ulang dari nol. State akhir: hardware dipastikan wajib, ESP8266 disetujui dosen, dan kriteria penerimaan jelas (komunikasi data dari modul fisik ke aplikasi). |
+| Repertoire & language | Di grup, register informal dan terbuka. Ke dosen, chat tertulis dengan struktur: izin waktu, status progres, pertanyaan dua opsi, usulan solusi beralasan, lalu komitmen tindak lanjut. Yang berubah bukan hanya tingkat kesopanan, tetapi bentuk pertanyaan, apa yang dibawa, dan risiko yang dijaga (lihat tabel perbandingan strategi). |
+| Response & adaptation | Dosen menjawab hardware wajib dengan alasan (PRD menilai pemahaman sistem terintegrasi) dan kriteria penerimaan (ada komunikasi data dari modul fisik ke aplikasi). Saya menyesuaikan dengan langsung mengusulkan ESP8266/ESP32, bukan berhenti pada jawaban "wajib". Kelompok kemudian memilih ESP8266 dan mengintegrasikannya ke proposal dan prototype yang sudah ada. |
 | Agreement/action | Tidak ada deadline tertulis eksplisit per sub-tugas, namun kelompok langsung menyepakati pembagian kerja baru: saya bersama T dan R menangani backend dan hardware (integrasi ESP8266), sementara M dan A menangani frontend. Proyek selesai tepat waktu. |
 | Relationship outcome | Hubungan kelompok yang awalnya canggung berubah menjadi sangat dekat setelah proyek ini, terutama dengan R. Inisiatif mengklarifikasi ke dosen turut memperkuat kepercayaan antaranggota kelompok. |
 
 ## Penggunaan AI
 
-AI (Claude) digunakan untuk membantu menjelaskan pertanyaan, cerita berdasarkan kejadian nyata yang saya alami sendiri. Fakta, dialog, dan keputusan yang tercatat berasal dari ingatan saya, bukan buatan AI. Saya memeriksa ulang agar narasi tetap sesuai dengan apa yang benar-benar terjadi, dan menolak bagian mana pun dari saran AI yang terasa berlebihan atau tidak akurat terhadap ingatan saya.
+AI (Claude) digunakan pada tiga tahap:
 
-Pada tahap revisi, AI (Claude) juga digunakan untuk menyalin teks dari tangkapan layar percakapan grup WhatsApp ke dalam file ini. AI hanya mengubah gambar menjadi teks (nama diganti inisial); isi pesan tidak ditambah atau diubah, dan hasil salinannya saya cocokkan kembali dengan tangkapan layar aslinya.
+1. **Penyusunan awal:** membantu merapikan narasi dari kejadian nyata yang saya alami sendiri. Fakta, dialog, dan keputusan berasal dari ingatan dan dokumen saya, bukan buatan AI.
+2. **Transkrip WhatsApp:** mengubah tangkapan layar percakapan grup menjadi teks (nama diganti inisial). Isi pesan tidak ditambah atau diubah, dan hasil salinan saya cocokkan kembali dengan tangkapan layar asli.
+3. **Revisi setelah feedback penilai:** AI membantu menerjemahkan feedback penilai menjadi celah konkret, memakai portofolio lain sebagai pembanding kedalaman analisis (isinya tidak disalin), menunjukkan ketidaksesuaian antara ringkasan dari ingatan saya dan teks chat asli dengan dosen, serta membantu menyusun draf analisis role, power, dan context.
+
+Keputusan yang tetap saya ambil sendiri: ringkasan awal dikoreksi mengikuti chat asli (siapa yang mengusulkan ESP, bentuk kalimat ke dosen), klaim yang tidak bisa dirujuk ke transkrip atau chat dihapus, dan analisis yang bukan hasil kesadaran saat kejadian ditandai sebagai pembacaan retrospektif. Kemampuan membaca power dan context secara langsung saat berkomunikasi tetap harus saya latih sendiri.
 
 ## Feedback dan tindak lanjut
 
-**Feedback yang diterima:** Tidak ada feedback eksplisit dari dosen, asisten, atau anggota kelompok terkait cara saya menangani situasi ini. Refleksi berikut murni berasal dari evaluasi diri saya sendiri setelah kejadian berlalu.
+**Feedback yang diterima:**
 
-**Adaptation/replay:** Saya menyadari bahwa kecanggungan awal kelompok (karena belum saling akrab) menjadi salah satu penyebab ambiguitas spesifikasi tugas tidak segera diklarifikasi. Setelah momen ini, saya lebih terbuka mengambil inisiatif bertanya meski situasi sosial belum sepenuhnya nyaman.
+- **Dosen (atas usulan saya):** menyetujui dengan kalimat "Boleh, itu opsi yang bagus dan realistis", disertai kriteria penerimaan: ada komunikasi data dari modul fisik ke aplikasi.
+- **Penilai (penilaian W01, status Tercapai, total 16):** analisis person, state, dan adaptasi bahasa sudah jelas. Prioritas perbaikan: membaca perubahan role, power, dan context secara lebih dinamis, dan menunjukkan bagaimana strategi komunikasi berubah, bukan hanya penyesuaian kesopanan.
+- **Anggota kelompok:** tidak ada feedback eksplisit terkait cara saya menangani situasi ini.
 
-**Next practice:** Pada kelompok kerja baru berikutnya, saya akan berinisiatif memulai obrolan sederhana (perkenalan atau bertanya progres) dalam pertemuan pertama, alih-alih menunggu kelompok mencair dengan sendirinya — supaya isu atau ambiguitas teknis bisa dikomunikasikan lebih cepat, tidak tertunda seperti kasus PRD ini.
+**Adaptation/replay:** Saya menyadari bahwa kecanggungan awal kelompok menjadi salah satu penyebab ambiguitas tidak segera diklarifikasi, dan setelah momen ini saya lebih terbuka mengambil inisiatif bertanya. Menanggapi feedback penilai, revisi ini menambahkan tabel perubahan role, power, dan context per fase; mengganti contoh perubahan bahasa dengan perbandingan strategi berbasis teks chat asli; dan mengoreksi ringkasan awal yang tidak sesuai dengan chat.
+
+**Next practice:**
+
+1. Pada kelompok kerja baru, saya akan memulai obrolan sederhana (perkenalan atau bertanya progres) dalam pertemuan pertama, alih-alih menunggu kelompok mencair sendiri, supaya ambiguitas teknis bisa dikomunikasikan lebih cepat.
+2. Sebelum berkomunikasi dengan pihak berwenang (dosen, klien, atau penyelenggara), saya akan menulis tiga baris: role saya, siapa yang memegang kendali atas apa, dan risiko yang ingin saya jaga. Setelah selesai, saya bandingkan dengan hasilnya.
 
 ## Self-assessment
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 3 | Person, konteks, dan evolusi relasi (canggung → akrab) dipetakan jelas |
-| Objective & State | 3 | Initial state dan objective dinyatakan eksplisit |
-| Repertoire, Language & AI | 3 | Pergeseran register terlihat jelas (informal ke kelompok, formal ke dosen); batas AI dinyatakan jujur |
-| Response & Adaptation | 3 | Informasi baru dari dosen mengubah arah solusi dan pembagian kerja secara nyata |
+| Person & Character | 4 | Role dipetakan bergeser tiga kali, power dianalisis per fase (otoritas spesifikasi di dosen, cara pemenuhan di kelompok), dan context dirujuk ke baris transkrip; dibandingkan dengan character panitia lomba yang arah power-nya berbalik |
+| Objective & State | 3 | Initial state, objective, dan state akhir (termasuk kriteria penerimaan dari dosen) dinyatakan eksplisit |
+| Repertoire, Language & AI | 3 | Strategi komunikasi dibandingkan lintas character berbasis teks chat asli; batas penggunaan AI dinyatakan jujur |
+| Response & Adaptation | 3 | Informasi baru dari dosen langsung dijawab dengan usulan solusi, dan mengubah arah proyek serta pembagian kerja |
 | Agreement, Action & Relationship | 4 | Pembagian kerja eksplisit, proyek selesai tepat waktu, dan relasi kelompok terbukti menguat signifikan |
 
-**Total:** 16 / 20 - Kompeten
+**Total:** 17 / 20 - Kompeten
 
 ::: {.assessor-only}
 ### Assessment dosen
