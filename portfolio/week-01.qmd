@@ -56,7 +56,7 @@ Berikut perbandingan perubahan ragam bahasa (*language shift*) saat berpindah *c
 ## Evidence
 
 ::: {.evidence-block}
-**Transkrip / Ringkasan Kejadian Percakapan:**
+**Ringkasan kejadian (ditulis dari ingatan saya):**
 
 Kelompok saya (5 orang) mengerjakan tugas besar PRD dengan membangun aplikasi navigasi kelas bernama **FindMyClass**. Kami sudah menyelesaikan prototype berbasis software saja, namun muncul ketidakjelasan apakah spesifikasi tugas mengharuskan komponen hardware.
 
@@ -67,9 +67,115 @@ Kelompok saya (5 orang) mengerjakan tugas besar PRD dengan membangun aplikasi na
 
 Setelah itu, kelompok langsung berdiskusi dan memutuskan untuk **menambahkan modul ESP8266** sebagai komponen hardware yang diintegrasikan ke proposal dan prototype yang sudah ada, tanpa membangun produk baru dari awal. Pembagian kerja baru disepakati: saya bersama **T** dan **R** menangani backend dan hardware (integrasi ESP8266), sementara **M** dan **A** menangani frontend.
 
-Bukti pendukung episode berupa screenshot diskusi kelompok dapat diakses melalui folder berikut: [Evidence Minggu 1 — Episode PRD](https://drive.google.com/drive/folders/1HlHzFkxuXJvJDO0O2FhDCXf31fkwOdKA?usp=sharing)
+**Transkrip percakapan grup WhatsApp kelompok (disalin dari tangkapan layar; nama diganti inisial):**
 
-Isi folder: Screenshot diskusi kelompok yang menunjukkan proses klarifikasi ambiguitas spesifikasi tugas hingga kesepakatan menggunakan ESP8266 sebagai komponen hardware.
+> **R (2:37 PM):** "weh, harus hardware?"
+>
+> **T (2:40 PM):** "jadi kita gant arduino kah guyss?"
+>
+> **R (2:41 PM):** "duh iya kayaknya"
+>
+> **A (2:41 PM):** "Bjirlah hardware"
+>
+> **R (2:41 PM):** "Software khusus IF masalahnya"
+>
+> **A (2:41 PM):** "Gabisa aku hardware2an jujur"
+>
+> **T (2:41 PM):** "aduh mahal"
+>
+> **T (2:41 PM):** [membalas A: "Gabisa aku hardware2an jujur"] "aku perna sih nguruh arduino"
+>
+> **R (2:45 PM):** "Mending modif atau ubah total?" [emoji]
+>
+> **M (2:58 PM):** "Kalo modif"
+>
+> **M (2:59 PM):** "Gmn ya"
+>
+> **M (2:59 PM):** "Caranya"
+>
+> **M (2:59 PM):** "Bikin apa"
+>
+> **A (3:02 PM):** "Jujur aku ngga kepikiran apa2 selain itu"
+>
+> **A (3:02 PM):** "Tau ngga sih yang di mall mall"
+>
+> **A (3:02 PM):** "Yang biasanya kaya "you are here" itu"
+>
+> **A (3:02 PM):** "Tapi itu gede banget jir hardwarenya ga mungkin"
+>
+> **M (3:19 PM):** [stiker: emoji menangis]
+>
+> **R (3:48 PM):** "hmm"
+>
+> **R (3:49 PM):** "aku kepikiran kalo denah ruangan kampus, diganti jadi denah tempat "nongkrong" di kampus
+>
+> jadi meja-kursi (luar kelas) di kampus kan banyak ya, termasuk yang di kantin juga. jadi kita buat pendeteksi ni meja-kursi udah ada yang pake blm? bisa di cek di web yang kita buat, jadi update real-time gitu"
+>
+> **R (3:49 PM):** "aneh gk"
+>
+> **R (3:50 PM):** "sensor dipasang di meja, sensor panas mungkin? kan tubuh manusia hangat"
+>
+> **M (3:51 PM):** [membalas R: "aku kepikiran kalo denah ruangan kampus..."] "udah ada gaish ini kemarin"
+>
+> **M (3:51 PM):** "kantian doang sih tapi"
+>
+> **M (3:51 PM):** "basically alatnya sama"
+>
+> **R (3:51 PM):** "eh iya kah, duh"
+>
+> **A (4:09 PM):** "Udah ada ituu"
+>
+> **A (4:09 PM):** "Kelompok 1 kalo ngga salah?"
+>
+> **A (4:09 PM):** "Mau konsul ke bapaknya ajakah"
+>
+> **M (4:13 PM):** [membalas A: "Mau konsul ke bapaknya ajakah"] "boleh sih"
+>
+> **M (4:13 PM):** "nanya apa tapi"
+>
+> **A (4:18 PM):** "Nanya kaya project yang ini kira2 bisa ngga dilanjut kalo ditambah hardware. Kalo iya, minta masukan hardware yang viable untuk budget segitu soalnya kita bingung gitu"
+>
+> **A (4:19 PM):** [stiker: foto close-up wajah hewan]
+>
+> **M (4:20 PM):** "tapi ya sebenenrya gabisa sih"
+>
+> **M (4:20 PM):** "atau"
+>
+> **M (4:20 PM):** "hardwarenya deteksi kelasnya dipake atau engga"
+>
+> **M (4:20 PM):** "berguna ga kalo kayak gitu"
+>
+> **M (4:20 PM):** [stiker: emoji menangis]
+>
+> **A (4:22 PM):** [membalas M: "hardwarenya deteksi kelasnya dipake atau engga"] "Udah ada tau yang gitu"
+>
+> **A (4:22 PM):** "Kelompoknya [G] kalo ngga salah"
+>
+> **M (4:22 PM):** "[G] bukannya buat absen ya"
+>
+> **M (4:22 PM):** "tapi iya sih kmrn"
+>
+> **M (4:22 PM):** "em"
+>
+> **M (4:22 PM):** "kita completely hardware kah"
+>
+> **M (4:23 PM):** "atau disambung software juga?"
+>
+> **A (4:23 PM):** "Disambung software"
+>
+> **M (4:23 PM):** "harusnya STI mah bagian survey ngembangin.........."
+>
+> **A (4:23 PM):** [membalas M: "harusnya STI mah bagian survey ngembangin.........."] "Riil"
+>
+> **M (4:23 PM):** [membalas A: "Disambung software"] [stiker bertuliskan "NYERAH"]
+>
+> **A (4:23 PM):** [stiker: gambar hewan]
+>
+> **T (4:25 PM):** "guyss"
+>
+> **T (4:25 PM):** "atau kita mau cobaa konsul aja dluu?"
+
+**Catatan transkrip:** Pengirim pada potongan ini adalah T, R, M, dan A (pukul 2:37 PM–4:25 PM). Pesan disalin apa adanya, termasuk singkatan, typo, dan ejaan informal, lalu diurutkan berdasarkan jam kirim; hanya nama yang diganti inisial ([G] = teman di luar kelompok) dan nomor telepon tidak disertakan. Keterangan dalam kurung siku adalah catatan saya (balasan, stiker, emoji), bukan isi pesan. Percakapan dengan dosen terjadi saat sesi perkuliahan sehingga tidak ada transkrip tertulisnya; bagian itu saya tuliskan dari ingatan pada ringkasan di atas.
 
 Kontribusi saya: Pesan yang menginisiasi pertanyaan mengenai kejelasan spesifikasi tugas merupakan kontribusi langsung saya sebagai anggota yang pertama kali mengangkat isu ini ke kelompok.
 :::
@@ -88,6 +194,8 @@ Kontribusi saya: Pesan yang menginisiasi pertanyaan mengenai kejelasan spesifika
 ## Penggunaan AI
 
 AI (Claude) digunakan untuk membantu menjelaskan pertanyaan, cerita berdasarkan kejadian nyata yang saya alami sendiri. Fakta, dialog, dan keputusan yang tercatat berasal dari ingatan saya, bukan buatan AI. Saya memeriksa ulang agar narasi tetap sesuai dengan apa yang benar-benar terjadi, dan menolak bagian mana pun dari saran AI yang terasa berlebihan atau tidak akurat terhadap ingatan saya.
+
+Pada tahap revisi, AI (Claude) juga digunakan untuk menyalin teks dari tangkapan layar percakapan grup WhatsApp ke dalam file ini. AI hanya mengubah gambar menjadi teks (nama diganti inisial); isi pesan tidak ditambah atau diubah, dan hasil salinannya saya cocokkan kembali dengan tangkapan layar aslinya.
 
 ## Feedback dan tindak lanjut
 
