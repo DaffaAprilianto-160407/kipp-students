@@ -1,9 +1,9 @@
 ---
 title: "Laporan UTS KIPP - Sesi 3a"
 subtitle: "Menawarkan solusi TI dan AI - target pertama"
-author: "[Nama mahasiswa]"
+author: "Muhammad Daffa Aprilianto"
 lang: id
-status: "Belum dimulai"
+status: "Siap dinilai"
 format:
   html:
     toc: true
@@ -11,154 +11,387 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 3a](../../examples/UTS/hasil_3a.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
+| Nama mahasiswa | Muhammad Daffa Aprilianto |
+| NIM | 18225043 |
+| Kelas | K-01 |
+| Tanggal pelaksanaan | 14 Oktober 2026 |
 | Nomor/judul kasus | Sesi 3a: Menawarkan solusi TI dan AI - target pertama |
-| Target | [Nama dan ID customer sesuai ZIP 3a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Target | Cyntia (K3-03) |
+| Versi bank/paket | Bank 2.0; paket individual 2.0 (tanpa password) |
+| Sumber penugasan | `kasus_3a_18225043.zip`; `PENUGASAN.md` |
+| Modalitas | Teks; diketik langsung dalam percakapan |
+| Konteks nyata/fiktif | Fiktif. Brief kasus berasal dari paket; kendala pada tahap uji ulang adalah kendala simulasi |
+| Kelengkapan transkrip | **Parsial.** Sesi dijalankan pada asisten AI lain dan dipulihkan dari ringkasan yang disusun mahasiswa, bukan rekaman verbatim lengkap. Ujaran pada tahap simulasi awal dan uji ulang tercatat sebagai kutipan; giliran tanya jawab pada tahap identifikasi, tahap rencana, evaluasi sementara, refleksi, dan konfirmasi tidak tersedia sebagai dialog — yang tersedia hanya hasil rumusannya, dan hal itu dicantumkan sebagai ringkasan tahap. Ringkasan sumber memberi label "Sesi 3b" pada satu tempat; penugasan dan target (Cyntia, K3-03) menunjukkan sesi ini adalah 3a, dan label itu dikoreksi di sini |
+| Nama laporan menurut paket | `hasil_3a_18225043.qmd` (disimpan di repositori sebagai `hasil_3a.qmd` mengikuti tautan pada `week-08.qmd`) |
+| Konfirmasi identitas/ringkasan | Data identitas dikonfirmasi pada tahap A; seluruh data tahap A sampai F dikonfirmasi benar oleh mahasiswa pada tahap G. Konfirmasi ini bukan verifikasi identitas |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Brief kasus dari paket: Cyntia, pengelola usaha, menangani pertanyaan pelanggan
+yang berulang dan pesanan yang tercecer dengan tenaga terbatas, dan belum yakin
+memerlukan solusi AI. Mahasiswa bertugas menggali kebutuhan dan menawarkan solusi
+TI/AI yang sesuai, dengan sasaran keputusan atau uji coba konkret.
 
 | Unsur | Isi |
 |---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+| Tujuan komunikasi/tindakan | Membantu Cyntia mengidentifikasi alur chat berulang yang membebani stafnya agar dapat diuji coba secara efisien, **tanpa memaksakan digitalisasi total** |
+| Keadaan awal | Chat pelanggan berulang menumpuk; pesanan dari berbagai platform tercatat ganda atau terlewat dari buku catatan manual; hanya dua staf yang menangani semuanya (AI002). Cyntia sedang sibuk dan menolak pembahasan teoretis (AI001) |
+| Indikator keberhasilan | Diperolehnya data operasional nyata, dan tercapainya kesepakatan lingkup uji coba chatbot untuk satu masalah spesifik selama satu minggu dengan penurunan beban chat manual minimal 50% |
+| Batas dan pilihan target | Tidak memaksakan perubahan sistem pencatatan manual yang sudah berjalan, dan tidak memaksakan kelanjutan sistem jika hasil uji coba tidak sesuai harapan. Batas ini dinyatakan kepada Cyntia pada U004: "Keputusannya sepenuhnya ada di kamu" |
+| Tenggat | Uji coba berlangsung satu minggu, dimulai minggu depan (AI004) |
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
+Isi tentang **diri mahasiswa**, bukan profil target.
 
 | Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| Persepsi/SWOT subjektif | Memandang situasi sebagai peluang menawarkan solusi bertahap. Keterbatasan yang diakui: sistem belum dibangun, sehingga yang ditawarkan adalah uji coba, bukan produk jadi | U003, U004 | Direkonstruksi dari ujaran dan dari rumusan batas pada tahap B |
+| Attitude | Menilai bahwa pemilik usaha berhak memegang keputusan, dan bahwa perubahan tidak boleh dipaksakan | U004 | Terdemonstrasi dalam ujaran, bukan hanya dinyatakan |
+| Knowledge | Memahami bahwa chat berulang dan pencatatan pesanan adalah dua masalah berbeda yang tidak harus ditangani sekaligus | U003 | Terbukti dari pemisahan masalah pada U003 |
+| Skill | Mampu merangkum keluhan menjadi dua masalah, memilih satu untuk diuji, dan menyusun kesepakatan berisi lingkup, batas, dukungan, dan ukuran | U003, U004, U007 | Terdemonstrasi dalam sesi; pelaksanaan nyata belum diuji |
+| Preferensi/MBTI jika dilaporkan | Belum pernah mengikuti tes MBTI. Tidak dilakukan diagnosis tipe dari percakapan ini | — | Tidak tersedia |
+| Peran, karakter, kultur/ko-kultur | Mahasiswa Sistem dan Teknologi Informasi ITB yang menawarkan solusi kepada pengelola UMKM. Norma yang dijaga: kendali tetap pada pemilik usaha | U004 | Teramati dalam ujaran |
+
+Catatan keterbatasan: tahap rencana tidak menggali profil diri mahasiswa dalam
+bentuk tanya jawab. Tabel di atas direkonstruksi dari ujaran dalam simulasi dan
+dari rumusan tujuan, dan hal itu dinyatakan terbuka.
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
+Dicatat sebelum profil tokoh diungkap.
+
+**Fakta yang diketahui dari brief:** chat pelanggan berulang, pesanan tercecer,
+tenaga terbatas, Cyntia belum yakin perlu AI.
+
+**Dugaan mahasiswa:** Cyntia antusias tetapi komitmennya mudah tersebar; skeptis
+di awal terhadap pembahasan teoretis mengenai teknologi; membutuhkan batasan
+solusi dan pendampingan.
+
+**Rencana TAIDA yang dirumuskan:** Attention dan Interest dicapai melalui
+penggalian masalah operasional nyata; Desire melalui penjelasan batas AI dan
+kendali penuh di tangan Cyntia; Action berupa kesepakatan uji coba berbatas.
 
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Cyntia menyepakati uji coba terbatas untuk satu masalah | — | Mengidentifikasi alur chat berulang yang paling membebani | Kesepakatan pilot satu minggu |
+| Attention | Cyntia sibuk dan menolak pembahasan teoretis | A | Menggali masalah operasional nyata, bukan menjelaskan teori | Cyntia bersedia menyebut kendalanya sendiri |
+| Interest | Kebutuhan belum dipilah; dua masalah bercampur | K | Merangkum keluhan menjadi masalah yang terpisah dan dapat dipilih | Cyntia mengenali mana yang paling mendesak |
+| Desire | Khawatir sistem menyulitkan staf | A/K | Menjelaskan batas kemampuan AI dan menegaskan hak menghentikan | Cyntia menyatakan merasa aman |
+| Action | Belum ada lingkup, waktu, dan ukuran | S | Menyepakati pilot satu alur, satu minggu, dengan indikator dan pendampingan | Kesepakatan yang menyebut lingkup, waktu, dukungan, dan ukuran |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+Transkrip dipulihkan dari ringkasan yang disusun mahasiswa atas sesi yang
+dijalankan pada asisten AI lain. Ujaran pada tahap simulasi awal dan uji ulang
+tersedia sebagai kutipan. Tahap identifikasi, rencana, evaluasi sementara,
+refleksi, dan konfirmasi tidak tersedia sebagai dialog; yang tersedia hanya hasil
+rumusannya, dan dicantumkan sebagai ringkasan tahap.
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+### AI001 - Fasilitator - Identifikasi
 
-### U001 - Mahasiswa - [Tahap]
+*(Ringkasan tahap; dialog tidak tersedia.)* Data identifikasi dikonfirmasi: Nama
+Muhammad Daffa Aprilianto, NIM 18225043, Kelas K-01, Sesi 3a (Kasus 3), target
+Cyntia (K3-03), Tanggal 14 Oktober 2026.
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+### AI002 - Fasilitator - Rencana
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+*(Ringkasan tahap; dialog tidak tersedia.)* Brief Kasus 3 disampaikan. Mahasiswa
+merumuskan tujuan, indikator keberhasilan, batas, dugaan profil Cyntia, dan
+rencana TAIDA sebagaimana tercatat pada bagian B.
 
-[Tempel pesan AI persis seperti sumber.]
+### U001 - Mahasiswa - Simulasi awal
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+"Sebentar aja, Cyntia. Sini aku jelasin dulu apa itu AI dan gimana kegunaannya
+buat bisnis kamu."
+
+### AI003 - Cyntia - Simulasi awal
+
+"Duh, kalau langsung bahas teori AI rasanya males dengerin, soalnya minggu ini
+lagi pusing banget ngurusin chat pelanggan yang numpuk dan pesanan yang tercecer.
+Emangnya apa untungnya secara langsung buat toko gw? Jangan-jangan malah bikin
+tambah pusing dan nambah kerjaan."
+
+### U002 - Mahasiswa - Simulasi awal
+
+"Coba sekarang aku tanya, kamu sebenarnya sedang kesusahan di bagian mana banget
+dalam operasional sehari-hari?"
+
+### AI004 - Cyntia - Simulasi awal
+
+"Nah, itu dia! Yang paling bikin pusing itu chat dari pelanggan yang nanyain hal
+sama berulang-ulang, terus pesanan yang masuk dari berbagai platform sering
+kecatet dua kali atau malah kelupaan masuk buku catatan manual. Masalahnya, staf
+gw cuman dua orang dan mereka bener-bener kewalahan megang semuanya."
+
+### U003 - Mahasiswa - Simulasi awal
+
+"Jadi dari yang kamu ceritain, masalah terbesarnya ada di dua hal: chat berulang
+yang bikin staf kewalahan dan pencatatan pesanan manual yang tercecer. Untuk tahap
+awal, aku sarankan kita bikin solusi sederhana dulu: kita fokus buat chatbot AI
+khusus untuk ngebalas pertanyaan berulang soal katalog dan format order. Untuk
+pencatatan pesanan ke buku manual, sementara tetap ditangani staf kamu biar mereka
+nggak bingung. Gimana kalau kita uji coba dulu solusi chatbot ini selama 1
+minggu?"
+
+### AI005 - Cyntia - Simulasi awal
+
+"Wah, kalau cuma fokus ke jawab chat berulang dulu dan nggak langsung ngubah cara
+staf aku nyatet pesanan, kelihatannya masuk akal dan nggak bikin mereka kaget.
+Tapi jujur, staf aku kan belum pernah pakai chatbot AI kayak gini, gimana kalau
+mereka bingung cara operasionalkannya atau ada chat yang nggak bisa dijawab sama
+AI-nya?"
+
+### U004 - Mahasiswa - Simulasi awal
+
+"Tenang aja, Cyntia. Nanti aku bakal kasih panduan singkat dan dampingi langsung
+staf kamu cara pakainya. AI ini juga ada batasnya: dia cuma jawab pertanyaan
+berulang yang umum. Kalau ada pertanyaan sulit atau pesanan khusus, chat-nya bakal
+langsung dialihkan ke staf kamu secara manual. Kalau setelah 1 minggu uji coba
+hasilnya ternyata nggak sesuai atau malah bikin ribet, kita hentikan aja.
+Keputusannya sepenuhnya ada di kamu."
+
+### AI006 - Cyntia - Simulasi awal
+
+"Nah, kalau ada batasan jelas dan kalau nggak cocok bisa langsung dihentikan tanpa
+paksaan, aku jadi merasa aman banget! Oke deh, setuju. Kita uji coba chatbot buat
+tangani chat berulang ini selama 1 minggu mulai minggu depan ya."
+
+### AI007 - Cyntia - Uji ulang
+
+"Daffa, tadi pas aku infoin ke staf aku soal rencana uji coba minggu depan, mereka
+agak ragu. Kata mereka: 'Mbak, nanti kalau pelanggan salah paham sama jawaban
+AI-nya, terus pesanan jadi kacau, siapa yang tanggung jawab?' Nah, kalau ada
+kondisi kayak gitu, penanganannya gimana ya?"
+
+### U005 - Mahasiswa - Uji ulang
+
+"Untuk masalah itu, kita bisa pasang fitur verifikasi ulang. Jadi AI cuma bantu
+jawab pertanyaan awal dan draft pesanan, tapi untuk konfirmasi akhir pembayaran
+dan rekap data tetap harus di-ACC atau dicek ulang oleh staf kamu. Jadi kendali
+akhir dan verifikasi data tetap 100% di tangan staf kamu."
+
+### AI008 - Cyntia - Uji ulang
+
+"Oh, jadi AI cuma bantu bikin drafnya aja ya, bukan langsung ngambil keputusan
+sendiri? Itu legain banget sih. Tapi gimana kalau misal di hari pertama uji coba
+ada kendala teknis atau mati listrik/internet di tempat kita?"
+
+### U006 - Mahasiswa - Uji ulang
+
+"Kalau ada kendala teknis atau internet mati, sistemnya secara otomatis bakal
+kembali ke mode manual seperti biasa. Staf kamu tetap bisa bales chat lewat HP
+seperti biasa tanpa terganggu. Dan selama hari pertama uji coba, aku juga bakal
+standby buat pantau kalau ada kendala."
+
+### AI009 - Cyntia - Uji ulang
+
+"Wah, mantap banget kalau ada fallback ke manual dan kamu ikut standby! Terakhir
+nih, kalau nanti selama 1 minggu ini kinerjanya dinilai bagus, indikator apa yang
+bakal kita pakai buat nemuin kalau uji coba ini sukses?"
+
+### U007 - Mahasiswa - Uji ulang
+
+"Indikator suksesnya simpel: pertama, jumlah chat berulang yang harus dijawab
+manual sama staf kamu berkurang minimal 50%. Kedua, waktu respon ke pelanggan jadi
+lebih cepat. Kalau dua hal itu tercapai dan staf kamu merasa terbantu, baru kita
+evaluasi buat langkah selanjutnya."
+
+### AI010 - Cyntia - Uji ulang
+
+"Sip! Indikatornya jelas dan realistis banget. Kekhawatiran aku sama tim
+bener-bener hilang. Sampai ketemu minggu depan buat mulai pilot project-nya ya,
+Daffa!"
+
+### AI011 - Fasilitator - Evaluasi
+
+*(Ringkasan tahap; dialog tidak tersedia.)* Mahasiswa membaca perubahan ASK Cyntia
+dan memvalidasi dugaan awalnya, sebagaimana tercatat pada bagian D.
+
+### AI012 - Fasilitator - Refleksi
+
+*(Ringkasan tahap; dialog tidak tersedia.)* Mahasiswa menyampaikan koreksi dugaan,
+stimulus efektif dan tidak efektif, serta lesson learned, sebagaimana tercatat
+pada bagian D.
+
+### AI013 - Fasilitator - Konfirmasi
+
+*(Ringkasan tahap; dialog tidak tersedia.)* Seluruh data percakapan, evaluasi
+sementara, refleksi, dan skor dari tahap A sampai F dikonfirmasi benar oleh
+mahasiswa.
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
+**Status tujuan: tercapai pada tataran kesepakatan.** Cyntia menyetujui uji coba
+terbatas (AI006) dan mempertahankan persetujuannya setelah tiga keberatan
+berturut-turut diajukan (AI010). Kesepakatan yang terbentuk memuat lingkup satu
+alur, batas kemampuan sistem, dukungan pendampingan, ukuran keberhasilan, periode
+uji, dan hak menghentikan.
+
+Yang perlu dipisahkan: **kesepakatan bukan pelaksanaan.** Sampai akhir sesi tidak
+ada sistem yang dibangun dan tidak ada uji coba yang berjalan. Pernyataan Cyntia
+"kekhawatiran aku sama tim bener-bener hilang" adalah respons tokoh simulasi,
+bukan bukti bahwa stafnya benar-benar tenang.
 
 | Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Persepsi/kesimpulan SWOT | Memandang tawaran sebagai ancaman menambah beban: "Jangan-jangan malah bikin tambah pusing dan nambah kerjaan" | Memandang uji coba sebagai aman dicoba karena berbatas dan dapat dihentikan: "aku jadi merasa aman banget!" | AI003; AI006 | Respons tokoh simulasi, bukan perubahan pada manusia nyata |
+| Attitude | Menolak pembahasan teoretis dan ragu pada manfaat langsung | Bersedia berkomitmen pada uji coba terbatas: "Oke deh, setuju" | AI003; AI006 | Perubahan sikap dalam simulasi; dinilai dari ujaran, bukan motif batin |
+| Knowledge | Belum memilah masalah; chat berulang dan pencatatan tercampur | Mengetahui batas kemampuan AI, mekanisme pengalihan ke staf, prosedur cadangan, dan ukuran keberhasilan | AI004; AI006, AI008, AI010 | Gap K tertutup bertahap melalui penjelasan yang menyebut batas, bukan hanya manfaat |
+| Skill/kesiapan | Perlu lingkup pilot dan penanggung jawab; staf belum pernah memakai chatbot | Menyatakan siap memulai dengan pendampingan dan prosedur cadangan | AI005; AI010 | Kesiapan simulasi. Tidak ada demonstrasi; skill nyata staf tidak dianggap meningkat hanya karena kesepakatan tercapai |
 
 ## Evaluasi stimulus-respons dan diagnosis profil
 
 | Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
+| U001 → AI003 | Cyntia sibuk; belum ada alasan menyediakan waktu | Menawarkan penjelasan teori AI dan kegunaannya | **Ditolak.** "kalau langsung bahas teori AI rasanya males dengerin"; menuntut manfaat langsung | Tidak ada perubahan; resistensi justru muncul | **Pendekatan diubah seluruhnya**: dari menjelaskan menjadi bertanya |
+| U002 → AI004 | Resistensi terhadap teori; masalah nyata belum tergali | Pertanyaan terbuka mengenai kesulitan operasional sehari-hari | Membuka tiga informasi: chat berulang, pencatatan ganda/terlewat, dan hanya dua staf | Keterbukaan naik tajam; kebutuhan muncul dari Cyntia sendiri | Keluhan dipilah menjadi dua masalah terpisah |
+| U003 → AI005 | Dua masalah bercampur; risiko lingkup terlalu besar | Merangkum menjadi dua masalah, memilih **satu** untuk diuji, dan menyatakan bahwa pencatatan manual tidak diubah | "masuk akal dan nggak bikin mereka kaget"; lalu mengangkat kekhawatiran staf | K bertambah; hambatan baru muncul di tingkat staf | Kekhawatiran dijawab dengan batas sistem, bukan dengan jaminan |
+| U004 → AI006 | Khawatir staf bingung dan AI gagal menjawab | Menyebut **batas kemampuan AI sendiri**, mekanisme pengalihan ke staf, pendampingan, dan hak menghentikan | **Titik balik.** "kalau ada batasan jelas dan kalau nggak cocok bisa langsung dihentikan tanpa paksaan, aku jadi merasa aman banget!" | A membaik tajam; Action tercapai | Kesepakatan dikunci pada lingkup yang paling kecil |
+| U005 → AI008 | Keberatan staf: risiko salah paham dan pesanan kacau | Menawarkan verifikasi ulang; konfirmasi akhir tetap di tangan staf | "jadi AI cuma bantu bikin drafnya aja ya, bukan langsung ngambil keputusan sendiri? Itu legain banget" | Kekhawatiran kendali terjawab | Lanjut ke keberatan berikutnya tanpa mengulang argumen lama |
+| U006 → AI009 | Keberatan teknis: listrik atau internet mati | Menawarkan prosedur cadangan kembali ke manual, ditambah kehadiran langsung pada hari pertama | "mantap banget kalau ada fallback ke manual dan kamu ikut standby!" | Risiko operasional terjawab | Lanjut ke indikator |
+| U007 → AI010 | Ukuran keberhasilan belum disepakati | Menetapkan dua indikator: penurunan chat manual minimal 50% dan waktu respons lebih cepat, ditambah syarat staf merasa terbantu | "Indikatornya jelas dan realistis banget" | Kesepakatan lengkap | Evaluasi lanjutan dikaitkan pada hasil, bukan diasumsikan lanjut |
 
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+**Perbandingan dugaan awal dengan profil tokoh.** Dugaan mahasiswa adalah bahwa
+Cyntia antusias tetapi komitmennya mudah tersebar, skeptis terhadap pembahasan
+teoretis, dan membutuhkan batasan solusi serta pendampingan. Profil K3-03
+menyebutkan Cyntia antusias dengan komitmen yang mudah tersebar; hambatan A berupa
+keinginan berinovasi sementara prioritas berubah, hambatan K berupa belum memilih
+masalah utama, dan hambatan S berupa kebutuhan lingkup pilot dan penanggung jawab;
+preferensi MBTI fiktif ENFP. Profil juga menyebutkan bahwa pujian besar tanpa
+tindak lanjut tidak cukup, dan bahwa janji berlebihan termasuk stimulus yang
+menghambat.
+
+Dugaan awal **sesuai pada ketiga unsur utama**. Kebutuhan akan batasan solusi dan
+pendampingan tepat mengenai hambatan S; pembacaan bahwa Cyntia menolak pembahasan
+teoretis tepat mengenai hambatan A, yaitu prioritas yang berebut waktu. Yang tidak
+dinyatakan secara eksplisit dalam dugaan adalah hambatan K berupa belum memilih
+masalah utama — meskipun dalam praktiknya hambatan itu justru yang paling tepat
+ditangani, yakni pada U003 ketika dua masalah dipilah dan satu dipilih. Dugaan
+awal tidak diubah setelah profil diketahui. Preferensi ENFP adalah parameter tokoh
+fiktif, bukan diagnosis terhadap siapa pun.
 
 ## Pengaruh pesan personal dan kualitas relasi
 
 | Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
+| U002 | Berhenti menjelaskan dan bertanya kondisi sehari-hari | "Nah, itu dia!"; membuka tiga informasi sekaligus | Keterbukaan rendah → tinggi. Bukti: jumlah staf disebut tanpa diminta | Perhatian pada kondisi nyata membuka informasi yang tidak tersedia lewat penjelasan |
+| U003 | Menyatakan bahwa pencatatan manual **tidak** diubah agar staf tidak kaget | "nggak bikin mereka kaget" | Rasa aman rendah → sedang | Menahan diri dari menawarkan lebih banyak justru menurunkan resistensi |
+| U004 | Menyebut batas kemampuan AI sendiri sebelum ditanya, dan menyerahkan keputusan: "Keputusannya sepenuhnya ada di kamu" | "aku jadi merasa aman banget!" | Rasa aman sedang → tinggi; kepercayaan sedang → tinggi | Keterbukaan mengenai batas berdampak lebih besar daripada penegasan manfaat. Perlu dicatat: rasa aman tidak sama dengan terbuktinya manfaat |
+| U005, U006 | Kendali akhir tetap pada staf; prosedur cadangan; kehadiran langsung pada hari pertama | "Itu legain banget sih"; "mantap banget ... kamu ikut standby!" | Kepercayaan tinggi dan dipertahankan | Dukungan dinyatakan sebagai mekanisme, bukan sebagai jaminan. Mekanismenya sendiri belum dibangun |
 
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+Kepedulian dalam sesi ini tampak melalui **penghormatan pada cara kerja yang sudah
+berjalan** dan **keterusterangan mengenai batas sistem**. Yang paling menentukan
+bukan ungkapan hangat, melainkan tiga hal yang dapat dikutip: tidak mengubah
+pencatatan manual (U003), menyebut batas AI sendiri (U004), dan menyerahkan hak
+menghentikan kepada Cyntia (U004).
+
+Satu catatan: kekhawatiran staf yang diangkat pada AI007 mencakup pertanyaan
+"siapa yang tanggung jawab?". Jawaban pada U005 menyelesaikan sisi mekanismenya —
+kendali akhir di tangan staf — tetapi tidak menyebut siapa yang menanggung bila
+kesalahan tetap terjadi. Sisi itu belum tuntas.
 
 ## Uji ulang dan pembelajaran
 
 | Unsur | Bukti/uraian |
 |---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+| Kendala baru atau peristiwa sejenis | Tiga kendala berturut-turut, seluruhnya berkaitan dengan hambatan S profil (kebutuhan lingkup pilot dan penanggung jawab): keraguan staf mengenai tanggung jawab bila pelanggan salah paham (AI007); risiko kendala teknis atau listrik dan internet mati (AI008); dan kebutuhan ukuran keberhasilan (AI009) |
+| Respons awal dibanding uji ulang | Pada awal sesi, respons mahasiswa terhadap keberatan adalah **menjelaskan** (U001), yang ditolak. Sejak U002 polanya berubah menjadi bertanya lalu menjawab dengan mekanisme. Pola baru itu **bertahan konsisten di seluruh uji ulang**: tiga keberatan dijawab dengan tiga mekanisme berbeda — verifikasi ulang, prosedur cadangan manual, dan indikator terukur — bukan dengan pengulangan jaminan |
+| Revisi rencana/dukungan | Dukungan ditambah pada setiap putaran tanpa mengubah lingkup atau mengundur tenggat: verifikasi akhir oleh staf, fallback otomatis ke manual, kehadiran langsung pada hari pertama, dan dua indikator yang dapat diperiksa |
+| Indikator perbaikan | Kesepakatan tidak perlu disusun ulang dan tidak ada butir yang ditarik kembali. Cyntia menutup dengan "Indikatornya jelas dan realistis banget" dan mengonfirmasi jadwal semula |
+| Transfer dan keterbatasan | Yang diperagakan: merespons keberatan berturut-turut dengan mekanisme yang berbeda-beda, menjaga lingkup tetap kecil, dan menyerahkan kendali pada pemilik usaha. Yang belum diuji: apakah mekanisme yang dijanjikan dapat benar-benar dibangun, apakah penurunan 50% tercapai, dan apakah staf benar-benar terbantu. Angka 50% ditetapkan tanpa mengetahui jumlah chat harian, sehingga belum memiliki kondisi awal sebagai pembanding |
 
 ## Penilaian enam dimensi
 
+*Usulan AI untuk moderasi dosen. Bukan nilai resmi.*
+
 | Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | 3 | Bagian B: tujuan "tanpa memaksakan digitalisasi total", indikator 50%, batas eksplisit; U004: "Keputusannya sepenuhnya ada di kamu" | Tujuan berpihak pada kebutuhan customer, bukan pada hasil yang diinginkan komunikator. Indikator dapat diperiksa dan batas dinyatakan sejak tahap rencana lalu benar-benar disampaikan kepada target. Belum 4 karena indikator kedua ("waktu respon lebih cepat") tidak memiliki ukuran, dan angka 50% ditetapkan tanpa kondisi awal |
+| Persepsi dan validasi profil/status | 3 | U002 pertanyaan terbuka; U003 merangkum dan meminta persetujuan; AI004 tiga informasi terbuka | Kondisi operasional digali sebelum solusi ditawarkan, lalu dirangkum dan dikonfirmasi kepada target. Dugaan awal sesuai pada unsur utama profil. Belum 4 karena validasi berhenti pada satu putaran: volume chat harian, proporsi yang berulang, dan cara pencatatan sekarang tidak ditanyakan |
+| Pemilihan dan urutan repertoar | 3 | U001 ditolak → U002 bertanya → U003 merangkum dan mempersempit → U004 menyatakan batas | Urutan bergerak sesuai kesiapan target, dan lingkup sengaja dipersempit ke satu masalah meskipun dua masalah tersedia. Pemilihan "chatbot untuk chat berulang" sementara pencatatan manual dibiarkan adalah pilihan repertoar yang tepat sasaran. Belum 4 karena pembukaan U001 mengabaikan konteks kesibukan target dan harus dikoreksi |
+| Eksekusi jelas, peduli dan konsisten | 3 | U004: "AI ini juga ada batasnya"; U003: pencatatan manual tidak diubah; U004: hak menghentikan | Pesan menyebut batas kemampuan sendiri sebelum ditanya, menghormati cara kerja yang berjalan, dan menyerahkan keputusan kepada target secara konsisten sampai penutup. Tidak ada janji berlebihan. Belum 4 karena beberapa mekanisme (verifikasi ulang, fallback otomatis) disampaikan sebagai kepastian padahal sistemnya belum dibangun dan belum dinyatakan sebagai rancangan |
+| Evaluasi dan adaptasi | 3 | U001 ditolak → U002 mengubah pendekatan; U005, U006, U007 pada tiga keberatan berbeda | Penolakan pada giliran pertama langsung dipakai untuk mengganti pendekatan secara menyeluruh. Pada uji ulang, tiga keberatan dijawab dengan tiga mekanisme berbeda, bukan pengulangan jaminan. Belum 4 karena pertanyaan "siapa yang tanggung jawab" dijawab hanya pada sisi mekanisme; penanggung jawab bila kesalahan tetap terjadi tidak disebut |
+| Refleksi dan lesson learned | 3 | Bagian F: koreksi dugaan atas U001; stimulus tidak efektif diidentifikasi; lesson learned | Mengidentifikasi stimulus sendiri yang gagal (U001) beserta sebabnya, membedakannya dari stimulus yang berhasil (U004), dan menarik pelajaran yang dapat diterapkan pada situasi serupa. Belum 4 karena tindak lanjut tidak menyebut langkah bertanggal dan cara evaluasinya |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+**Nilai sesi:** usulan AI = 18 / 24 x 100 = **75,0** (skala 0-100). BT berarti
+belum dapat ditetapkan, bukan nol. Angka ini adalah usulan AI dan memerlukan
+moderasi dosen; berbeda dari evaluasi diri maupun nilai resmi. Hasil tujuan
+dilaporkan terpisah dari nilai proses.
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+- **Dugaan yang dikoreksi:** penjelasan teori AI pada pembukaan (U001) ditolak oleh
+  customer yang sedang pusing dengan urusan operasional. Dugaan bahwa pemilik usaha
+  perlu dipahamkan dulu mengenai apa itu AI ternyata keliru; yang ia butuhkan
+  adalah solusi atas masalah nyata yang sedang dihadapinya.
+- **Stimulus efektif/tidak efektif:** *tidak efektif* — menawarkan penjelasan
+  teknologi secara umum tanpa menggali masalah nyata (U001), dengan bukti penolakan
+  langsung pada AI003. *Efektif* — memberikan batasan solusi yang transparan,
+  menyebut bahwa AI hanya menangani chat umum, serta menjamin opsi menghentikan
+  kapan saja (U004), dengan bukti "aku jadi merasa aman banget!" pada AI006.
+- **Pertumbuhan PASK/ASK diri:** persepsi berubah dari menganggap penawaran dimulai
+  dengan menjelaskan menjadi dimulai dengan bertanya. Keterampilan yang diperagakan
+  adalah memilah keluhan menjadi masalah yang terpisah, memilih lingkup terkecil,
+  dan menjawab keberatan dengan mekanisme alih-alih jaminan. Batas: seluruhnya
+  dalam simulasi teks, belum diuji pada pemilik usaha sungguhan.
+- **Relasi:** yang membantu rasa dipercaya adalah menyebut batas kemampuan sistem
+  sendiri dan menyerahkan hak menghentikan kepada pemilik usaha. Buktinya: "kalau
+  ada batasan jelas dan kalau nggak cocok bisa langsung dihentikan tanpa paksaan,
+  aku jadi merasa aman banget!" (AI006) dan "Itu legain banget sih" (AI008). Yang
+  menghambat adalah pembukaan yang mengabaikan kesibukan lawan bicara (U001),
+  dengan bukti "rasanya males dengerin" (AI003).
+- **Preferensi, peran, budaya:** sebagai pemilik UMKM dengan dua staf, Cyntia
+  menimbang setiap usulan dari sisi beban tambahan bagi timnya, bukan dari sisi
+  kecanggihan teknologinya. Ia merespons lingkup kecil dan kepastian kendali.
+  Pengamatan ini terbatas pada satu tokoh dan tidak digeneralisasi.
+- **Pelajaran untuk situasi berikutnya:** penawaran teknologi kepada UMKM harus
+  dimulai dari penggalian masalah nyata, dengan lingkup kecil, dan memberikan
+  kendali penuh kepada pemilik usaha.
 
 ## Tindak lanjut dan batas bukti
 
 | Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| Menjalankan uji coba chatbot untuk chat berulang seputar katalog dan format order | Mahasiswa dan Cyntia | Satu minggu, mulai minggu depan | Panduan singkat dan pendampingan staf | Chat berulang yang dijawab manual turun minimal 50%; waktu respons lebih cepat; staf merasa terbantu | Kesepakatan simulasi (AI006, AI010); belum terlaksana |
+| Menyiapkan mekanisme verifikasi ulang: AI menyusun draf, konfirmasi akhir oleh staf | Mahasiswa | Sebelum uji coba dimulai | — | Tidak ada konfirmasi pembayaran atau rekap data yang lolos tanpa pemeriksaan staf | Rencana (U005); belum dibangun |
+| Menyiapkan prosedur cadangan ke mode manual saat kendala teknis | Mahasiswa | Sebelum uji coba dimulai | — | Staf tetap dapat membalas chat lewat HP tanpa terganggu | Rencana (U006); belum dibangun |
+| Mendampingi langsung pada hari pertama uji coba | Mahasiswa | Hari pertama uji coba | — | Kendala pada hari pertama tertangani | Rencana (U006); belum terlaksana |
+| Mengevaluasi hasil dan memutuskan lanjut, perbaiki, atau hentikan | Cyntia (keputusan akhir) | Setelah satu minggu | Data indikator | Dua indikator tercapai atau tidak | Rencana (U004, U007); belum terlaksana |
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
+**Batas bukti.** Transkrip **parsial**: sesi dijalankan pada asisten AI lain dan
+dipulihkan dari ringkasan yang disusun mahasiswa, bukan rekaman verbatim lengkap.
+Tahap simulasi awal dan uji ulang tersedia sebagai kutipan; tahap identifikasi,
+rencana, evaluasi sementara, refleksi, dan konfirmasi hanya tersedia sebagai hasil
+rumusan, sehingga dialognya tidak dapat ditelusuri giliran per giliran. Ringkasan
+sumber memberi label "Sesi 3b" pada satu tempat, sedangkan penugasan dan target
+menunjukkan sesi 3a; label itu dikoreksi dan koreksinya dinyatakan di bagian A.
 
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+**Klaim yang belum terverifikasi.** Mekanisme yang dijanjikan pada U005 dan U006 —
+verifikasi ulang dan prosedur cadangan otomatis ke mode manual — disampaikan
+sebagai kepastian, padahal sistemnya belum dibangun. Dalam penawaran nyata,
+keduanya seharusnya dinyatakan sebagai rancangan yang akan diuji. Angka penurunan
+50% ditetapkan tanpa mengetahui jumlah chat harian, sehingga belum memiliki kondisi
+awal sebagai pembanding.
+
+Modalitas teks, sehingga prosodi dan bahasa tubuh tidak dinilai. Cyntia adalah
+tokoh simulasi, sehingga perubahan responsnya bukan bukti perubahan pada manusia
+nyata, dan pernyataan bahwa kekhawatiran stafnya hilang adalah respons tokoh, bukan
+laporan dari staf. Seluruh hasil di luar sesi berstatus kesepakatan, bukan
+pelaksanaan; tidak ada sistem yang dibangun dalam sesi ini. Hari, tanggal, dan
+waktu konsisten dengan 14 Oktober 2026; "minggu depan" merujuk pada pekan
+setelahnya. Pengiriman ke portal dilakukan mahasiswa.
+
+**Konfirmasi akhir:** seluruh data percakapan, evaluasi sementara, refleksi, dan
+skor dari tahap A sampai F dikonfirmasi benar oleh mahasiswa pada tahap G.
+Konfirmasi ini bukan verifikasi identitas.
 
 {{< include "../../includes/uts-penilaian.md" >}}
