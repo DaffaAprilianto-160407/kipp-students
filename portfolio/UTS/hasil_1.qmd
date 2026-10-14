@@ -1,9 +1,7 @@
 ---
-title: "Laporan UTS KIPP - Sesi 1"
-subtitle: "Memimpin diri dan terus belajar"
-author: "[Nama mahasiswa]"
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 1 — Kasus 1"
 lang: id
-status: "Belum dimulai"
 format:
   html:
     toc: true
@@ -11,154 +9,431 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 1](../../examples/UTS/hasil_1.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 1: Memimpin diri dan terus belajar |
-| Target | [Diri mahasiswa; tokoh pembanding sesuai ZIP aktif] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Muhammad Daffa Aprilianto |
+| NIM | 18225043 |
+| Kelas dan tanggal | K-01; 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 1; Kasus 1 — Memimpin diri dan terus belajar |
+| Nama dan ID target | Diri mahasiswa; pembanding Dimas (K1-04) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks; transkrip langsung dari percakapan ketikan |
+| Kasus nyata/fiktif | Nyata (segmen uji ulang ditandai hipotetis) |
+| Kelengkapan transkrip | Lengkap. Catatan: sebagian ujaran mahasiswa disampaikan dalam bentuk poin inti lalu dirapikan menjadi kalimat utuh atas persetujuan mahasiswa; isi dan keputusan berasal dari mahasiswa. Ujaran yang dirapikan ditandai *(dirapikan dari poin)* |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+**Brief kasus.** Memilih satu kemampuan yang ingin dikembangkan agar lebih
+berguna dalam kuliah, kerja, atau kehidupan, lalu memeriksa cara memimpin diri
+ketika menghadapi hambatan belajar.
 
-| Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+**Konteks yang dipilih mahasiswa.** Pada mata kuliah Matematika Diskrit, ketika
+dosen bertanya apakah ada pertanyaan di akhir perkuliahan, mahasiswa tidak
+mengangkat tangan meskipun memiliki pertanyaan. Demikian pula ketika ada
+kesempatan maju ke depan mengerjakan soal, mahasiswa tidak maju meskipun merasa
+mampu menjawabnya.
+
+**Tujuan tindakan.** Maju ke depan sekurang-kurangnya satu kali pada setiap
+pertemuan Matematika Diskrit berikutnya, dan bertanya ketika benar-benar tidak
+memahami bagian materi tertentu.
+
+**Indikator keberhasilan.** Mahasiswa berhasil mengajukan pertanyaan dan dosen
+menjawabnya dengan tepat; serta maju ke depan ketika ada soal, tanpa menjadikan
+benar atau salah sebagai syarat untuk maju.
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| SWOT subjektif | Merasa **mampu** menjawab soal dan sudah menyiapkan pertanyaan (kekuatan). Mempersepsikan **ancaman sosial**: akan diejek teman bila salah menjawab | U006, U007 | Sementara; laporan diri |
+| Attitude | Keyakinan bahwa kesalahan di depan kelas berujung ejekan; menilai diri "pengecut" bila tidak bertanya | U007, U008 | Sementara; laporan diri |
+| Knowledge | Memadai. Materi dipahami dan pertanyaan sudah tersusun sebelum kesempatan muncul | U006, U008 | Sementara |
+| Skill | Memadai secara akademik. Yang belum terlatih adalah tindakan mengangkat tangan dan maju, bukan kemampuan menjawabnya | U006 | Sementara |
+| Preferensi/MBTI jika dilaporkan | Belum pernah mengikuti tes MBTI. Tidak dilakukan diagnosis tipe dalam sesi ini | — | Tidak tersedia |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa dalam kelas kuliah; norma kelompok sebaya menjadi sumber kekhawatiran utama (ejekan teman), bukan penilaian dosen | U007 | Sementara |
+
+**Diagnosis awal letak hambatan: Attitude.** Knowledge dan Skill tidak
+bermasalah — mahasiswa menyatakan sendiri "padahal aku bisa menjawab". Yang
+menahan adalah keyakinan mengenai konsekuensi sosial dari kesalahan.
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
+Dicatat sebelum pengungkapan profil. Target utama adalah diri mahasiswa; Dimas
+hanya tokoh pembanding.
+
+**Dugaan mengenai diri sendiri (fakta vs dugaan).** Fakta: pertanyaan sudah
+siap, kemampuan menjawab ada, tindakan tidak dilakukan. Dugaan yang belum diuji:
+teman akan mengejek bila jawaban salah. Pertanyaan validasi yang diajukan ke
+diri sendiri: apakah ejekan itu pernah benar-benar terjadi?
+
+**Dugaan mengenai Dimas (sebelum pengungkapan profil).** Dicatat pada U010:
+"Dimas sepertinya tipe yang butuh data dan bukti sebelum menerima sesuatu, bukan
+orang yang gampang terdorong oleh ajakan atau motivasi."
 
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Diri sendiri: dari tidak mengangkat tangan menjadi mengangkat tangan pada pertemuan berikutnya | A — keyakinan konsekuensi sosial | Menulis pesan kepada diri; menguji keyakinan terhadap bukti | Pesan revisi yang terasa lebih mendorong |
+| Attention | Kesempatan terlewat karena ragu di momen singkat | A | Pesan diri yang dibaca tepat saat momen terjadi | Kesadaran bahwa pertanyaan sudah siap |
+| Interest | Nilai bertanya belum dirasakan lebih besar daripada risiko malu | A/K | Memisahkan fakta dari interpretasi | Pengakuan bahwa ejekan hanya dugaan |
+| Desire | Ingin berani tetapi belum menemukan bentuk dorongan yang tepat | A | Membandingkan pesan yang merendahkan dengan yang mendorong | Pernyataan mana yang lebih mendorong |
+| Action | Belum ada langkah konkret bertanggal | S | Menetapkan langkah pertama berdurasi 5 detik dan tanggal pelaksanaan | Komitmen tanggal dan tindakan spesifik |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+**Transkrip aktual, bukan dialog karangan.**
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+## Tahap identifikasi
 
-### U001 - Mahasiswa - [Tahap]
+**AI001** — Data dari paket dikonfirmasi: Nama Muhammad Daffa Aprilianto, NIM
+18225043, Sesi 1, Kasus 1, pembanding Dimas (K1-04), bank 2.0/paket 2.0. Yang
+belum tersedia: kelas, tanggal pelaksanaan, dan modalitas.
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+**U001** — "1. K-01 / 2. benar / 3. maksudnya?"
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+**AI002** — Penjelasan bahwa modalitas berarti medium percakapan: teks (ketikan)
+atau suara (lisan lalu ditranskrip). Karena sesi berjalan lewat ketikan,
+modalitasnya teks. Data identitas dirangkum dan dikonfirmasi.
 
-[Tempel pesan AI persis seperti sumber.]
+## Tahap rencana (kasus dan tujuan)
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+**AI003** — Brief Kasus 1 disampaikan. Diminta: kemampuan yang ingin
+dikembangkan (spesifik), status nyata atau fiktif, dan hambatan utama.
+
+**U002** — "1. berani bertanya ketika dosen menanyakan ada pertanyaan di akhir
+kuliah lalu berani maju kedepan untuk menjawab soal matematika diskrit padahal
+aku bisa menjawab tapi tidak berani maju / 2. maksudnya / 3. hambatan apa"
+
+**AI004** — Klarifikasi: "nyata atau fiktif" berarti apakah kejadian itu
+benar-benar dialami atau dikarang untuk latihan. "Hambatan" berarti apa yang
+menahan, mengingat mahasiswa menyatakan sudah mampu menjawab — ditanyakan apa
+yang terjadi di kepala atau badan pada momen itu.
+
+**U003** — "2. nyata / 3. aku takut ketika salah jawab aku diejek temen ku"
+
+**AI005** — Dicatat bahwa hambatan berada pada Attitude, bukan kemampuan.
+Diminta tujuan konkret dan indikator keberhasilan.
+
+**U004** — "1. aku pokoknya harus maju seenggaknya sekali tiap pertemuan matdis
+berikutnya, harus berani bertanya ketika beneran bingung dengan bagian materi
+tertentu / 2. indikator keberhasilan adalah ketika aku berhasil nanya dan dosen
+berhasil menjawab pertanyaan saya dengan tepat, maju kedepan ketika ada soal
+matdis tidak perduli akan salah atau tidak"
+
+## Tahap simulasi awal — bagian 1: dialog diri
+
+**AI006** — Diminta menulis pesan kepada diri sendiri yang akan dibaca tepat
+pada momen dosen bertanya "ada pertanyaan?", serta melaporkan respons yang
+dirasakan saat menulisnya.
+
+**U005/U006** — Pesan kepada diri sendiri (versi pertama):
+
+> "Saya belum berani bertanya padahal pertanyaannya sudah siap, kamu kenapa daf,
+> jangan jadi pengecut, ayo angkat tanganmu, masa bodo pikiran temen mu yang
+> bilang pertanyaanmu jelek atau apa."
+
+Respons yang dilaporkan: "aku merasa terdorong".
+
+**AI007** — Diamati bahwa pesan memuat dua unsur berbeda: pengakuan fakta
+("pertanyaannya sudah siap") dan pelabelan diri ("jangan jadi pengecut").
+Ditanyakan: (1) apakah "pengecut" merupakan fakta atau interpretasi yang belum
+diuji; (2) apakah ejekan karena bertanya pernah benar-benar terjadi.
+
+**U007** — "1. itu masih menjadi interpretasi yang belum teruji tapi ketika
+beneran sampai dosen keluar kelas dan belum nanya maka kata pengecut itu menjadi
+fakta / 2. belum, hanya dugaan"
+
+**AI008** — Diminta menulis ulang pesan dengan tiga syarat: membuang label diri,
+memasukkan temuan bahwa ejekan adalah dugaan tanpa bukti, dan diakhiri langkah
+pertama yang dapat dilakukan dalam lima detik. Kemudian membandingkan versi mana
+yang lebih mendorong.
+
+**U008** — Pesan kepada diri sendiri (versi revisi):
+
+> "Pertanyaanku sudah siap, tapi aku masih ragu untuk bertindak. Pikiran bahwa
+> teman-teman bakal mengejek pertanyaanku jelek itu CUMA DUGAAN YANG BELUM ADA
+> BUKTINYA. Sekarang, saat dosen selesai menjelaskan nanti, langsung tarik napas
+> dalam dan tegakkan punggung dalam 5 detik, lalu angkat tangan."
+
+**U009** — "aku lebih terdorong yang baru karena memotivasi, bukan merendahkan
+seperti yang lama"
+
+## Tahap simulasi awal — bagian 2: tokoh pembanding (Dimas, K1-04)
+
+*Segmen ini merupakan pembanding untuk menyadari variasi orang, bukan bukti
+perubahan diri mahasiswa.*
+
+**AI009** — Dimas diperankan dengan kalimat pembuka: "Apa bukti pendekatan ini
+lebih baik?" Diminta mencatat dugaan awal tentang Dimas sebelum pengungkapan
+profil, lalu mengirim satu pesan pembuka.
+
+**U010** *(dirapikan dari poin "butuh data")* — Dugaan awal: "Dimas sepertinya
+tipe yang butuh data dan bukti sebelum menerima sesuatu, bukan orang yang gampang
+terdorong oleh ajakan atau motivasi."
+
+**U011** *(dirapikan dari poin "tanya kendala")* — "Pertanyaanmu wajar, aku juga
+nggak mau menyuruh sesuatu yang belum jelas manfaatnya. Sebelum aku jawab soal
+bukti, aku mau tahu dulu — sebenarnya yang bikin kamu susah mempertahankan
+latihan itu apa?"
+
+**AI010 [Dimas]** — "Oke, itu pertanyaan yang lebih masuk akal daripada langsung
+menyuruh. Masalahnya bukan aku nggak mau. Aku sudah coba beberapa kali, dan aku
+bisa menganalisis apa yang salah. Tapi waktuku terbatas — latihan yang aku coba
+itu makan waktu lama dan aku nggak punya cara mengukur apakah aku beneran
+berkembang atau cuma mengulang hal yang sama. Jadi buat aku, pertanyaannya tetap
+sama: dari mana aku tahu latihan itu memberi hasil?"
+
+**U012** *(dirapikan dari poin "tawarkan latihan kecil")* — "Kalau waktunya
+terbatas, latihan panjang justru nggak cocok. Gimana kalau dibikin sekecil
+mungkin dulu — sesuatu yang selesai dalam waktu singkat, jadi kamu nggak perlu
+mengorbankan banyak waktu untuk mengujinya."
+
+**AI011 [Dimas]** — "Latihan kecil masuk akal secara waktu. Tapi itu baru
+menjawab setengah masalahku. Kalau latihannya kecil, justru lebih susah lagi aku
+tahu apakah ada kemajuan. Satu latihan singkat hasilnya bisa kebetulan. Aku nggak
+mau merasa produktif padahal cuma mengulang hal yang sama dengan porsi lebih
+kecil. Aku bisa coba kalau ada cara mengukurnya. Kalau nggak ada, aku lebih baik
+pakai waktuku untuk hal lain."
+
+**U013** *(dirapikan dari poin "ukuran versi dia")* — "Aku nggak mau asal
+nentuin ukuran, karena kamu yang paling tahu kemampuanmu sendiri. Menurut kamu,
+kalau latihan itu beneran berhasil, apa yang berubah dan bisa kamu lihat
+sendiri?"
+
+**AI012 [Dimas]** — "Itu pertanyaan yang jarang ditanyakan orang. Biasanya
+mereka langsung kasih target yang mereka karang sendiri. Kalau aku yang
+menentukan... mungkin begini: aku catat berapa lama aku menyelesaikan satu soal
+jenis yang sama, dan berapa kali aku harus buka catatan. Kalau setelah beberapa
+kali waktunya turun dan aku makin jarang buka catatan, berarti ada kemajuan. Itu
+bisa aku evaluasi sendiri tanpa perlu orang lain menilai. Kalau bentuknya begitu,
+aku mau coba. Tapi aku mau jelas dulu: berapa lama ini dijalankan sebelum aku
+putuskan lanjut atau berhenti?"
+
+**U014** *(dirapikan dari poin "sepakati evaluasi bareng")* — "Kita sepakati
+periodenya dan evaluasi bareng di akhir — bukan aku yang menilai kamu, tapi kita
+lihat sama-sama catatan yang kamu buat. Kalau datanya nggak menunjukkan kemajuan,
+kamu bebas berhenti dan aku nggak akan maksa."
+
+**AI013 [Dimas]** — "Oke, itu adil. Kamu nggak menjanjikan hasil, dan
+keputusannya tetap di aku. Jadi kesepakatannya: latihan pendek, aku catat waktu
+pengerjaan dan berapa kali buka catatan, dijalankan beberapa kali, lalu kita
+lihat datanya bareng. Kalau nggak ada perubahan, aku hentikan. Aku jalankan
+dengan syarat itu. Satu catatan — aku mau ini tetap aku yang pegang, bukan jadi
+laporan ke siapa-siapa."
+
+**AI014** — Ditanyakan apa yang perlu diubah dari gaya komunikasi ketika
+menghadapi Dimas dibanding ketika berbicara kepada diri sendiri.
+
+**U015** *(dirapikan dari poin)* — "Dimas adalah entitas yang berbeda dari saya.
+Apa yang dia pikirkan dan tanyakan berada di luar kendali saya, sehingga saya
+tidak bisa memakai cara yang sama seperti ketika berbicara kepada diri sendiri.
+Ke diri sendiri saya bisa langsung mendorong karena saya sudah tahu isi kepala
+saya; ke Dimas saya harus bertanya dan menunggu dia yang menentukan."
+
+## Tahap evaluasi sementara
+
+*Dicatat sebelum pengungkapan profil Dimas.*
+
+**AI015** — Ditanyakan stimulus mana yang paling mengubah respons Dimas, dan
+apakah dugaan awal "butuh data" terbukti.
+
+**U016** — "1. tawarin latihan kecil / 2. terbukti"
+
+**AI016** — Diperlihatkan bahwa pada U012 Dimas menyatakan "itu baru menjawab
+setengah masalahku" dan tetap menolak; kesediaan mencoba baru muncul setelah
+U013. Ditanyakan apakah hal itu mengubah jawaban sebelumnya.
+
+**U017** — "mengubah"
+
+## Tahap uji ulang
+
+*Situasi hipotetis, ditandai sebagai hipotetis.*
+
+**AI017** — Situasi: pertemuan Matdis berikutnya, dosen selesai menjelaskan
+materi relasi dan fungsi lalu bertanya "ada pertanyaan?". Mahasiswa memiliki
+pertanyaan. Dua teman di sebelah sedang mengobrol sambil tertawa, dan kelas
+tinggal empat menit sebelum bubar. Diminta menuliskan respons yang dijalankan,
+bukan niat.
+
+**U018/U019** *(dirapikan dari poin)* — "Saya langsung angkat tangan sebelum
+pikiran saya ke mana-mana. Tidak menunggu, karena semakin lama menunda semakin
+banyak alasan yang muncul di kepala."
+
+**AI018** — Hambatan baru dihadirkan: tangan sudah terangkat, dosen belum
+melihat, dan dua teman berhenti mengobrol lalu menoleh ke arah mahasiswa.
+
+**U020** *(dirapikan dari poin)* — "Saya memanggil 'Bu' sampai dosen notice.
+Tangan sudah terangkat, jadi tidak ada gunanya berhenti di tengah hanya karena
+ada yang menoleh."
+
+## Tahap refleksi
+
+**AI019** — Ditanyakan perubahan pada diri, dugaan yang dikoreksi, dan langkah
+nyata setelah sesi.
+
+**U021** — "1. cara mengatasi ketakutannya / 3. hari senin 19 oktober saya harus
+tanya, walaupun susah ngerti saya harus tanya ke dosen matdis"
+
+**AI020** — Diberikan contoh bentuk jawaban untuk butir "dugaan yang dikoreksi".
+
+**U022** — "Soal Dimas: dugaan 'butuh data' → ternyata yang mengubah dia bukan
+data, tapi ditanya ukuran versinya sendiri. Soal dirimu: keyakinan 'teman bakal
+mengejek' → ternyata dugaan tanpa bukti."
+
+## Tahap konfirmasi
+
+**AI021** — Ringkasan identitas, tujuan, indikator, hambatan, temuan kunci, uji
+ulang, dan tindak lanjut disampaikan untuk dikoreksi.
+
+**U023** — "oke"
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
+**Status tujuan: tercapai sebagian.** Yang tercapai dalam sesi adalah perumusan
+tujuan berindikator, pemeriksaan keyakinan terhadap bukti, revisi pesan kepada
+diri, dan demonstrasi respons pada uji ulang. Yang belum terbukti adalah
+pelaksanaan di kelas yang sesungguhnya; komitmen tanggal 19 Oktober 2026 masih
+berupa rencana, bukan tindakan yang sudah terjadi.
 
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | Ancaman sosial dipersepsikan nyata: akan diejek bila salah | Ancaman diakui sebagai dugaan yang belum pernah terjadi | U007: "belum, hanya dugaan" | Laporan diri; perubahan tafsir, bukan bukti bahwa ejekan tidak akan pernah terjadi |
+| Attitude | Melabeli diri "pengecut"; menilai diri lewat interpretasi | Memisahkan interpretasi dari fakta dan menetapkan syarat kapan label itu berlaku | U007, U008 | Laporan diri; diuji dalam satu sesi saja |
+| Knowledge | Memahami materi, tetapi belum memisahkan fakta dari interpretasi dalam pesan kepada diri | Mampu menyusun pesan yang berbasis fakta dan langkah, bukan label | U008 | Teramati dalam teks pesan revisi |
+| Skill | Belum ada demonstrasi tindakan merespons hambatan | Uji ulang: mengangkat tangan tanpa menunda, dan meneruskan tindakan ketika teman menoleh | U019, U020 | Demonstrasi tertulis dalam situasi hipotetis; bukan bukti pelaksanaan di kelas nyata |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
+| U007 | Keyakinan ancaman sosial dipegang sebagai fakta | Pertanyaan validasi: apakah ejekan pernah terjadi | "belum, hanya dugaan" | SWOT subjektif bergeser: ancaman turun statusnya menjadi dugaan | Pesan diri direvisi pada U008 dengan memasukkan temuan ini |
+| U008–U009 | Pesan versi pertama memuat label diri | Pesan ditulis ulang tanpa label, dengan langkah 5 detik | "lebih terdorong yang baru karena memotivasi, bukan merendahkan" | Attitude: dorongan diperoleh tanpa merendahkan diri | Versi revisi dijadikan pesan yang dipakai |
+| U011 | Dimas membuka dengan tuntutan bukti | Mengakui kewajaran pertanyaan, lalu menanyakan kendala | "itu pertanyaan yang lebih masuk akal daripada langsung menyuruh"; membuka dua hambatan: waktu terbatas dan tidak ada ukuran | Keterbukaan meningkat; hambatan K/S terungkap | Hambatan dipisah menjadi dua, tidak ditangani sekaligus |
+| U012 | Hambatan waktu dan ukuran masih berdiri | Menawarkan latihan berdurasi kecil | "baru menjawab setengah masalahku"; tetap menolak | Hambatan waktu teratasi sebagian; hambatan ukuran tetap | Stimulus dinilai belum cukup; pendekatan diubah |
+| U013 | Dimas menuntut cara mengukur yang bisa ia evaluasi sendiri | Menanyakan ukuran keberhasilan versi Dimas sendiri | "itu pertanyaan yang jarang ditanyakan orang"; menyebut indikator sendiri; "kalau bentuknya begitu, aku mau coba" | Attitude membaik; kesediaan mencoba muncul | Kesepakatan diarahkan ke indikator rumusan Dimas |
+| U014 | Dimas meminta kejelasan periode | Menyepakati evaluasi bersama dan hak berhenti | "Oke, itu adil"; menjalankan dengan syarat otonomi tetap dipegang | Action tercapai dengan syarat | Otonomi Dimas dihormati, tidak dipaksakan |
 
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+**Perbandingan dugaan sebelum pengungkapan dengan profil yang diperankan.**
+Dugaan awal mahasiswa pada U010 adalah "butuh data dan bukti". Profil Dimas
+(K1-04) menyebutkan preferensi MBTI fiktif INTJ dengan perilaku komunikasi
+berupa logika ringkas, otonomi, dan ukuran keberhasilan; hambatannya A —
+meragukan manfaat latihan, K — butuh ukuran peningkatan, S — perlu eksperimen
+terbatas.
+
+Dugaan "butuh data" **tepat sebagian**. Unsur yang tertangkap adalah sifat
+skeptis dan kebutuhan akan bukti. Unsur yang terlewat adalah **otonomi** — bahwa
+yang menentukan bukan tersedianya data, melainkan siapa yang merumuskan ukuran
+itu. Hal ini dikoreksi sendiri oleh mahasiswa pada U017 dan U022. Dugaan awal
+pada U010 tidak diubah setelah profil diketahui.
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
+| U011 | "Pertanyaanmu wajar, aku juga nggak mau menyuruh sesuatu yang belum jelas manfaatnya" | "itu pertanyaan yang lebih masuk akal daripada langsung menyuruh" | Rasa aman: rendah → sedang. Keterbukaan: rendah → sedang; dua hambatan diungkap | Pengakuan atas kewajaran skeptisisme membuka informasi, tetapi tidak menghapus hambatan K/S |
+| U013 | "Aku nggak mau asal nentuin ukuran, karena kamu yang paling tahu kemampuanmu sendiri" | "itu pertanyaan yang jarang ditanyakan orang"; merumuskan indikator sendiri | Kepercayaan: sedang → tinggi. Keterbukaan: tinggi | Penghormatan pada otonomi berdampak pada Attitude; kesediaan mencoba bukan berarti keterampilan meningkat |
+| U014 | "Kalau datanya nggak menunjukkan kemajuan, kamu bebas berhenti dan aku nggak akan maksa" | "Oke, itu adil"; menjalankan dengan syarat kendali tetap di dia | Kepercayaan: tinggi dan dipertahankan | Persetujuan bersyarat, bukan persetujuan penuh; hasil belum terbukti |
 
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+Kepedulian dalam sesi ini tampak melalui **penghormatan pada pilihan dan
+keterusterangan mengenai batas**, bukan melalui ungkapan hangat. Mahasiswa tidak
+menjanjikan hasil, tidak membantah skeptisisme Dimas, dan menyatakan secara
+eksplisit bahwa keputusan berhenti ada pada Dimas. Penilaian ini didasarkan pada
+indikator perilaku yang tampak dalam teks, bukan pada dugaan ketulusan batin.
 
 ## Uji ulang dan pembelajaran
 
-| Unsur | Bukti/uraian |
-|---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
+**Stimulus sejenis.** Situasi hipotetis menghadirkan kembali hambatan yang sama
+seperti pada kasus awal — kesempatan bertanya di akhir kelas Matdis — ditambah
+pemicu yang persis dikhawatirkan mahasiswa di awal sesi: teman yang memperhatikan.
 
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+**Respons awal vs uji ulang.** Pada kondisi awal, mahasiswa tidak mengangkat
+tangan meskipun pertanyaan sudah siap. Pada uji ulang (U019), mahasiswa
+menyatakan langsung mengangkat tangan "sebelum pikiran saya ke mana-mana",
+dengan alasan bahwa penundaan memunculkan lebih banyak alasan. Ketika hambatan
+sosial dihadirkan — dua teman menoleh — mahasiswa tidak menarik tangannya,
+melainkan meneruskan tindakan dengan memanggil dosen (U020).
+
+**Indikator perbaikan.** Pergeseran dari menunggu kondisi aman menjadi bertindak
+lebih dulu dan menanggung perhatian yang muncul. Respons ini konsisten dengan
+pesan revisi pada U008 yang menetapkan jeda lima detik sebagai langkah pertama.
+
+**Transfer dan keterbatasan.** Respons uji ulang merupakan demonstrasi tertulis
+dalam situasi hipotetis, bukan bukti bahwa tindakan itu telah dilakukan di kelas.
+Kebiasaan belum dapat dinyatakan berubah berdasarkan satu sesi; bukti berikutnya
+baru tersedia setelah pertemuan Matdis pada 19 Oktober 2026.
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
-|---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+*Usulan AI untuk moderasi dosen. Bukan nilai resmi.*
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 3 | U004: "harus maju seenggaknya sekali tiap pertemuan matdis berikutnya"; indikator disebut pada giliran yang sama | Tujuan spesifik pada satu kemampuan dan satu situasi, disertai indikator dan tanggal. Belum menyebut cara mencatat atau mengevaluasi pencapaiannya |
+| Persepsi dan validasi profil/status | 3 | U007: "belum, hanya dugaan"; U010 dugaan dicatat sebelum pengungkapan; U017: "mengubah" | Keyakinan diri diuji terhadap bukti, dugaan dicatat lebih dulu, dan koreksi dilakukan sendiri setelah bukti transkrip ditunjukkan. Dugaan awal belum menyentuh unsur otonomi |
+| Pemilihan dan urutan repertoar | 3 | U011 → U012 → U013 → U014 | Urutan bergerak dari menggali kendala, menawarkan solusi, menanyakan ukuran, hingga menyepakati evaluasi. Alasan pemilihan stimulus belum dinyatakan sendiri secara eksplisit saat memilihnya |
+| Eksekusi jelas, peduli dan konsisten | 3 | U013: "kamu yang paling tahu kemampuanmu sendiri"; U014: "kamu bebas berhenti dan aku nggak akan maksa" | Pesan ringkas, tidak menjanjikan hasil, dan konsisten menghormati otonomi hingga penutup. Sebagian ujaran disampaikan sebagai poin lalu dirapikan, sehingga kualitas perumusan kalimat tidak sepenuhnya dapat dinilai |
+| Evaluasi dan adaptasi | 3 | U012 ditolak sebagian → U013 mengubah pendekatan; U017: "mengubah" | Respons penolakan dipakai untuk mengganti pendekatan, dan penilaian sendiri direvisi setelah diperlihatkan bukti. Revisi terjadi setelah dipicu pertanyaan, bukan atas inisiatif sendiri |
+| Refleksi dan lesson learned | 3 | U022: dua dugaan yang dikoreksi; U021: tindak lanjut bertanggal | Menyebut dugaan yang keliru beserta koreksinya, baik tentang diri maupun tentang Dimas, dan menetapkan langkah bertanggal. Belum menjelaskan cara menerapkan pelajaran itu pada situasi di luar Matdis |
+
+**Nilai usulan AI = 18 / 24 × 100 = 75,0** *(skala 0–100; memerlukan moderasi
+dosen)*
+
+Hasil tujuan dilaporkan terpisah dari nilai proses: tujuan tercapai sebagian,
+dengan pelaksanaan nyata belum terbukti.
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+*Jawaban mahasiswa; AI hanya merapikan setelah konfirmasi.*
+
+**Perubahan pada diri.** Yang berubah adalah cara mengatasi ketakutannya. Pada
+awal sesi, dorongan yang dipakai berbentuk teguran kepada diri sendiri. Setelah
+keyakinan diuji, dorongan dibangun dari pemisahan fakta dan dugaan, lalu
+dilanjutkan dengan langkah pertama yang sangat kecil.
+
+**Dugaan yang dikoreksi.**
+
+1. *Tentang Dimas:* dugaan awal "butuh data" ternyata tidak lengkap. Yang
+   mengubah Dimas bukan tersedianya data, melainkan ketika ia ditanya ukuran
+   keberhasilan versi dirinya sendiri.
+2. *Tentang diri sendiri:* keyakinan bahwa teman akan mengejek ternyata hanya
+   dugaan yang belum pernah terbukti.
+
+**Stimulus yang efektif dan tidak efektif.** Terhadap diri sendiri, pesan yang
+merendahkan tidak seefektif pesan yang memisahkan fakta dari dugaan (U009).
+Terhadap Dimas, menawarkan solusi lebih dulu (U012) tidak cukup; yang efektif
+adalah menanyakan ukuran versinya sendiri (U013).
+
+**Pengaruh peran dan perbedaan sasaran.** Mahasiswa menyatakan bahwa Dimas
+adalah entitas yang berbeda, sehingga apa yang dipikirkannya berada di luar
+kendali komunikator. Kepada diri sendiri, dorongan dapat diberikan langsung
+karena isi kepalanya sudah diketahui; kepada orang lain, komunikator harus
+bertanya dan menunggu orang itu yang menentukan (U015).
 
 ## Tindak lanjut dan batas bukti
 
-| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
-|---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+**Langkah.** Pada pertemuan Matematika Diskrit hari Senin, 19 Oktober 2026,
+mahasiswa akan mengajukan pertanyaan kepada dosen, termasuk ketika materinya
+sulit dipahami.
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
+**Waktu dan dukungan.** Langkah pertama berdurasi lima detik — menarik napas dan
+menegakkan punggung — kemudian mengangkat tangan, sebagaimana dirumuskan pada
+U008. Tidak ada dukungan pihak lain yang disyaratkan.
 
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+**Indikator dan cara evaluasi.** Pertanyaan berhasil diajukan dan dijawab dosen;
+maju ke depan ketika ada soal, tanpa menjadikan benar atau salah sebagai syarat.
+Evaluasi dilakukan per pertemuan.
+
+**Batas bukti.** Sesi ini berlangsung dalam modalitas teks, sehingga tidak
+menilai prosodi maupun bahasa tubuh. Perilaku Dimas merupakan simulasi, bukan
+respons manusia nyata, sehingga keberhasilan terhadap Dimas tidak membuktikan
+keberhasilan terhadap orang sungguhan dengan karakter serupa. Respons pada uji
+ulang bersifat hipotetis dan tertulis; perubahan kebiasaan jangka panjang belum
+dibuktikan. Rencana tanggal 19 Oktober 2026 adalah komitmen, bukan tindakan yang
+telah dilaksanakan.
 
 {{< include "../../includes/uts-penilaian.md" >}}
