@@ -1,39 +1,35 @@
-﻿---
+---
 title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
-status: "Belum dimulai"
+status: "Siap dinilai"
 self_score: "—"
 assessor_score: "—"
 description: "Makalah pra-UTS dan lima laporan kasus individual."
 categories: [Assessment, UTS]
 ---
 
-::: {.callout-tip title="Mulai mengisi"}
-Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi makalah dan lima laporan pada tabel berikut. [Lihat contoh jawaban Minggu 8](../examples/week-08.qmd) untuk acuan struktur dan analisis. Halaman ini merupakan indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan.
-:::
-
 ## Identitas dan status paket
 
 | Elemen | Isi mahasiswa |
 |---|---|
-| Nama | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Periode/tanggal pelaksanaan | [Isi tanggal aktual setiap sesi pada laporan] |
-| Versi bank/paket aktif | [Salin dari PENUGASAN.md dalam ZIP Anda] |
-| Modalitas | [Teks/suara; sumber transkripsi] |
-| Status pengumpulan | [Belum diunggah/sudah diunggah; bukti bila tersedia] |
+| Nama | Muhammad Daffa Aprilianto |
+| NIM | 18225043 |
+| Kelas | K-01 |
+| Periode/tanggal pelaksanaan | 14 Oktober 2026 (seluruh sesi dilaksanakan pada tanggal yang sama; tanggal aktual per sesi tercantum pada masing-masing laporan) |
+| Versi bank/paket aktif | Bank 2.0; paket individual 2.0 (tanpa password) |
+| Modalitas | Teks; diketik langsung dalam percakapan. Tidak ada transkripsi suara |
+| Status pengumpulan | Sudah diunggah ke `portfolio/UTS` |
 
 ## Makalah dan lima laporan
 
 | Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
 |---|---|---|---|---|
-| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai | [Isi] |
-| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; [nama/ID pembanding] | Belum dimulai | [Isi] |
-| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2] | Belum dimulai | [Isi] |
-| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Belum dimulai | [Isi] |
-| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Belum dimulai | [Isi] |
-| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Belum dimulai | [Isi] |
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Selesai | Kajian konseptual-reflektif disertai satu contoh integratif dan daftar pustaka. Rubrik makalah belum ditetapkan dalam dokumen paket, sehingga tidak diberi usulan skor |
+| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri mahasiswa; pembanding Dimas (K1-04) | Selesai | Transkrip lengkap. Sebagian ujaran pada segmen pembanding dan uji ulang disampaikan sebagai poin lalu dirapikan; ditandai pada bagian C |
+| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | Dimas (K2-04) | Selesai | Transkrip parsial: giliran AI001-AI005 dipulihkan dari rangkuman atas sesi yang terputus karena batas kapasitas; giliran sejak U006 aktual |
+| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | Elsa (K2-05) | Selesai | Transkrip parsial: sesi dijalankan pada asisten AI lain dan dipulihkan dari catatan percakapan; giliran tanya jawab tahap identifikasi tidak tersedia |
+| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | Cyntia (K3-03) | Selesai | Transkrip parsial: tahap simulasi awal dan uji ulang tersedia sebagai kutipan; tahap identifikasi, rencana, evaluasi, refleksi, dan konfirmasi hanya tersedia sebagai hasil rumusan |
+| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | Budi (K3-02) | Selesai | Transkrip parsial, sebagaimana sesi 3a. Sesi ini merupakan pengulangan atas percakapan pertama yang berhenti terlalu pendek |
 
 {{< include "../includes/uts-penilaian.md" >}}
 
@@ -41,11 +37,95 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 
 | Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
 |---|---:|---|---|---|---|
-| Makalah | 10% | — | — | — | Belum dinilai |
-| Sesi 1 | 18% | — | — | — | Belum dinilai |
-| Sesi 2a | 18% | — | — | — | Belum dinilai |
-| Sesi 2b | 18% | — | — | — | Belum dinilai |
-| Sesi 3a | 18% | — | — | — | Belum dinilai |
-| Sesi 3b | 18% | — | — | — | Belum dinilai |
+| Makalah | 10% | — | — | — | Belum dinilai; rubrik makalah belum ditetapkan dalam dokumen paket |
+| Sesi 1 | 18% | — | 75,0 | — | Belum dinilai; usulan AI memerlukan moderasi dosen |
+| Sesi 2a | 18% | — | 75,0 | — | Belum dinilai; usulan AI memerlukan moderasi dosen |
+| Sesi 2b | 18% | — | 70,8 | — | Belum dinilai; usulan AI memerlukan moderasi dosen |
+| Sesi 3a | 18% | — | 75,0 | — | Belum dinilai; usulan AI memerlukan moderasi dosen |
+| Sesi 3b | 18% | — | 87,5 | — | Belum dinilai; usulan AI memerlukan moderasi dosen |
 
-**Nilai akhir UTS resmi:** Belum dihitung. Isi `assessor_score` dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20.
+Ringkasan per kasus dari usulan AI: Kasus 1 sebesar 75,0; Kasus 2 sebesar 72,9
+(rata-rata sesi 2a dan 2b); Kasus 3 sebesar 81,3 (rata-rata sesi 3a dan 3b).
+Ringkasan kasus tidak dihitung sebagai komponen tambahan.
+
+**Nilai akhir UTS resmi:** Belum dihitung. Nilai makalah dan kelima nilai resmi
+dosen belum tersedia; angka pada kolom usulan AI tidak dipakai untuk menghitung
+nilai akhir. `assessor_score` diisi hanya setelah seluruh komponen resmi tersedia.
+
+## Refleksi lintas sesi
+
+### Perbandingan adaptasi pada dua sasaran Kasus 2
+
+| Aspek | Dimas (2a) | Elsa (2b) |
+|---|---|---|
+| Hambatan yang muncul | Tidak mengetahui siapa penentu pembagian, kriterianya, dan dependensi bagiannya | Beban analisis data dan rekap laporan dirasa terlalu besar dan tidak terlihat |
+| Stimulus yang menentukan | Mengaku jujur sebagai penyusun pembagian setelah klaim sendiri tidak berdasar | Mengaku sebagai penyusun pembagian disertai tawaran mengambil alih sebagian beban |
+| Yang dituntut sasaran | Dasar dan kejelasan: siapa, kriteria apa, bergantung pada siapa | Keringanan beban yang konkret, bukan penjelasan |
+| Bentuk kesepakatan | Bab 1-2, PDF, 6 halaman, 1x24 jam, format diseragamkan komunikator | Rekap laporan diambil alih; analisis data tetap pada Elsa, dikirim pukul 20.00 |
+| Respons pada uji ulang | Akses drive dibuka saat itu juga; beban format diambil alih | Membantu membersihkan format variabel saat itu juga |
+
+Pelajaran yang terbaca dari perbandingan ini: pengakuan atas kesalahan sendiri
+bekerja pada kedua sasaran, tetapi yang dituntut sesudahnya berbeda. Dimas
+menuntut **kejelasan dasar**, Elsa menuntut **keringanan beban yang nyata**.
+Menukar keduanya kemungkinan tidak akan berhasil.
+
+### Perbandingan adaptasi pada dua sasaran Kasus 3
+
+| Aspek | Cyntia (3a) | Budi (3b) |
+|---|---|---|
+| Hambatan yang muncul | Sibuk dan menolak pembahasan teoretis; khawatir sistem menyulitkan staf | Memandang perubahan sebagai ancaman; khawatir biaya dan gangguan prosedur tertib |
+| Pembukaan yang dipakai | Menawarkan penjelasan teori AI — **ditolak**, lalu diganti dengan pertanyaan | Menghargai ketertiban prosedur dan langsung bertanya, tanpa menawarkan apa pun |
+| Stimulus yang menentukan | Menyebut batas kemampuan AI sendiri dan menyerahkan hak menghentikan | Menyajikan perbandingan dua alur memakai angka Budi sendiri, disertai asumsi biaya terbuka |
+| Lingkup yang disepakati | Chatbot untuk chat berulang; pencatatan manual tidak diubah | Chatbot untuk 60% chat umum; buku harian tidak diubah |
+| Indikator | Chat manual turun 50%; waktu respons lebih cepat | Chat umum turun minimal 50%; pesanan tercecer menjadi nol |
+| Putaran uji ulang | Tiga putaran | Empat putaran |
+
+Perbedaan hasil antara kedua sesi ini paling besar di antara seluruh pasangan.
+Pada 3a pembukaan masih berupa penjelasan dan sempat ditolak; pada 3b pembukaan
+sudah berupa pertanyaan sejak kalimat pertama, dan angka yang diperoleh dari
+lawan bicara kemudian dipakai sebagai dasar perbandingan. Pergeseran itulah yang
+membedakan usulan skor 75,0 dengan 87,5.
+
+### Pola yang berulang di seluruh sesi
+
+1. **Mengakui kesalahan sendiri berfungsi lintas sasaran.** Pada 2a, 2b, dan 3a,
+   titik balik terjadi setelah komunikator mengakui dasar klaimnya tidak kuat atau
+   perannya sendiri dalam masalah yang dikeluhkan.
+2. **Menawarkan sebelum menggali selalu gagal.** Terjadi pada 2a ("dibagi sesuai
+   kemampuan" ditolak), 3a (penjelasan teori AI ditolak), dan tidak terjadi pada
+   3b, yang hasilnya paling tinggi.
+3. **Menyerahkan ukuran atau keputusan kepada lawan bicara lebih berpengaruh
+   daripada meyakinkan.** Terbukti pada sesi 1 (menanyakan ukuran versi Dimas),
+   3a (hak menghentikan), dan 3b (hak menghentikan tanpa biaya).
+4. **Menjawab kendala dengan tindakan, bukan janji.** Terbukti pada uji ulang 2a
+   dan 2b, ketika bantuan dikerjakan saat itu juga.
+
+### Keterbatasan yang berlaku untuk seluruh sesi
+
+Seluruh sesi berlangsung dalam modalitas teks, sehingga prosodi dan bahasa tubuh
+tidak dinilai. Seluruh lawan bicara adalah tokoh simulasi, sehingga perubahan
+responsnya bukan bukti perubahan pada manusia nyata. Seluruh hasil di luar sesi —
+pengiriman tugas, pelaksanaan uji coba, dan tindak lanjut pribadi — berstatus
+kesepakatan atau rencana, bukan pelaksanaan.
+
+Empat dari lima laporan memiliki transkrip parsial, dengan sebab yang dinyatakan
+pada bagian A masing-masing. Sebagian ujaran disampaikan sebagai poin inti lalu
+dirapikan menjadi kalimat utuh; isi dan keputusan berasal dari mahasiswa, dan
+giliran yang dirapikan ditandai dalam laporan.
+
+### Tindak lanjut pribadi
+
+Satu komitmen bertanggal yang berasal dari sesi 1: bertanya kepada dosen
+Matematika Diskrit pada pertemuan hari Senin, 19 Oktober 2026, termasuk ketika
+materinya sulit dipahami. Langkah pembukanya adalah jeda lima detik sebelum
+mengangkat tangan. Indikatornya: pertanyaan berhasil diajukan dan dijawab dosen.
+
+### Deklarasi penggunaan AI
+
+Seluruh laporan pada halaman ini disusun dengan bantuan AI. Peran AI mencakup:
+memerankan tokoh komunikan dalam simulasi sesuai paket, menyusun laporan `.qmd`
+dari transkrip, dan memberikan usulan skor enam dimensi. Seluruh ujaran
+komunikator, tujuan, dugaan awal, dan refleksi berasal dari mahasiswa; sebagian
+disampaikan sebagai poin inti lalu dirapikan menjadi kalimat utuh oleh AI, dan
+hal itu ditandai pada laporan yang bersangkutan. Seluruh usulan skor AI
+memerlukan moderasi dosen dan tidak dipakai sebagai nilai resmi.
