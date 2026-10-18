@@ -1,109 +1,117 @@
 ---
-title: "Lembar Kerja Bab 07"
+title: "Lembar Kerja Praktis: Panduan Detoks Fitur"
+chapter: 7
+topic: "TAIDA II – Menumbuhkan Minat"
+status: "Siap dikumpulkan"
 ---
 
 # Lembar Kerja Praktis: Panduan Detoks Fitur
+
 **Materi Pendamping Kuliah 7 (Bab 7: TAIDA II – Menumbuhkan Minat)**
 
 ---
 
-## 📌 Pendahuluan: Menembus Perangkap "Pembuangan Fitur"
-Sebagai pencipta gagasan, pembuat program, atau pengembang teknologi, kita sangat mudah jatuh cinta pada solusi yang kita bangun. Kita berasumsi bahwa kecanggihan teknis dan panjangnya daftar fitur otomatis akan membuat orang lain tertarik. Namun, buku ajar kita mengingatkan sebuah kebenaran krusial:
-> **"Orang jarang tertarik pada kecanggihan solusi sebelum melihat hubungannya dengan persoalan yang sungguh mereka alami."** (Bab 7.1)
+## Fase 1: Konteks Masalah Terkonfirmasi
 
-Kesalahan komunikasi terbesar dalam tahap penumbuhan minat (*Interest*) adalah **Pembuangan Fitur (*Feature Dumping*)**—yaitu menumpuk daftar kemampuan teknis tanpa menghubungkannya dengan masalah yang telah diakui oleh sasaran komunikasi kita (Bab 7.12). 
+**Siapa perannya?**
+Mahasiswa seangkatan yang mengambil praktikum Pemrograman Berorientasi Objek dan Pemodelan Basis Data pada semester yang sama.
 
-Lembar kerja ini dirancang untuk membantu Anda melakukan **Detoks Fitur** (Bab 7.14): membuang fitur-fitur yang tidak relevan, menyederhanakan bahasa komunikasi, dan menerjemahkan kemampuan teknis menjadi **Nilai Rihat** yang dapat dipahami secara instan oleh peran penerima yang berbeda.
+**Masalah konkret apa yang dialami?**
+Kedua praktikum dijadwalkan pada hari yang sama — PBO pukul 09.00–11.00 dan Basdat pukul 13.00–15.00 — sehingga waktu persiapan terbagi untuk dua materi sekaligus. Pada minggu yang berimpitan dengan kuis Matematika Diskrit dan tugas kecil Jaringan Komputer, waktu persiapan efektif hanya tersisa sekitar dua hari.
 
----
+**Apa dampaknya?**
+Selalu ada satu praktikum yang tidak tersiapkan, apa pun yang dipilih untuk diprioritaskan. Pada minggu tersebut saya memprioritaskan Basdat dan hasil PBO saya menurun, sementara rekan yang saya ajak bicara mengambil pilihan sebaliknya dan tetap mengalami kondisi yang sama pada sesi Basdat.
 
-## 🧠 Konsep Utama: Fitur vs. Manfaat vs. Nilai
-Sebelum memulai detoks, Anda harus mampu membedakan tiga lapisan pesan ini secara jernih (Bab 7.7.1):
-1. **Fitur (*Feature*)**: Apa yang dimiliki, dilakukan, atau kemampuan teknis dari solusi/teknologi Anda.
-2. **Manfaat (*Benefit*)**: Perubahan atau kemudahan langsung yang dimungkinkan oleh fitur tersebut.
-3. **Nilai (*Value*)**: Mengapa perubahan itu penting, bermakna, dan relevan bagi kehidupan atau peran pribadi tertentu. **Nilai selalu bersifat relasional dan berbeda untuk setiap peran.**
+**Kendala nyata apa yang harus dipertimbangkan?**
+Mahasiswa tidak memiliki kewenangan atas jadwal maupun sebaran asesmen. Waktu belajar yang tersedia bersifat tetap dan tidak dapat ditambah. Solusi juga tidak boleh menambah pekerjaan baru di tengah minggu yang sudah padat.
 
----
+### Pernyataan Masalah Pelanggan (CPS)
 
-## 🛠️ Langkah-Langkah Melakukan Detoks Fitur
+> **Mahasiswa yang mengambil praktikum PBO dan Basdat** mengalami **terbaginya waktu persiapan untuk dua materi praktikum** ketika **kedua praktikum dijadwalkan pada hari yang sama dan berimpitan dengan kuis serta tugas mata kuliah lain**, sehingga **selalu ada satu praktikum yang hanya dikuasai pada tingkat dasar**. Ia membutuhkan **cara menetapkan porsi persiapan sejak awal minggu**, dengan mempertimbangkan **tidak adanya kewenangan atas jadwal, waktu belajar yang tetap, dan keharusan agar solusi tidak menambah beban baru**.
 
-### **Fase 1: Konteks Masalah Terkonfirmasi**
-Sebelum membedah solusi, tuliskan kembali **Pernyataan Masalah Pelanggan (*Customer Problem Statement*)** yang telah Anda konfirmasikan pada Bab 5. Solusi Anda harus "menempel" secara tepat pada masalah ini (Bab 7.6).
-
-*   **Siapa perannya?** (Contoh: Ibu-ibu pengelola kantin kampus)
-*   **Masalah konkret apa yang dialami?** (Contoh: Kewalahan mencatat pesanan sekaligus menjawab pertanyaan mahasiswa tentang status makanan saat jam sibuk)
-*   **Apa dampaknya?** (Contoh: Antrean menumpuk, kasir stres, mahasiswa terlambat masuk kelas karena ketidakpastian)
-*   **Kendala nyata apa yang harus dipertimbangkan?** (Contoh: Kasir tidak paham teknologi rumit, pemilik kantin sensitif terhadap biaya tambahan)
+*Catatan: pernyataan masalah ini bukan dugaan sepihak. Pada percakapan sebelumnya, rekan yang mengalami hal serupa secara eksplisit menolak penjelasan bahwa penyebabnya adalah tingkat kesulitan materi, dan menegaskan bahwa yang menentukan adalah penempatan jadwal.*
 
 ---
 
-### **Fase 2: Matriks Analisis Detoks Fitur**
-Tuliskan semua fitur yang ada pada rancangan solusi Anda, lalu bedah menggunakan matriks di bawah ini. Jika sebuah fitur **tidak terhubung langsung** dengan masalah yang telah disepakati di atas, fitur tersebut **wajib didelegasikan ke daftar arsip (DIPANGKAS)** agar tidak membebani bahasa komunikasi Anda (Bab 7.14).
+## Fase 2: Matriks Analisis Detoks Fitur
 
-| No | Fitur Teknis | Manfaat Langsung | Nilai Relasional (Bagi Peran Tertentu) | Bukti yang Diperlukan | Keputusan (Pertahankan / Pangkas) |
+Solusi yang dirancang adalah rutinitas sederhana bernama **"Cek Senin"**: mendata beban satu minggu pada hari Senin, lalu menetapkan porsi persiapan sejak awal minggu.
+
+| No | Fitur Teknis | Manfaat Langsung | Nilai Relasional (Bagi Peran Tertentu) | Bukti yang Diperlukan | Keputusan |
 |:--:|:---|:---|:---|:---|:---|
-| *Contoh* | *Estimasi waktu tunggu dinamis pada layar antrean.* | *Pengguna mengetahui kapan pesanan mereka akan selesai dimasak.* | * **Bagi Mahasiswa:** Kepastian waktu agar bisa makan tanpa terlambat masuk kuliah.<br>* **Bagi Kasir:** Mengurangi interupsi pertanyaan berulang dari antrean mahasiswa. | *Hasil uji coba pada 5 transaksi di jam sibuk.* | **PERTAHANKAN** (Sangat menempel pada masalah antrean dan interupsi kasir). |
-| *Contoh* | *Login akun menggunakan autentikasi multi-faktor media sosial.* | *Memudahkan pengguna masuk ke sistem dengan aman.* | *Tidak memberikan nilai langsung bagi kasir kantin maupun mahasiswa yang sedang terburu-buru.* | *Belum ada bukti relevansi bagi transaksi mikro kantin.* | **PANGKAS** (Beban bahasa yang tidak relevan bagi masalah utama). |
-| **1** | | | | | |
-| **2** | | | | | |
-| **3** | | | | | |
+| **1** | Pendataan beban minggu berjalan pada hari Senin: praktikum, kuis, dan tugas. | Mengetahui minggu tersebut padat atau senggang sebelum mulai belajar. | **Bagi mahasiswa peserta kedua praktikum:** persiapan dapat dimulai dari Senin, bukan dari malam Kamis seperti pada minggu padat sebelumnya. | Perbandingan satu minggu senggang dan satu minggu padat pada semester berjalan. | **PERTAHANKAN** — menempel langsung pada sebab keterlambatan persiapan. |
+| **2** | Penetapan prioritas di hari Senin: praktikum mana yang diamankan penuh, mana yang ditargetkan lulus. | Pengorbanan menjadi keputusan yang direncanakan, bukan akibat kehabisan waktu. | **Bagi mahasiswa:** hasil yang dikorbankan tetap terkendali karena dipilih sadar, bukan karena panik. | Catatan hasil pada minggu ketika prioritas ditetapkan di awal dibanding minggu ketika tidak. | **PERTAHANKAN** — menjawab inti masalah, yaitu waktu keputusan, bukan jumlah waktu. |
+| **3** | Pemanfaatan jeda 11.00–13.00 untuk membaca cepat bagian dasar yang akan dipakai pada sesi siang; contoh soal mudah hanya jika sempat. | Masuk praktikum kedua dengan bagian dasar yang sudah dibaca. | **Bagi mahasiswa:** mengurangi kondisi tidak dapat mengikuti sesi kedua karena hanya menguasai dasar yang belum sempat dibaca ulang. | Uji coba pada satu hari praktikum berikutnya. | **PERTAHANKAN — SETELAH DIREVISI** (lihat catatan di bawah). |
+| **4** | Rangkuman materi lengkap kedua mata kuliah setiap minggu. | Catatan tersusun rapi dan dapat dibaca ulang. | Tidak memberikan nilai langsung, karena justru menambah pekerjaan pada minggu yang masalah utamanya adalah kekurangan waktu. | Belum ada bukti relevansi terhadap masalah alokasi waktu. | **PANGKAS** — beban bahasa dan beban kerja yang tidak menempel pada masalah. |
+| **5** | Jadwal belajar terperinci per jam untuk seluruh minggu. | Kegiatan belajar terstruktur. | Tidak relevan bagi mahasiswa yang bebannya berubah-ubah tiap minggu; jadwal kaku justru gugur saat ada tugas mendadak. | Belum ada bukti bahwa kegagalan disebabkan tidak adanya jadwal rinci. | **PANGKAS** — solusi generik yang tidak menjawab masalah yang disepakati. |
+
+### Catatan Revisi Fitur 3
+
+Rancangan awal fitur ini adalah **mengerjakan latihan soal setingkat praktikum** pada jeda dua jam. Rancangan tersebut gugur setelah diuji kepada rekan sasaran, yang menyatakan bahwa latihan soal setingkat praktikum menuntut penguasaan dasar yang justru belum dimiliki pada minggu padat.
+
+Fitur tidak dibuang, melainkan diganti isinya menjadi **membaca cepat bagian dasar yang akan dipakai pada sesi siang**, dengan contoh soal mudah sebagai tambahan bila waktu memungkinkan. Versi revisi ini dikonfirmasi ulang dan diterima.
+
+### Catatan Etis: Batas Solusi
+
+Rutinitas ini **tidak membuat kedua praktikum tersiapkan dengan baik** pada minggu padat. Pada minggu seperti itu, tetap akan ada satu mata kuliah yang hasilnya tidak optimal. Yang berubah hanya waktu pengambilan keputusan: dari saat waktu sudah habis menjadi di awal minggu.
+
+Batas ini saya nyatakan sendiri di dalam pitch, sebelum sasaran menanyakannya. Mengklaim rutinitas sederhana dapat menyelesaikan masalah beban akademik akan langsung terbantah oleh pengalaman sasaran sendiri, dan justru merusak kredibilitas.
 
 ---
 
-### **Fase 3: Menyusun Pitch Masalah-Solusi 60 Detik**
-Gunakan hasil detoks di atas untuk merajut **Pitch Minat** menggunakan **Komunikasi Berlapis** (Bab 7.9). Sampaikan pesan secara bertahap: mulailah dari kalimat kemungkinan yang memikat, mekanisme ringkas yang masuk akal, demonstrasi/analogi visual, lalu baru rincian teknis jika ditanyakan.
+## Fase 3: Draf Pitch Minat 60 Detik
 
-Gunakan **5 Langkah Pitch Minat** berikut (Bab 7.7.2):
-1. **Hubungkan kembali dengan masalah**: *"Kemarin Ibu menceritakan bahwa kasir sering kewalahan mencatat pesanan sekaligus meladeni pertanyaan mahasiswa..."*
-2. **Perkenalkan kemungkinan solusi**: *"Untuk membantu mengatasi hal itu, kita bisa mencoba papan antrean digital sederhana di dekat kasir..."*
-3. **Jelaskan mekanisme secara sederhana (tanpa jargon)**: *"Cara kerjanya, kasir hanya perlu memasukkan nomor pesanan ke tablet. Status pengerjaan makanan akan langsung tampil di layar TV antrean, berubah dari 'Sedang Dimasak' menjadi 'Siap Diambil'..."*
-4. **Nyatakan manfaat & nilai riil**: *"Dengan cara ini, kasir bisa fokus mencatat tanpa diganggu pertanyaan berulang, sementara mahasiswa mendapatkan kepastian waktu makan tanpa takut terlambat kelas."*
-5. **Undang tanggapan (Cek Minat)**: *"Apakah mekanisme sesederhana ini layak kita uji coba dalam skala kecil besok siang?"*
+Disusun dengan **komunikasi berlapis**: kalimat kemungkinan lebih dulu, mekanisme ringkas tanpa jargon, pernyataan batas, lalu pertanyaan terbuka. Rincian teknis sengaja tidak disampaikan kecuali ditanyakan.
 
----
+| Langkah | Bagian pitch |
+|:--|:---|
+| 1. Hubungkan kembali dengan masalah | "Jadi kemarin lu bilang kan, yang bikin jebol itu jadwalnya, bukan materinya." |
+| 2. Perkenalkan kemungkinan solusi | "Nah gw kepikiran satu cara, gw sebut 'Cek Senin'." |
+| 3. Jelaskan mekanisme sederhana | "Cara kerjanya: tiap Senin gw daftar dulu minggu ini ada beban apa aja — praktikum, kuis, tucil. Kalau minggunya senggang, dua praktikum dicicil rata dari Senin. Kalau padat kayak minggu Matdis kemarin, gw langsung tentuin hari itu juga mana yang diamanin penuh dan mana yang cukup target lulus." |
+| 4. Nyatakan manfaat, nilai, dan batas | "Jujur ini nggak bikin dua-duanya aman. Yang berubah cuma: yang dikorbanin itu dipilih hari Senin, bukan kecelakaan malam Kamis." |
+| 5. Undang tanggapan (cek minat) | "Menurut lu ini masuk akal nggak dijalanin, atau malah nambah ribet?" |
 
-## 📝 Lembar Kerja Latihan Mandiri
-
-### **Bagian 1: Pernyataan Masalah Sasaran**
-> *Tuliskan Pernyataan Masalah Pelanggan (CPS) secara presisi berdasarkan formula Bab 5:*
-> 
-> **[Pribadi/Peran]** mengalami **[Keadaan yang teramati]** ketika **[Konteks]**, sehingga **[Dampak]**. Ia membutuhkan **[Hasil/Kemampuan]**, dengan mempertimbangkan **[Kendala]**.
-> 
-> **Tulis jawaban Anda di sini:**
-> 
-> 
-> 
-
-### **Bagian 2: Matriks Detoks Fitur Anda**
-> *Gunakan tabel ini untuk memotong fitur-fitur yang hanya memuaskan ego pembuat tetapi tidak melayani kebutuhan pendengar.*
-
-| Nama Fitur | Manfaat Langsung | Nilai Relasional (Sebutkan Perannya) | Bukti yang Anda Miliki/Perlukan | Keputusan Anda (Pertahankan / Pangkas) |
-|:---|:---|:---|:---|:---|
-| **Fitur A:** | | | | |
-| **Fitur B:** | | | | |
-| **Fitur C:** | | | | |
-
-*Catatan Etis: Menyembunyikan risiko atau keterbatasan solusi demi terlihat menarik adalah pelanggaran integritas profesional. Jika solusi Anda memiliki keterbatasan (misalnya: tidak berjalan lancar tanpa jaringan internet), sampaikan hal itu secara jujur. Kejujuran terhadap batas justru meningkatkan kredibilitas Anda (Bab 7.8, 9.8).*
-
-### **Bagian 3: Draf Pitch Minat 60 Detik**
-> *Tuliskan draf lisan Anda (maksimal 120 kata) berdasarkan 5 langkah Pitch Minat Bab 7:*
-> 
-> 
-> 
-> 
-> 
+**Jumlah Kata:** 98 kata (≤ 120 ✔)
 
 ---
 
-## 📊 Rubrik Evaluasi Mandiri (*Self-Assessment*)
-Setelah menyelesaikan lembar kerja ini, ujilah draf pitch Anda bersama rekan sejawat. Mintalah mereka memberikan skor berdasarkan rubrik berikut (Bab 7.15):
+## Hasil Uji Pitch kepada Rekan Sejawat
 
-| Kriteria | Skor 1 (Awal) | Skor 2 (Berkembang) | Skor 3 (Cakap) | Skor 4 (Unggul) |
-|:---|:---|:---|:---|:---|
-| **Kecocokan (*Fit*)** | Solusi terasa generik, tidak menempel pada masalah yang telah disepakati. | Solusi mulai terhubung dengan masalah tetapi masih terlalu luas. | Solusi menempel secara spesifik pada aspek-aspek utama masalah yang diakui. | Solusi menempel sempurna pada masalah dan mampu mengintegrasikan batas kendala sasaran. |
-| **Kejelasan Mekanisme** | Menjejalkan daftar fitur teknis (terjadi *Feature Dumping*). | Cara kerja mulai dijelaskan tetapi masih didominasi jargon teknis. | Cara kerja dijelaskan secara ringkas dan mudah dibayangkan oleh pendengar awam. | Cara kerja sangat jernih, didukung analogi membumi atau prototipe yang siap dicoba. |
-| **Penerjemahan Nilai** | Manfaat/nilai dianggap sama saja bagi semua peran yang terlibat. | Mulai menyebutkan manfaat, tetapi belum membedakan nilai spesifik tiap peran. | Mampu menerjemahkan fitur menjadi nilai fungsional yang berbeda bagi tiap peran. | Nilai relasional disampaikan secara presisi dan bermakna bagi tanggung jawab spesifik sasaran. |
-| **Kejujuran & Batas** | Mengklaim solusi sempurna tanpa cela (janji berlebihan / *overpromise*). | Mengakui adanya batas kemampuan solusi tetapi hanya jika ditanya. | Menyatakan batas kemampuan dan risiko solusi secara terbuka dan realistis sejak awal. | Menunjukkan batas solusi secara ksatria serta menawarkan rencana mitigasi atau bukti pendukung. |
+Pitch diuji melalui percakapan teks dengan satu rekan seangkatan (inisial **G**) yang mengambil kedua praktikum yang sama, sehingga ia merespons sebagai pihak yang benar-benar mengalami, bukan sebagai pemeran.
+
+**Respons atas mekanisme utama:**
+
+> **G:** "Menurut gw cara lu itu cara paling realistis, karena ya dibilang mustahil kalau ngincer nilai sempurna di empat matkul itu, kita harus set prioritas. Gw setuju sama cara lu."
+
+**Respons atas Fitur 3 (rancangan awal):**
+
+> **Saya:** "Kalau jeda 2 jam antara PBO sama Basdat itu dipakai buat latihan tipe soal doang, bukan baca modul lagi — kepake nggak sih menurut lu?"
+>
+> **G:** "Hmm, menurut gw kalau lu belum belajar dasarnya dan langsung ke latsol yang tingkat kesusahannya setara praktikum, lu cooked sih. Nggak mungkin lu bisa belajar latsol kalau belum belajar dasarnya."
+
+**Adaptasi dan konfirmasi ulang:**
+
+> **Saya:** "Bener juga sih. Berarti kalau jeda 2 jam itu dipakenya bukan buat latsol, tapi buat baca cepat bagian dasar yang bakal kepake di praktikum siang — baru masuk ke contoh soal yang gampang kalau sempat. Gitu lebih masuk akal nggak?"
+>
+> **G:** "Ya menurut gw itu lebih masuk akal daripada langsung ngerjain latsol level praktikum tanpa paham dasarnya. Ketika lu belajar dasarnya dan latsol soal gampang, seenggaknya lu bisa kembangin materi yang lu pelajari saat praktikum nanti. Sukur-sukur lu dapet ilham bisa ngerjain soal praktikum dengan lu bikin cara sendiri berdasarkan dasar materi yang lu pelajari."
+
+**Pembacaan respons:** jawaban terakhir melampaui persetujuan. Rekan melanjutkan sendiri alasan mengapa mekanisme itu dapat bekerja, sampai pada konsekuensi yang tidak saya sebutkan dalam pitch. Ini menandakan minat, bukan sekadar kesopanan — sasaran mulai melengkapi nilai solusi dengan bahasanya sendiri.
 
 ---
-*Komunikasi yang berpusat pada manusia tidak menuntut Anda membawa solusi yang sempurna tanpa cela. Ia hanya meminta Anda jujur terhadap apa yang dapat dilakukan oleh solusi Anda hari ini demi membangun relasi kepercayaan yang langgeng.* (Bab 7.18)
+
+## Rubrik Evaluasi Mandiri
+
+| Kriteria | Skor | Bukti |
+|:---|:---:|:---|
+| **Kecocokan (*Fit*)** | 4 | Solusi menempel pada masalah yang sudah disepakati bersama (alokasi waktu, bukan kesulitan materi) dan mengintegrasikan kendala sasaran: tidak ada kewenangan atas jadwal, waktu belajar tetap, dan tidak boleh menambah pekerjaan baru |
+| **Kejelasan Mekanisme** | 3 | Cara kerja dijelaskan dalam tiga langkah tanpa jargon dan dapat langsung dibayangkan; namun belum ada prototipe atau format konkret yang dapat dicoba langsung oleh sasaran |
+| **Penerjemahan Nilai** | 3 | Nilai dirumuskan spesifik untuk peran mahasiswa peserta kedua praktikum, mengacu pada kondisi yang sasaran alami sendiri; nilai bagi peran lain seperti asisten praktikum belum dipetakan |
+| **Kejujuran & Batas** | 4 | Batas solusi dinyatakan sendiri di dalam pitch sebelum ditanya, dan fitur yang terbukti tidak sesuai diganti isinya alih-alih dipertahankan |
+
+**Total: 14/16**
+
+---
+
+## Batasan Pengerjaan
+
+Pengujian pitch dilakukan melalui percakapan teks, bukan simulasi lisan 60 detik, sehingga tidak tersedia isyarat nonverbal. Pembacaan minat karenanya bertumpu pada isi dan perkembangan jawaban. Solusi juga belum diuji coba pada hari praktikum sungguhan; bukti yang diperlukan untuk setiap fitur sudah dicantumkan pada matriks Fase 2 dan belum dikumpulkan.
