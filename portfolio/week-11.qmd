@@ -1,8 +1,8 @@
 ---
 title: "Multi-Person Negotiation Challenge"
 week: 11
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "19/20"
 assessor_score: "—"
 description: "Stakeholder map, interests, options, trade-offs, dan agreement."
 categories: [Negotiation, Stakeholder]
@@ -12,14 +12,120 @@ categories: [Negotiation, Stakeholder]
 
 Memfasilitasi beberapa person dengan objective, constraint, authority, dan state berbeda.
 
-## Evidence wajib
+## Konteks dan pergantian sasaran
 
-- Stakeholder person map dan multi-state TAIDA.
-- Position–interest analysis, common ground, dan options.
-- Negotiation evidence, agreement/dissent, dan relationship review.
+Minggu 6 hingga Minggu 10 menggunakan satu sasaran tunggal. Minggu 11 menuntut banyak pihak sekaligus, sehingga kasusnya berpindah ke kelompok Tugas Besar IF2040 Pemodelan Basis Data, yaitu kelompok K01-G06 dengan problem set BasdatTravel.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 11](../examples/week-11.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+Masalah yang dihadapi berlangsung nyata pada hari penyusunan laporan ini: dokumen Milestone 2 belum dikerjakan sama sekali, sementara dokumen tersebut harus diserahkan kepada asisten pada sesi asistensi keesokan harinya. Seluruh deliberasi berlangsung melalui percakapan teks pada grup kelompok dan pesan pribadi, sehingga bahasa tubuh dan nada bicara tidak dapat dinilai; pengamatan terbatas pada isi, panjang, dan kecepatan balasan.
 
-{{< include ../includes/evidence-template.md >}}
+## Stakeholder person map dan multi-state TAIDA
+
+| Pihak | Peran | Posisi | Kepentingan | Kendala dan wewenang | TAIDA awal |
+|---|---|---|---|---|---|
+| F (Faisal) | ERD A–E, implementasi basis data | "Skema relasional sudah selesai" | Pekerjaan teknis yang rampung tidak tertahan bagian lain | Implementasi bergantung pada skema final; tidak berwenang atas tim dokumen | **Action** |
+| R | Penulis Bab 3 (ERD) | "Sabar" | Bekerja dengan ritme sendiri tanpa merasa ditagih | Kebiasaan menunda yang ia akui sendiri | **Attention** |
+| O (Owen) | Penulis deskripsi sistem | Tidak menyuarakan apa pun | Kepastian bahwa keterlambatan bukan masalah pribadi | Tidak diketahui; tidak pernah menyampaikan kendala | **Target** |
+| L | Tim dokumen | Tidak menyuarakan apa pun | Kejelasan bagian mana yang menjadi tanggung jawabnya | Pembagian tugasnya belum pernah ditetapkan | **Target** |
+| Asisten praktikum | Penerima dokumen | "Dokumen diserahkan pada sesi asistensi" | Dokumen utuh dan dapat diperiksa | Terikat jadwal; tidak tahu dinamika internal kelompok | **Action** |
+| Saya | Fasilitator, perancang skema relasional | "Kerjain dokumen, besok dikumpul" | Dokumen tidak kosong tanpa mengambil alih pekerjaan orang lain | Hanya berwenang atas skema dan implementasi | **Desire** |
+
+Keadaan TAIDA dalam satu kelompok ternyata tidak seragam. Dua pihak sudah berada di Action, satu di Attention, dan dua masih di Target. Pendekatan tunggal untuk semua orang tidak mungkin bekerja pada komposisi seperti ini.
+
+## Repertoar pertama yang gagal
+
+Upaya pertama saya bukan pertanyaan, melainkan perintah.
+
+> **Saya (grup):** "woi cuy, kerjain dokumen besok dikumpul, itu skema relasionalnya udh selesai. faisal juga udh bilang diatas sudah selesai skema relasionalnya"
+>
+> **Saya (japri ke R):** "woi co, kerjain dokumen, besok dikumpul"
+>
+> **R:** "abarr"
+
+Jawaban "sabar" adalah satu-satunya jawaban yang mungkin atas sebuah perintah. Perintah hanya menyediakan dua pilihan, menyanggupi atau menunda, dan tidak menyediakan ruang untuk menjelaskan. Setelah dua pesan itu saya hanya mengetahui posisi permukaan dan belum mengetahui satu pun kepentingan.
+
+## Position–interest analysis
+
+Perubahan terjadi ketika bentuknya saya ganti dari menagih menjadi menyelidik, disertai kesediaan menanggung sebagian penyebabnya.
+
+> **Saya (grup):** "R, O, L — gw nggak mau nagih lagi, soalnya kayaknya nggak ngaruh. Gw mau nanya yang beda aja. Dokumen M2 belum kesentuh sampe sekarang. Gw curiga bukan karena nggak mau ngerjain, tapi ada yang nyangkut dan belum kebilang. Jadi gw nanya jujur: yang bikin belum mulai itu apa — nunggu diagram skema gw sama Faisal beres dulu, lagi keteteran tubes lain, atau emang belum jelas siapa ngerjain bagian mana? Kalo emang nunggu diagram gw: itu salah gw nggak ngabarin progresnya. Buat besok, menurut lu realistis nggak dokumennya kelar? Kalo nggak, mending kita bilang apa adanya ke asisten daripada ngirim yang setengah jadi."
+>
+> **R:** "iya cuy, bentar lagi gw kerjain bagian gw, sorry sorry gw nunda-nunda"
+
+Dugaan saya sendiri terbantah di sini. Saya menduga tim dokumen menunggu diagram skema selesai, padahal penyebabnya adalah penundaan yang R akui sendiri. Penelusuran dilanjutkan untuk mengetahui pembagian yang selama ini tidak saya ketahui.
+
+> **Saya (japri ke R):** "Btw co, bagian lu yang mana ya di dokumen M2? Gw nggak tau pembagian kalian bertiga soalnya."
+>
+> **R:** "bagian gw yang semua bagian 3. ENTITY-RELATIONSHIP MODELLING, terus yang bagian skema relasional belum, gw omongin lagi sih sama yang lain. owen tu yang gw tau dia ngerjain deskripsi sistem"
+
+| Pihak | Posisi di permukaan | Kepentingan di bawahnya |
+|---|---|---|
+| R | "Sabar" | Mengaku menunda tanpa kehilangan muka; butuh jaminan kejujurannya tidak dipakai menyalahkannya |
+| O dan L | Diam | Tidak menolak dan tidak keberatan; belum pernah ditanya dengan cara yang menyediakan ruang menjawab |
+
+**Temuan struktural yang paling menentukan:** bagian skema relasional pada dokumen tidak memiliki penanggung jawab sama sekali. Pembagian internal tim dokumen hanya mencakup Bab 3 dan deskripsi sistem. Apa yang semula terbaca sebagai "tim dokumen belum mengerjakan" ternyata memuat empat keadaan berbeda: satu orang menunda, satu orang punya bagian jelas tetapi tidak bersuara, satu orang belum pernah menerima pembagian, dan satu bagian dokumen tidak dimiliki siapa pun.
+
+## Melindungi suara berdaya rendah
+
+Pengakuan R tidak saya tanggapi dengan menuntut percepatan, dan dua pihak yang masih diam saya sebut namanya secara langsung.
+
+> **Saya (grup):** "Oke makasih R, jujur banget. Gw nggak masalah sama nundanya, yang gw butuh cuma tau posisinya. O, L — gw belum denger dari kalian. Bukan nagih, gw cuma mau mastiin: bagian kalian udah jelas belum, dan buat besok realistis nggak? Kalo belum sempat juga gapapa, bilang aja, biar kita yang atur ke asistennya bareng-bareng."
+>
+> **O:** "maaf cuy malam ini gw kerjain"
+>
+> **L:** "iya malam ini aku mulai kerjain juga, maaf maaf"
+
+Keduanya bergerak dalam hitungan menit, dan keduanya meminta maaf tanpa diminta. Itu menunjukkan mereka sebenarnya merasa tidak enak sejak awal, tetapi tidak memiliki saluran untuk menyatakannya. Diam mereka bukan persetujuan dan bukan pula pembangkangan, melainkan tanda belum adanya ruang aman.
+
+## Options dan trade-off
+
+| Opsi | Trade-off | Keputusan |
+|---|---|---|
+| Menambahkan bagian skema relasional ke beban R | Memperbesar risiko tidak selesai, karena ditambahkan pada pihak yang sedang menunda | Ditolak |
+| Membiarkan bagian itu kosong sampai tim dokumen membaginya sendiri | Celah kemungkinan baru ketahuan pada saat asistensi | Ditolak |
+| Saya mengisi sendiri bagian skema relasional | Menambah beban saya, dan berisiko terbaca sebagai pengambilalihan | **Dipilih**, dengan syarat ditawarkan lebih dahulu kepada L agar tidak menyerobot bagiannya |
+| Mengirim dokumen setengah jadi tanpa keterangan | Menyembunyikan keadaan sebenarnya dari asisten | Ditolak; disepakati menyampaikan status apa adanya secara kolektif |
+
+Ide orisinal yang muncul dari kasus ini: pembagian tugas tim dokumen dituliskan terbuka di grup, bukan disimpan sebagai kesepakatan lisan internal tiga orang. Celah tadi terjadi justru karena pembagian itu tidak pernah terlihat oleh seluruh kelompok, sehingga tidak ada yang dapat memeriksanya.
+
+## Agreement dan dissent
+
+| Siapa | Melakukan apa | Kapan | Ukuran selesai |
+|---|---|---|---|
+| R | Menulis Bab 3 (Entity-Relationship Modelling) | Malam ini, 10 November 2026 | Bab 3 terisi pada dokumen bersama |
+| O | Menulis deskripsi sistem | Malam ini, 10 November 2026 | Bagian deskripsi sistem terisi |
+| L | Mengerjakan bagiannya setelah pembagian diperjelas | Malam ini, 10 November 2026 | Bagian terisi, atau dinyatakan terbuka di grup bila tidak sempat |
+| Saya | Mengisi bagian skema relasional yang belum bertuan | Malam ini, 10 November 2026 | Terisi dan konsisten dengan diagram yang sudah dibuat |
+| F | Melanjutkan implementasi MariaDB/MySQL | Hingga 14 November 2026 pukul 20.40 WIB | Basis data berjalan sesuai skema, seluruh kolom `id_` bertipe INT |
+| Seluruh anggota | Menyampaikan status apa adanya kepada asisten bila belum lengkap | Sesi asistensi esok hari | Asisten menerima keterangan sebenarnya, bukan dokumen setengah jadi tanpa penjelasan |
+
+Tidak ada dissent yang dinyatakan. Namun butir R, O, dan L masih berupa komitmen yang diucapkan malam ini dan pelaksanaannya belum dapat diperiksa, serta kepastian mengenai bagian L masih menunggu jawabannya. Status itu dicantumkan terbuka dan tidak ditulis seolah telah terjadi.
+
+## Relationship review
+
+Tidak ada pihak yang dibungkam atau dipaksa; sebaliknya, dua pihak yang semula sunyi justru baru bersuara setelah diberi ruang. Tiga cara yang dipakai: menyebut nama O dan L secara langsung karena pertanyaan terbuka kepada grup cenderung tidak dijawab siapa pun; menyediakan jawaban yang aman melalui kalimat "kalo belum sempat juga gapapa"; dan menanggapi pengakuan R dengan menyatakan bahwa yang dibutuhkan hanyalah mengetahui posisinya, bukan penjelasan atau permintaan maaf.
+
+Perbandingan beban kerja antara tim teknis dan tim dokumen sama sekali tidak disinggung, karena perbandingan semacam itu adalah pemicu paling cepat bagi debat kusir. Satu-satunya tambahan beban saya ambil sendiri, dan tetap ditawarkan lebih dahulu kepada L.
+
+## Evidence, AI, dan feedback
+
+- Repertoar pertama berupa perintah terbukti hanya menghasilkan balasan satu kata; perubahan menjadi pertanyaan berpilihan menghasilkan pengakuan jujur dalam satu balasan.
+- Dugaan awal bahwa tim dokumen menunggu diagram skema terbantah oleh keterangan R, dan dugaan itu tidak dipertahankan.
+- Penggalian lanjutan membuka celah struktural yang sebelumnya tidak diketahui siapa pun, yaitu bagian dokumen tanpa penanggung jawab.
+- Dua pihak yang paling sunyi diberi ruang melalui penyebutan nama langsung dan penyediaan jawaban yang aman; keduanya bergerak dalam hitungan menit.
+- Beban tambahan tidak dialihkan kepada pihak yang sedang menunda, melainkan diambil sendiri, dan tetap ditawarkan lebih dahulu kepada pihak yang mungkin memilikinya.
+- Keterbatasan: seluruh deliberasi berlangsung dalam modalitas teks; komitmen tiga anggota belum dapat diverifikasi pada saat laporan disusun; kepastian bagian L masih menunggu jawaban; asisten praktikum dipetakan sebagai pemangku kepentingan tetapi tidak hadir dalam deliberasi, sehingga kepentingannya disusun dari perannya, bukan dari keterangannya sendiri.
+- AI digunakan untuk memetakan posisi dan kepentingan dari balasan mentah anggota kelompok, menyusun rumusan pertanyaan penggalian, dan merapikan laporan ini. AI tidak digunakan untuk membuat evidence, mengarang respons anggota, atau menyatakan pelaksanaan yang belum terjadi.
+- Next practice: menanyakan "bagian lu yang mana" pada hari pembagian tugas dibuat, bukan pada malam sebelum tenggat. Seluruh celah yang ditemukan malam ini sebenarnya dapat terlihat sejak awal apabila pembagian tim dokumen dituliskan terbuka.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Lima pihak dipetakan dengan posisi, kepentingan, kendala, wewenang, dan keadaan TAIDA yang berbeda-beda, bukan diperlakukan sebagai satu blok "tim dokumen" |
+| Objective & State | 4 | Keadaan TAIDA terbukti tidak seragam dalam satu kelompok; diagnosis awal yang menyamaratakan terbantah oleh temuan di lapangan |
+| Repertoire, Language & AI | 4 | Kegagalan repertoar perintah dikenali dan diganti dengan pertanyaan berpilihan disertai pengakuan andil sendiri; perubahan hasilnya terdokumentasi |
+| Response & Adaptation | 4 | Dugaan dependensi tidak dipertahankan; temuan celah bagian tanpa pemilik langsung diubah menjadi usulan pembagian baru |
+| Agreement, Action & Relationship | 3 | Kesepakatan tercapai dengan penanggung jawab dan ukuran selesai yang jelas, namun tiga butir masih berupa komitmen malam ini yang belum dapat diverifikasi |
+
+**Total: 19/20 — Kompeten.**
+
